@@ -1238,7 +1238,7 @@
   },
   {
     "question_number": "Q. 51",
-    "question": "Water enters a tube of diameter, $\\text{D} = 60\\text{ mm}$ with mass flow rate of $0.01\\text{ kg s}^{-1}$ as shown in the figure below. The inlet mean temperature is $\\text{T}_{m,i} = 293\\text{ K}$ and the uniform heat flux at the surface of the tube is $2000\\text{ W m}^{-2}$. For the exit mean temperature of $\\text{T}_{m,o} = 353\\text{ K}$, the length of the tube, $L$ is ________ m (*rounded off to 1 decimal place*).\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/me/p1/images/p34_Q_ 51_img_1.png)\n\nUse the specific heat of water as $4181\\text{ J kg}^{-1}\\text{ K}^{-1}$.",
+    "question": "Water enters a tube of diameter, $\\text{D} = 60\\text{ mm}$ with mass flow rate of $0.01\\text{ kg s}^{-1}$ as shown in the figure below. The inlet mean temperature is $\\text{T}_{m,i} = 293\\text{ K}$ and the uniform heat flux at the surface of the tube is $2000\\text{ W m}^{-2}$. For the exit mean temperature of $\\text{T}_{m,o} = 353\\text{ K}$, the length of the tube, $L$ is ________ m (*rounded off to 1 decimal place*).\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/me/p1/images/p34_Q_51_img_1.png)\n\nUse the specific heat of water as $4181\\text{ J kg}^{-1}\\text{ K}^{-1}$.",
     "type": "numerical",
     "choices": [],
     "marks": 2,
@@ -1254,7 +1254,7 @@
           431,
           668
         ],
-        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/me/p1/images/p34_Q_ 51_img_1.png"
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/me/p1/images/p34_Q_51_img_1.png"
       }
     ],
     "subject_name": "Mechanical Engineering",
@@ -1266,7 +1266,7 @@
   },
   {
     "question_number": "Q. 52",
-    "question": "A thermal power plant is running with no reheat or regeneration. The specific enthalpy and specific entropy of steam at the turbine inlet are $3344\\text{ kJ kg}^{-1}$ and $6.5\\text{ kJ kg}^{-1}\\text{ K}^{-1}$, respectively. The turbine isentropic efficiency is $0.9$, and the mass flow rate of steam at the turbine inlet is $102\\text{ kg s}^{-1}$. The turbine power output is ________ MW (*rounded off to 1 decimal place*).\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/me/p1/images/p34_Q_ 52_img_2.png)",
+    "question": "A thermal power plant is running with no reheat or regeneration. The specific enthalpy and specific entropy of steam at the turbine inlet are $3344\\text{ kJ kg}^{-1}$ and $6.5\\text{ kJ kg}^{-1}\\text{ K}^{-1}$, respectively. The turbine isentropic efficiency is $0.9$, and the mass flow rate of steam at the turbine inlet is $102\\text{ kg s}^{-1}$. The turbine power output is ________ MW (*rounded off to 1 decimal place*).\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/me/p1/images/p34_Q_52_img_2.png)",
     "type": "numerical",
     "choices": [],
     "marks": 2,
@@ -1282,7 +1282,7 @@
           856,
           868
         ],
-        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/me/p1/images/p34_Q_ 52_img_2.png"
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/me/p1/images/p34_Q_52_img_2.png"
       }
     ],
     "subject_name": "Mechanical Engineering",

@@ -1452,7 +1452,7 @@
   },
   {
     "question_number": "Q. 47",
-    "question": "A very large metal plate of thickness $d$ and thermal conductivity $k$ is cooled by a stream of air at temperature $T_{\\infty} = 300\\text{ K}$ with a heat transfer coefficient $h$, as shown in the figure. The centerline temperature of the plate is $T_{\\text{P}}$. In which of the following case(s) can the lumped parameter model be used to study the heat transfer in the metal plate?\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/me/p1/images/p43_Q_ 47_img_1.png)",
+    "question": "A very large metal plate of thickness $d$ and thermal conductivity $k$ is cooled by a stream of air at temperature $T_{\\infty} = 300\\text{ K}$ with a heat transfer coefficient $h$, as shown in the figure. The centerline temperature of the plate is $T_{\\text{P}}$. In which of the following case(s) can the lumped parameter model be used to study the heat transfer in the metal plate?\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/me/p1/images/p43_Q_47_img_1.png)",
     "type": "m-mcq",
     "choices": [
       "$h = 10\\text{ Wm}^{-2}\\text{K}^{-1}, k = 100\\text{ Wm}^{-1}\\text{K}^{-1}, d = 1\\text{ mm}, T_{\\text{P}} = 350\\text{ K}$",
@@ -1473,7 +1473,7 @@
           376,
           735
         ],
-        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/me/p1/images/p43_Q_ 47_img_1.png"
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/me/p1/images/p43_Q_47_img_1.png"
       }
     ],
     "subject_name": "Mechanical Engineering",
