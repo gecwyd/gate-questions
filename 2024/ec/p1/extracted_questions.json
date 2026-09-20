@@ -1,0 +1,1422 @@
+[
+  {
+    "question_number": "1",
+    "question": "If '$\\rightarrow$' denotes increasing order of intensity, then the meaning of the words\n\n[charm $\\rightarrow$ enamor $\\rightarrow$ bewitch] is analogous to [bored $\\rightarrow$ _____ $\\rightarrow$ weary].\n\nWhich one of the given options is appropriate to fill the blank?",
+    "type": "mcq",
+    "choices": [
+      "jaded",
+      "baffled",
+      "dead",
+      "worsted"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "017d31c0-ae6c-4ac0-8c67-b392b9af1a75",
+    "images": [],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "General Aptitude"
+  },
+  {
+    "question_number": "Q.2",
+    "question": "P, Q, R, S, and T have launched a new startup. Two of them are siblings. The office of the startup has just three rooms. All of them agree that the siblings should not share the same room.\n\nIf S and Q are single children, and the room allocations shown below are acceptable to all,\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ec/p1/images/p1_Q_2_img_1.png)\n\nthen, which one of the given options is the siblings?",
+    "type": "mcq",
+    "choices": [
+      "P and T",
+      "P and S",
+      "T and Q",
+      "T and R"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "017d31c0-ae6c-4ac0-8c67-b392b9af1a75",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          248,
+          236,
+          320,
+          818
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ec/p1/images/p1_Q_2_img_1.png"
+      }
+    ],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "General Aptitude"
+  },
+  {
+    "question_number": "Q.3",
+    "question": "Five years ago, the ratio of Aman’s age to his father’s age was 1:4, and five years from now, the ratio will be 2:5. What was his father’s age when Aman was born?",
+    "type": "mcq",
+    "choices": [
+      "28 years",
+      "30 years",
+      "35 years",
+      "32 years"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "017d31c0-ae6c-4ac0-8c67-b392b9af1a75",
+    "images": [],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "General Aptitude"
+  },
+  {
+    "question_number": "Q.4",
+    "question": "For a real number $x > 1$,\n\n$$\\frac{1}{\\log_2 x} + \\frac{1}{\\log_3 x} + \\frac{1}{\\log_4 x} = 1$$\n\nThe value of $x$ is",
+    "type": "mcq",
+    "choices": [
+      "4",
+      "12",
+      "24",
+      "36"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "017d31c0-ae6c-4ac0-8c67-b392b9af1a75",
+    "images": [],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "General Aptitude"
+  },
+  {
+    "question_number": "Q.5",
+    "question": "The greatest prime factor of $(3^{199} - 3^{196})$ is",
+    "type": "mcq",
+    "choices": [
+      "13",
+      "17",
+      "3",
+      "11"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "017d31c0-ae6c-4ac0-8c67-b392b9af1a75",
+    "images": [],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "General Aptitude"
+  },
+  {
+    "question_number": "Q.6",
+    "question": "Sequence the following sentences (P, Q, R, S) in a coherent passage:\n\nP: Shifu’s student exclaimed, “Why do you run since the bull is an illusion?”\nQ: Shifu said, “Surely my running away from the bull is also an illusion.”\nR: Shifu once proclaimed that all life is illusion.\nS: One day, when a bull gave him chase, Shifu began running for his life.",
+    "type": "mcq",
+    "choices": [
+      "SPRQ",
+      "SRPQ",
+      "RSPQ",
+      "RPQS"
+    ],
+    "marks": 2,
+    "negativeMarks": 0.66,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "017d31c0-ae6c-4ac0-8c67-b392b9af1a75",
+    "images": [],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "General Aptitude"
+  },
+  {
+    "question_number": "Q.7",
+    "question": "Four identical cylindrical chalk-sticks, each of radius $r = 0.5\\text{ cm}$ and length $l = 10\\text{ cm}$, are bound tightly together using a duct tape as shown in the following figure.\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ec/p1/images/p5_Q_7_img_1.png)\n\nThe width of the duct tape is equal to the length of the chalk-stick. The area (in $\\text{cm}^2$) of the duct tape required to wrap the bundle of chalk-sticks once, is",
+    "type": "mcq",
+    "choices": [
+      "$20 (4 + \\pi)$",
+      "$20 (8 + \\pi)$",
+      "$10 (8 + \\pi)$",
+      "$10 (4 + \\pi)$"
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "017d31c0-ae6c-4ac0-8c67-b392b9af1a75",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          167,
+          345,
+          390,
+          750
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ec/p1/images/p5_Q_7_img_1.png"
+      }
+    ],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "General Aptitude"
+  },
+  {
+    "question_number": "Q.8",
+    "question": "The bar chart shows the data for the percentage of population falling into different categories based on Body Mass Index (BMI) in 2003 and 2023.\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ec/p1/images/p6_Q_8_img_1.png)\n\nBased on the data provided, which one of the following options is INCORRECT?",
+    "type": "mcq",
+    "choices": [
+      "The ratio of the percentage of population falling into overweight category to the percentage of population falling into normal category has increased in 20 years.",
+      "The ratio of the percentage of population falling into underweight category to the percentage of population falling into normal category has decreased in 20 years.",
+      "The ratio of the percentage of population falling into obese category to the percentage of population falling into normal category has decreased in 20 years.",
+      "The percentage of population falling into normal category has decreased in 20 years."
+    ],
+    "marks": 2,
+    "negativeMarks": 0.66,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "017d31c0-ae6c-4ac0-8c67-b392b9af1a75",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          150,
+          205,
+          398,
+          788
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ec/p1/images/p6_Q_8_img_1.png"
+      }
+    ],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "General Aptitude"
+  },
+  {
+    "question_number": "Q.9",
+    "question": "Examples of mirror and water reflections are shown in the figures below:\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ec/p1/images/p7_Q_9_img_1.png)\n\nAn object appears as the following image after first reflecting in a mirror and then reflecting on water.\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ec/p1/images/p7_Q_9_img_2.png)\n\nThe original object is",
+    "type": "mcq",
+    "choices": [
+      "![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ec/p1/images/p7_Q_9_img_3.png)",
+      "![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ec/p1/images/p7_Q_9_img_4.png)",
+      "![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ec/p1/images/p7_Q_9_img_5.png)",
+      "![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ec/p1/images/p7_Q_9_img_6.png)"
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "017d31c0-ae6c-4ac0-8c67-b392b9af1a75",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          137,
+          225,
+          250,
+          680
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ec/p1/images/p7_Q_9_img_1.png"
+      },
+      {
+        "box_id": "img_2",
+        "box": [
+          326,
+          217,
+          372,
+          349
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ec/p1/images/p7_Q_9_img_2.png"
+      },
+      {
+        "box_id": "img_3",
+        "box": [
+          480,
+          208,
+          529,
+          340
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ec/p1/images/p7_Q_9_img_3.png"
+      },
+      {
+        "box_id": "img_4",
+        "box": [
+          563,
+          208,
+          613,
+          340
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ec/p1/images/p7_Q_9_img_4.png"
+      },
+      {
+        "box_id": "img_5",
+        "box": [
+          648,
+          208,
+          697,
+          340
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ec/p1/images/p7_Q_9_img_5.png"
+      },
+      {
+        "box_id": "img_6",
+        "box": [
+          732,
+          208,
+          781,
+          332
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ec/p1/images/p7_Q_9_img_6.png"
+      }
+    ],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "General Aptitude"
+  },
+  {
+    "question_number": "Q.10",
+    "question": "Two identical sheets A and B, of dimensions $24\\text{ cm} \\times 16\\text{ cm}$, can be folded into half using two distinct operations, FO1 or FO2.\n\nIn FO1, the axis of folding remains parallel to the initial long edge, and in FO2, the axis of folding remains parallel to the initial short edge.\n\nIf sheet A is folded twice using FO1, and sheet B is folded twice using FO2, the ratio of the perimeters of the final shapes of A and B is",
+    "type": "mcq",
+    "choices": [
+      "14:11",
+      "11:14",
+      "18:11",
+      "11:18"
+    ],
+    "marks": 2,
+    "negativeMarks": 0.66,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "017d31c0-ae6c-4ac0-8c67-b392b9af1a75",
+    "images": [],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "General Aptitude"
+  },
+  {
+    "question_number": "Q.11",
+    "question": "The general form of the complementary function of a differential equation is given by $y(t) = (At + B) e^{-2t}$, where $A$ and $B$ are real constants determined by the initial condition. The corresponding differential equation is ________.",
+    "type": "mcq",
+    "choices": [
+      "$$\\frac{d^2 y}{dt^2} + 4 \\frac{dy}{dt} + 4y = f(t)$$",
+      "$$\\frac{d^2 y}{dt^2} + 4y = f(t)$$",
+      "$$\\frac{d^2 y}{dt^2} + 3 \\frac{dy}{dt} + 2y = f(t)$$",
+      "$$\\frac{d^2 y}{dt^2} + 5 \\frac{dy}{dt} + 6y = f(t)$$"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "7e046547-1d2b-4c02-baee-1a1ec26c4a4d",
+    "images": [],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Engineering Mathematics"
+  },
+  {
+    "question_number": "Q.12",
+    "question": "In the context of Bode magnitude plots, 40 dB/decade is the same as ________.",
+    "type": "mcq",
+    "choices": [
+      "12 dB/octave",
+      "6 dB/octave",
+      "20 dB/octave",
+      "10 dB/octave"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "23437e5f-6826-421a-863e-bda0dc97211d",
+    "images": [],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Control Systems"
+  },
+  {
+    "question_number": "Q.13",
+    "question": "In the feedback control system shown in the figure below $G(s) = \\frac{6}{s(s+1)(s+2)}$.\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ec/p1/images/p10_Q_13_img_1.png)\n\n$R(s), Y(s)$, and $E(s)$ are the Laplace transforms of $r(t), y(t)$, and $e(t)$, respectively.\nIf the input $r(t)$ is a unit step function, then __________.",
+    "type": "mcq",
+    "choices": [
+      "$\\lim_{t \\to \\infty} e(t) = 0$",
+      "$\\lim_{t \\to \\infty} e(t) = \\frac{1}{3}$",
+      "$\\lim_{t \\to \\infty} e(t) = \\frac{1}{4}$",
+      "$\\lim_{t \\to \\infty} e(t)$ does not exist, $e(t)$ is oscillatory"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "23437e5f-6826-421a-863e-bda0dc97211d",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          138,
+          248,
+          236,
+          756
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ec/p1/images/p10_Q_13_img_1.png"
+      }
+    ],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Control Systems"
+  },
+  {
+    "question_number": "14",
+    "question": "A digital communication system transmits through a noiseless bandlimited channel $[-W\\ W]$. The received signal $z(t)$ at the output of the receiving filter is given by $z(t) = \\sum_{n} b[n]x(t-nT)$ where $b[n]$ are the symbols and $x(t)$ is the overall system response to a single symbol. The received signal is sampled at $t = mT$. The Fourier transform of $x(t)$ is $X(f)$. The Nyquist condition that $X(f)$ must satisfy for zero intersymbol interference at the receiver is ______.",
+    "type": "mcq",
+    "choices": [
+      "$\\sum_{m=-\\infty}^{\\infty} X\\left(f + \\frac{m}{T}\\right) = T$",
+      "$\\sum_{m=-\\infty}^{\\infty} X\\left(f + \\frac{m}{T}\\right) = \\frac{1}{T}$",
+      "$\\sum_{m=-\\infty}^{\\infty} X(f + mT) = T$",
+      "$\\sum_{m=-\\infty}^{\\infty} X(f + mT) = \\frac{1}{T}$"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "82278307-a0a9-4dc0-8af8-4583d3e3b122",
+    "images": [],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Communication Systems"
+  },
+  {
+    "question_number": "Q.15",
+    "question": "Consider a lossless transmission line terminated with a short circuit as shown in the figure below. As one moves towards the generator from the load, the normalized impedances $z_{inA}$, $z_{inB}$, $z_{inC}$, and $z_{inD}$ (indicated in the figure) are __________.\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ec/p1/images/p12_Q_15_img_1.png)",
+    "type": "mcq",
+    "choices": [
+      "$z_{inA} = +1j\\ \\Omega,\\ z_{inB} = \\infty,\\ z_{inC} = -1j\\ \\Omega,\\ z_{inD} = 0$",
+      "$z_{inA} = \\infty,\\ z_{inB} = +0.4j\\ \\Omega,\\ z_{inC} = 0,\\ z_{inD} = +0.4j\\ \\Omega$",
+      "$z_{inA} = -1j\\ \\Omega,\\ z_{inB} = 0,\\ z_{inC} = +1j\\ \\Omega,\\ z_{inD} = \\infty$",
+      "$z_{inA} = +0.4j\\ \\Omega,\\ z_{inB} = \\infty,\\ z_{inC} = -0.4j\\ \\Omega,\\ z_{inD} = 0$"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "f42d0e75-4d38-435b-89a0-84786bbf161d",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          173,
+          214,
+          372,
+          810
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ec/p1/images/p12_Q_15_img_1.png"
+      }
+    ],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Electromagnetics"
+  },
+  {
+    "question_number": "16",
+    "question": "Let $\\hat{i}$ and $\\hat{j}$ be the unit vectors along $x$ and $y$ axes, respectively and let $A$ be a positive constant. Which one of the following statements is true for the vector fields $\\overline{F}_1 = A(\\hat{i}y + \\hat{j}x)$ and $\\overline{F}_2 = A(\\hat{i}y - \\hat{j}x)$?",
+    "type": "mcq",
+    "choices": [
+      "Both $\\overline{F}_1$ and $\\overline{F}_2$ are electrostatic fields.",
+      "Only $\\overline{F}_1$ is an electrostatic field.",
+      "Only $\\overline{F}_2$ is an electrostatic field.",
+      "Neither $\\overline{F}_1$ nor $\\overline{F}_2$ is an electrostatic field."
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "f42d0e75-4d38-435b-89a0-84786bbf161d",
+    "images": [],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Electromagnetics"
+  },
+  {
+    "question_number": "Q.17",
+    "question": "In the circuit below, assume that the long channel NMOS transistor is biased in saturation. The small signal trans-conductance of the transistor is $g_m$. Neglect body effect, channel length modulation and intrinsic device capacitances. The small signal input impedance $Z_{in}(j\\omega)$ is ________.\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ec/p1/images/p14_Q_17_img_1.png)",
+    "type": "mcq",
+    "choices": [
+      "$\\frac{-g_m}{C_1 C_L \\omega^2} + \\frac{1}{j\\omega C_1} + \\frac{1}{j\\omega C_L}$",
+      "$\\frac{g_m}{C_1 C_L \\omega^2} + \\frac{1}{j\\omega C_1} + \\frac{1}{j\\omega C_L}$",
+      "$\\frac{1}{j\\omega C_1} + \\frac{1}{j\\omega C_L}$",
+      "$\\frac{-g_m}{C_1 C_L \\omega^2} + \\frac{1}{j\\omega C_1 + j\\omega C_L}$"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "416e35ac-9e65-496a-a597-089d4926e5a5",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          231,
+          375,
+          430,
+          690
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ec/p1/images/p14_Q_17_img_1.png"
+      }
+    ],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Analog Circuits"
+  },
+  {
+    "question_number": "Q.18",
+    "question": "For the closed loop amplifier circuit shown below, the magnitude of open loop low frequency small signal voltage gain is 40. All the transistors are biased in saturation. The current source $I_{SS}$ is ideal. Neglect body effect, channel length modulation and intrinsic device capacitances. The closed loop low frequency small signal voltage gain $\\frac{v_{out}}{v_{in}}$ (rounded off to three decimal places) is ____.\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ec/p1/images/p15_Q_18_img_1.png)",
+    "type": "mcq",
+    "choices": [
+      "0.976",
+      "1.000",
+      "1.025",
+      "0.488"
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "416e35ac-9e65-496a-a597-089d4926e5a5",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          224,
+          380,
+          542,
+          692
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ec/p1/images/p15_Q_18_img_1.png"
+      }
+    ],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Analog Circuits"
+  },
+  {
+    "question_number": "Q.19",
+    "question": "For the Boolean function\n$$F(A, B, C, D) = \\sum m(0,2,5,7,8,10,12,13,14,15),$$\nthe essential prime implicants are ________.",
+    "type": "mcq",
+    "choices": [
+      "$BD, \\bar{B}\\bar{D}$",
+      "$BD, AB$",
+      "$AB, \\bar{B}\\bar{D}$",
+      "$BD, \\bar{B}\\bar{D}, AB$"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "1745ade9-d57e-405a-93ab-3a54a7f92d7d",
+    "images": [],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Digital Circuits"
+  },
+  {
+    "question_number": "Q.20",
+    "question": "A white Gaussian noise $w(t)$ with zero mean and power spectral density $\\frac{N_0}{2}$, when applied to a first-order RC low pass filter produces an output $n(t)$. At a particular time $t = t_k$, the variance of the random variable $n(t_k)$ is ________.",
+    "type": "mcq",
+    "choices": [
+      "$\\frac{N_0}{4RC}$",
+      "$\\frac{N_0}{2RC}$",
+      "$\\frac{N_0}{RC}$",
+      "$\\frac{2N_0}{RC}$"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "82278307-a0a9-4dc0-8af8-4583d3e3b122",
+    "images": [],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Communication Systems"
+  },
+  {
+    "question_number": "Q.21",
+    "question": "A causal and stable LTI system with impulse response $h(t)$ produces an output $y(t)$ for an input signal $x(t)$. A signal $x(0.5t)$ is applied to another causal and stable LTI system with impulse response $h(0.5t)$. The resulting output is ______.",
+    "type": "mcq",
+    "choices": [
+      "$2y(0.5t)$",
+      "$4y(0.5t)$",
+      "$2y(2t)$",
+      "$2y(0.25t)$"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "d0658078-810f-40f5-ab9f-a27359959aaf",
+    "images": [],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Signals and Systems"
+  },
+  {
+    "question_number": "Q.22",
+    "question": "For non-degenerately doped n-type silicon, which one of the following plots represents the temperature ($T$) dependence of free electron concentration ($n$)?",
+    "type": "mcq",
+    "choices": [
+      "![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ec/p1/images/p18_Q_22_img_a.png)",
+      "![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ec/p1/images/p18_Q_22_img_b.png)",
+      "![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ec/p1/images/p18_Q_22_img_c.png)",
+      "![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ec/p1/images/p18_Q_22_img_d.png)"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "b39b6692-807e-4025-89af-9e2b2fbbc087",
+    "images": [
+      {
+        "box_id": "img_a",
+        "box": [
+          208,
+          200,
+          342,
+          544
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ec/p1/images/p18_Q_22_img_a.png"
+      },
+      {
+        "box_id": "img_b",
+        "box": [
+          370,
+          200,
+          508,
+          544
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ec/p1/images/p18_Q_22_img_b.png"
+      },
+      {
+        "box_id": "img_c",
+        "box": [
+          535,
+          200,
+          672,
+          544
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ec/p1/images/p18_Q_22_img_c.png"
+      },
+      {
+        "box_id": "img_d",
+        "box": [
+          700,
+          200,
+          836,
+          544
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ec/p1/images/p18_Q_22_img_d.png"
+      }
+    ],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Electronic Devices"
+  },
+  {
+    "question_number": "Q.23",
+    "question": "In the circuit shown, the $n:1$ step-down transformer and the diodes are ideal. The diodes have no voltage drop in forward biased condition. If the input voltage (in Volts) is $V_s(t) = 10\\sin\\omega t$ and the average value of load voltage $V_L(t)$ (in Volts) is $2.5/\\pi$, the value of $n$ is ______.\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ec/p1/images/p19_Q_23_img_1.png)",
+    "type": "mcq",
+    "choices": [
+      "4",
+      "8",
+      "12",
+      "16"
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "416e35ac-9e65-496a-a597-089d4926e5a5",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          204,
+          312,
+          415,
+          768
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ec/p1/images/p19_Q_23_img_1.png"
+      }
+    ],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Analog Circuits"
+  },
+  {
+    "question_number": "Q.24",
+    "question": "For a causal discrete-time LTI system with transfer function\n\n$$H(z) = \\frac{2z^2+3}{\\left(z+\\frac{1}{3}\\right)\\left(z-\\frac{1}{3}\\right)}$$\n\nwhich of the following statements is/are true?",
+    "type": "m-mcq",
+    "choices": [
+      "The system is stable.",
+      "The system is a minimum phase system.",
+      "The initial value of the impulse response is 2.",
+      "The final value of the impulse response is 0."
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "d0658078-810f-40f5-ab9f-a27359959aaf",
+    "images": [],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Signals and Systems"
+  },
+  {
+    "question_number": "Q.25",
+    "question": "Let $\\rho(x, y, z, t)$ and $u(x, y, z, t)$ represent density and velocity, respectively, at a point $(x, y, z)$ and time $t$. Assume $\\frac{\\partial \\rho}{\\partial t}$ is continuous. Let $V$ be an arbitrary volume in space enclosed by the closed surface $S$ and $\\hat{n}$ be the outward unit normal of $S$.\nWhich of the following equations is/are equivalent to $\\frac{\\partial \\rho}{\\partial t} + \\nabla \\cdot (\\rho u) = 0$?",
+    "type": "m-mcq",
+    "choices": [
+      "$\\int_V \\frac{\\partial \\rho}{\\partial t} dv = - \\iint_S \\rho u \\cdot \\hat{n} ds$",
+      "$\\int_V \\frac{\\partial \\rho}{\\partial t} dv = \\iint_S \\rho u \\cdot \\hat{n} ds$",
+      "$\\int_V \\frac{\\partial \\rho}{\\partial t} dv = - \\int_V \\nabla \\cdot (\\rho u) dv$",
+      "$\\int_V \\frac{\\partial \\rho}{\\partial t} dv = \\int_V \\nabla \\cdot (\\rho u) dv$"
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "7e046547-1d2b-4c02-baee-1a1ec26c4a4d",
+    "images": [],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Engineering Mathematics"
+  },
+  {
+    "question_number": "Q.26",
+    "question": "The free electron concentration profile $n(x)$ in a doped semiconductor at equilibrium is shown in the figure, where the points A, B, and C mark three different positions. Which of the following statements is/are true?\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ec/p1/images/p22_Q_26_img_q26.png)",
+    "type": "m-mcq",
+    "choices": [
+      "For $x$ between B and C, the electron diffusion current is directed from C to B.",
+      "For $x$ between B and A, the electron drift current is directed from B to A.",
+      "For $x$ between B and C, the electric field is directed from B to C.",
+      "For $x$ between B and A, the electric field is directed from A to B."
+    ],
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "b39b6692-807e-4025-89af-9e2b2fbbc087",
+    "images": [
+      {
+        "box_id": "img_q26",
+        "box": [
+          181,
+          331,
+          313,
+          755
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ec/p1/images/p22_Q_26_img_q26.png"
+      }
+    ],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Electronic Devices"
+  },
+  {
+    "question_number": "Q.27",
+    "question": "A machine has a 32-bit architecture with 1-word long instructions. It has 24 registers and supports an instruction set of size 40. Each instruction has five distinct fields, namely opcode, two source register identifiers, one destination register identifier, and an immediate value. Assuming that the immediate operand is an unsigned integer, its maximum value is ________.",
+    "type": "numerical",
+    "choices": [],
+    "subject": "0bf8ab6b-eb4c-493a-922b-c8589faa6344",
+    "topic": "381fea67-1ed3-4fb9-adf8-1544d86d94f0",
+    "images": [],
+    "subject_name": "Computer Science And Engineering",
+    "topic_name": "Computer Organization & Architecture (COA)"
+  },
+  {
+    "question_number": "Q.28",
+    "question": "An amplitude modulator has output (in Volts)\n\n$$s(t) = A \\cos(400\\pi t) + B \\cos(360\\pi t) + B \\cos(440\\pi t) .$$\n\nThe carrier power normalized to $1\\,\\Omega$ resistance is 50 Watts. The ratio of the total sideband power to the total power is 1/9. The value of $B$ (in Volts, *rounded off to two decimal places*) is ______ .",
+    "type": "numerical",
+    "choices": [],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "82278307-a0a9-4dc0-8af8-4583d3e3b122",
+    "images": [],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Communication Systems"
+  },
+  {
+    "question_number": "Q.29",
+    "question": "In a number system of base $r$, the equation $x^2 - 12x + 37 = 0$ has $x = 8$ as one of its solutions. The value of $r$ is ______ .",
+    "type": "numerical",
+    "choices": [],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "1745ade9-d57e-405a-93ab-3a54a7f92d7d",
+    "images": [],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Digital Circuits"
+  },
+  {
+    "question_number": "Q.30",
+    "question": "Let $\\mathbb{R}$ and $\\mathbb{R}^3$ denote the set of real numbers and the three dimensional vector space over it, respectively. The value of $\\alpha$ for which the set of vectors\n\n$$\\{[2 \\quad -3 \\quad \\alpha], \\quad [3 \\quad -1 \\quad 3], \\quad [1 \\quad -5 \\quad 7]\\}$$\n\ndoes not form a basis of $\\mathbb{R}^3$ is ______ .",
+    "type": "numerical",
+    "choices": [],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "7e046547-1d2b-4c02-baee-1a1ec26c4a4d",
+    "images": [],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Engineering Mathematics"
+  },
+  {
+    "question_number": "Q.31",
+    "question": "In the given circuit, the current $\\text{I}_\\text{x}$ (in mA) is ______.\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ec/p1/images/p24_Q_31_img_q31.png)",
+    "type": "numerical",
+    "choices": [],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "82e617a8-9cf2-4dbb-aeb3-8820327b46b5",
+    "images": [
+      {
+        "box_id": "img_q31",
+        "box": [
+          140,
+          232,
+          307,
+          782
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ec/p1/images/p24_Q_31_img_q31.png"
+      }
+    ],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Network Theory"
+  },
+  {
+    "question_number": "Q.32",
+    "question": "In the circuit given below, the switch S was kept open for a sufficiently long time and is closed at time $t = 0$. The time constant (in seconds) of the circuit for $t > 0$ is ______.\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ec/p1/images/p24_Q_32_img_q32.png)",
+    "type": "numerical",
+    "choices": [],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "82e617a8-9cf2-4dbb-aeb3-8820327b46b5",
+    "images": [
+      {
+        "box_id": "img_q32",
+        "box": [
+          494,
+          245,
+          618,
+          735
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ec/p1/images/p24_Q_32_img_q32.png"
+      }
+    ],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Network Theory"
+  },
+  {
+    "question_number": "Q.33",
+    "question": "Suppose $X$ and $Y$ are independent and identically distributed random variables that are distributed uniformly in the interval $[0,1]$. The probability that $X \\ge Y$ is ______.",
+    "type": "numerical",
+    "choices": [],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "7e046547-1d2b-4c02-baee-1a1ec26c4a4d",
+    "images": [],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Engineering Mathematics"
+  },
+  {
+    "question_number": "Q.34",
+    "question": "A source transmits symbols from an alphabet of size 16. The value of maximum achievable entropy (in bits) is ________.",
+    "type": "numerical",
+    "choices": [],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "82278307-a0a9-4dc0-8af8-4583d3e3b122",
+    "images": [],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Communication Systems"
+  },
+  {
+    "question_number": "Q.35",
+    "question": "As shown in the circuit, the initial voltage across the capacitor is $10\\text{ V}$, with the switch being open. The switch is then closed at $t = 0$. The total energy dissipated in the ideal Zener diode ($V_Z = 5\\text{ V}$) after the switch is closed (in mJ, *rounded off to three decimal places*) is ________.\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ec/p1/images/p25_Q_35_img_1.png)",
+    "type": "numerical",
+    "choices": [],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "416e35ac-9e65-496a-a597-089d4926e5a5",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          308,
+          260,
+          488,
+          806
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ec/p1/images/p25_Q_35_img_1.png"
+      }
+    ],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Analog Circuits"
+  },
+  {
+    "question_number": "Q.36",
+    "question": "Consider the Earth to be a perfect sphere of radius $R$. Then the surface area of the region, enclosed by the $60^\\circ\\text{N}$ latitude circle, that contains the north pole in its interior is _______.",
+    "type": "mcq",
+    "choices": [
+      "$(2-\\sqrt{3})\\pi R^2$",
+      "$\\frac{(\\sqrt{2}-1)\\pi R^2}{2}$",
+      "$\\frac{2\\pi R^2}{3}$",
+      "$\\frac{(2+\\sqrt{3})\\pi R^2}{8\\sqrt{2}}$"
+    ],
+    "marks": 2,
+    "negativeMarks": 0.67,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "7e046547-1d2b-4c02-baee-1a1ec26c4a4d",
+    "images": [],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Engineering Mathematics"
+  },
+  {
+    "question_number": "Q.37",
+    "question": "Consider a unity negative feedback control system with forward path gain $G(s) = \\frac{K}{(s+1)(s+2)(s+3)}$ as shown.\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ec/p1/images/p27_Q_37_img_1.png)\n\nThe impulse response of the closed-loop system decays faster than $e^{-t}$ if ____________.",
+    "type": "mcq",
+    "choices": [
+      "$1 \\le K \\le 5$",
+      "$7 \\le K \\le 21$",
+      "$-4 \\le K \\le -1$",
+      "$-24 \\le K \\le -6$"
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "23437e5f-6826-421a-863e-bda0dc97211d",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          222,
+          205,
+          345,
+          802
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ec/p1/images/p27_Q_37_img_1.png"
+      }
+    ],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Control Systems"
+  },
+  {
+    "question_number": "Q.38",
+    "question": "A satellite attitude control system, as shown below, has a plant with transfer function $G(s) = \\frac{1}{s^2}$ cascaded with a compensator $C(s) = \\frac{K(s + \\alpha)}{s + 4}$, where $K$ and $\\alpha$ are positive real constants.\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ec/p1/images/p28_Q_38_img_1.png)\n\nIn order for the closed-loop system to have poles at $-1 \\pm j\\sqrt{3}$, the value of $\\alpha$ must be ________.",
+    "type": "mcq",
+    "choices": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "marks": 2,
+    "negativeMarks": 0.67,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "23437e5f-6826-421a-863e-bda0dc97211d",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          185,
+          205,
+          292,
+          818
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ec/p1/images/p28_Q_38_img_1.png"
+      }
+    ],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Control Systems"
+  },
+  {
+    "question_number": "Q.39",
+    "question": "A uniform plane wave with electric field $\\overline{E}(x) = A_y \\hat{a}_y e^{-j \\frac{2\\pi x}{3}}$ V/m is travelling in the air (relative permittivity, $\\varepsilon_r = 1$ and relative permeability, $\\mu_r = 1$) in the $+x$ direction ($A_y$ is a positive constant, $\\hat{a}_y$ is the unit vector along the $y$ axis). It is incident normally on an ideal electric conductor (conductivity, $\\sigma = \\infty$) at $x = 0$. The position of the first null of the total magnetic field in the air (measured from $x = 0$, in metres) is ________.",
+    "type": "mcq",
+    "choices": [
+      "$-\\frac{3}{4}$",
+      "$-\\frac{3}{2}$",
+      "$-6$",
+      "$-3$"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "f42d0e75-4d38-435b-89a0-84786bbf161d",
+    "images": [],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Electromagnetics"
+  },
+  {
+    "question_number": "Q.40",
+    "question": "A 4-bit priority encoder has inputs $D_3, D_2, D_1$, and $D_0$ in descending order of priority. The two-bit output $AB$ is generated as $00, 01, 10$, and $11$ corresponding to inputs $D_3, D_2, D_1$, and $D_0$, respectively. The Boolean expression of the output bit $B$ is ________.",
+    "type": "mcq",
+    "choices": [
+      "$\\overline{D}_3 \\overline{D}_2$",
+      "$\\overline{D}_3 D_2 + \\overline{D}_3 \\overline{D}_1$",
+      "$D_3 \\overline{D}_2 + \\overline{D}_3 D_1$",
+      "$\\overline{D}_3 \\overline{D}_1$"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "1745ade9-d57e-405a-93ab-3a54a7f92d7d",
+    "images": [],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Digital Circuits"
+  },
+  {
+    "question_number": "Q.41",
+    "question": "The propagation delay of the $2 \\times 1$ MUX shown in the circuit is $10\\text{ ns}$. Consider the propagation delay of the inverter as $0\\text{ ns}$.\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ec/p1/images/p30_Q_41_img_1.png)\n\nIf S is set to 1 then the output Y is __________.",
+    "type": "mcq",
+    "choices": [
+      "a square wave of frequency $100\\text{ MHz}$",
+      "a square wave of frequency $50\\text{ MHz}$",
+      "constant at 0",
+      "constant at 1"
+    ],
+    "marks": 2,
+    "negativeMarks": 0.66,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "1745ade9-d57e-405a-93ab-3a54a7f92d7d",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          147,
+          408,
+          330,
+          655
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ec/p1/images/p30_Q_41_img_1.png"
+      }
+    ],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Digital Circuits"
+  },
+  {
+    "question_number": "42",
+    "question": "The sequence of states ($Q_1Q_0$) of the given synchronous sequential circuit is ____________.\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ec/p1/images/p31_42_img_1.png)",
+    "type": "mcq",
+    "choices": [
+      "$00 \\rightarrow 10 \\rightarrow 11 \\rightarrow 00$",
+      "$11 \\rightarrow 00 \\rightarrow 10 \\rightarrow 01 \\rightarrow 00$",
+      "$01 \\rightarrow 10 \\rightarrow 11 \\rightarrow 00 \\rightarrow 01$",
+      "$00 \\rightarrow 01 \\rightarrow 10 \\rightarrow 00$"
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "1745ade9-d57e-405a-93ab-3a54a7f92d7d",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          163,
+          241,
+          378,
+          804
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ec/p1/images/p31_42_img_1.png"
+      }
+    ],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Digital Circuits"
+  },
+  {
+    "question_number": "Q.43",
+    "question": "Let $z$ be a complex variable. If $f(z) = \\frac{\\sin(\\pi z)}{z^2(z-2)}$ and $C$ is the circle in the complex plane with $|z|=3$ then $\\oint_C f(z)dz$ is ________.",
+    "type": "mcq",
+    "choices": [
+      "$\\pi^2 j$",
+      "$j\\pi\\left(\\frac{1}{2} - \\pi\\right)$",
+      "$j\\pi\\left(\\frac{1}{2} + \\pi\\right)$",
+      "$-\\pi^2 j$"
+    ],
+    "marks": 2,
+    "negativeMarks": 0.67,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "7e046547-1d2b-4c02-baee-1a1ec26c4a4d",
+    "images": [],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Engineering Mathematics"
+  },
+  {
+    "question_number": "Q.44",
+    "question": "Consider two continuous time signals $x(t)$ and $y(t)$ as shown below\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ec/p1/images/p33_Q_44_img_1.png)\n\nIf $X(f)$ denotes the Fourier transform of $x(t)$, then the Fourier transform of $y(t)$ is ________.",
+    "type": "mcq",
+    "choices": [
+      "$-4X(4f)e^{-j\\pi f}$",
+      "$-4X(4f)e^{-j4\\pi f}$",
+      "$-\\frac{1}{4}X(f/4)e^{-j\\pi f}$",
+      "$-\\frac{1}{4}X(f/4)e^{-j4\\pi f}$"
+    ],
+    "marks": 2,
+    "negativeMarks": 0.67,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "d0658078-810f-40f5-ab9f-a27359959aaf",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          126,
+          223,
+          281,
+          809
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ec/p1/images/p33_Q_44_img_1.png"
+      }
+    ],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Signals and Systems"
+  },
+  {
+    "question_number": "Q.45",
+    "question": "A source transmits a symbol $s$, taken from $\\{-4, 0, 4\\}$ with equal probability, over an additive white Gaussian noise channel. The received noisy symbol $r$ is given by $r = s + w$, where the noise $w$ is zero mean with variance 4 and is independent of $s$.\n\nUsing $Q(x) = \\frac{1}{\\sqrt{2\\pi}} \\int_x^\\infty e^{-\\frac{t^2}{2}} dt$, the optimum symbol error probability is _______.",
+    "type": "mcq",
+    "choices": [
+      "\\frac{2}{3}Q(2)",
+      "\\frac{4}{3}Q(1)",
+      "\\frac{2}{3}Q(1)",
+      "\\frac{4}{3}Q(2)"
+    ],
+    "marks": 2,
+    "negativeMarks": 0.67,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "82278307-a0a9-4dc0-8af8-4583d3e3b122",
+    "images": [],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Communication Systems"
+  },
+  {
+    "question_number": "Q.46",
+    "question": "A full scale sinusoidal signal is applied to a 10-bit ADC. The fundamental signal component in the ADC output has a normalized power of 1 W, and the total noise and distortion normalized power is $10\\text{ }\\mu\\text{W}$. The effective number of bits (*rounded off to the nearest integer*) of the ADC is _______.",
+    "type": "mcq",
+    "choices": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "marks": 2,
+    "negativeMarks": 0.67,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "1745ade9-d57e-405a-93ab-3a54a7f92d7d",
+    "images": [],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Digital Circuits"
+  },
+  {
+    "question_number": "Q.47",
+    "question": "The information bit sequence $\\{1\\ 1\\ 1\\ 0\\ 1\\ 0\\ 1\\ 0\\ 1\\}$ is to be transmitted by encoding with Cyclic Redundancy Check 4 (CRC-4) code, for which the generator polynomial is $C(x) = x^4 + x + 1$. The encoded sequence of bits is ____________.",
+    "type": "mcq",
+    "choices": [
+      "$\\{1\\ 1\\ 1\\ 0\\ 1\\ 0\\ 1\\ 0\\ 1\\ 1\\ 1\\ 0\\ 0\\}$",
+      "$\\{1\\ 1\\ 1\\ 0\\ 1\\ 0\\ 1\\ 0\\ 1\\ 1\\ 1\\ 0\\ 1\\}$",
+      "$\\{1\\ 1\\ 1\\ 0\\ 1\\ 0\\ 1\\ 0\\ 1\\ 1\\ 1\\ 1\\ 0\\}$",
+      "$\\{1\\ 1\\ 1\\ 0\\ 1\\ 0\\ 1\\ 0\\ 1\\ 0\\ 1\\ 0\\ 0\\}$"
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "82278307-a0a9-4dc0-8af8-4583d3e3b122",
+    "images": [],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Communication Systems"
+  },
+  {
+    "question_number": "Q.48",
+    "question": "A continuous time signal $x(t) = 2 \\cos(8\\pi t + \\pi/3)$ is sampled at a rate of 15 Hz. The sampled signal $x_s(t)$ when passed through an LTI system with impulse response\n$$h(t) = \\left( \\frac{\\sin 2\\pi t}{\\pi t} \\right) \\cos(38\\pi t - \\pi/2)$$\nproduces an output $x_o(t)$. The expression for $x_o(t)$ is ____________.",
+    "type": "mcq",
+    "choices": [
+      "$15 \\sin(38\\pi t + \\pi/3)$",
+      "$15 \\sin(38\\pi t - \\pi/3)$",
+      "$15 \\cos(38\\pi t - \\pi/6)$",
+      "$15 \\cos(38\\pi t + \\pi/6)$"
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "d0658078-810f-40f5-ab9f-a27359959aaf",
+    "images": [],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Signals and Systems"
+  },
+  {
+    "question_number": "Q.49",
+    "question": "The opamps in the circuit shown are ideal, but have saturation voltages of $\\pm 10\\text{ V}$.\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ec/p1/images/p36_Q_49_img_1.png)\n\nAssume that the initial inductor current is $0\\text{ A}$. The input voltage ($V_i$) is a triangular signal with peak voltages of $\\pm 2\\text{ V}$ and time period of $8\\text{ }\\mu\\text{s}$. Which one of the following statements is true?",
+    "type": "mcq",
+    "choices": [
+      "$V_{01}$ is delayed by $2\\text{ }\\mu\\text{s}$ relative to $V_i$, and $V_{02}$ is a triangular waveform.",
+      "$V_{01}$ is not delayed relative to $V_i$, and $V_{02}$ is a trapezoidal waveform.",
+      "$V_{01}$ is not delayed relative to $V_i$, and $V_{02}$ is a triangular waveform.",
+      "$V_{01}$ is delayed by $1\\text{ }\\mu\\text{s}$ relative to $V_i$, and $V_{02}$ is a trapezoidal waveform."
+    ],
+    "marks": 2,
+    "negativeMarks": 0.67,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "416e35ac-9e65-496a-a597-089d4926e5a5",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          135,
+          250,
+          335,
+          820
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ec/p1/images/p36_Q_49_img_1.png"
+      }
+    ],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Analog Circuits"
+  },
+  {
+    "question_number": "Q.50",
+    "question": "In the circuit below, the opamp is ideal.\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ec/p1/images/p37_Q_50_img_1.png)\n\nIf the circuit is to show sustained oscillations, the respective values of $R_1$ and the corresponding frequency of oscillation are ______.",
+    "type": "mcq",
+    "choices": [
+      "$29R$ and $1/(2\\pi\\sqrt{6}RC)$",
+      "$2R$ and $1/(2\\pi RC)$",
+      "$29R$ and $1/(2\\pi RC)$",
+      "$2R$ and $1/(2\\pi\\sqrt{6}RC)$"
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "416e35ac-9e65-496a-a597-089d4926e5a5",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          135,
+          250,
+          335,
+          832
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ec/p1/images/p37_Q_50_img_1.png"
+      }
+    ],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Analog Circuits"
+  },
+  {
+    "question_number": "Q.51",
+    "question": "In the circuit shown below, the transistors $M_1$ and $M_2$ are biased in saturation. Their small signal transconductances are $g_{m1}$ and $g_{m2}$ respectively. Neglect body effect, channel length modulation and intrinsic device capacitances.\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ec/p1/images/p38_Q_51_img_1.png)\n\nAssuming that capacitor $C_1$ is a short circuit for AC analysis, the exact magnitude of small signal voltage gain $\\left|\\frac{v_{out}}{v_{in}}\\right|$ is _____.",
+    "type": "mcq",
+    "choices": [
+      "$g_{m2} R_D$",
+      "$g_{m2} R_D \\frac{R_B + \\frac{1}{g_{m1}}}{R_B + \\frac{1}{g_{m1}} + R_s}$",
+      "$g_{m2} R_D \\frac{\\left(R_B + \\frac{1}{g_{m1}} + R_s\\right)}{R_B + \\frac{1}{g_{m1}}}$",
+      "$g_{m2} R_D \\frac{\\left(\\frac{1}{g_{m1}}\\right)}{\\frac{1}{g_{m1}} + R_s}$"
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "416e35ac-9e65-496a-a597-089d4926e5a5",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          175,
+          385,
+          388,
+          695
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ec/p1/images/p38_Q_51_img_1.png"
+      }
+    ],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Analog Circuits"
+  },
+  {
+    "question_number": "Q.52",
+    "question": "Which of the following statements is/are true for a BJT with respect to its DC current gain $\\beta$?",
+    "type": "m-mcq",
+    "choices": [
+      "Under high-level injection condition in forward active mode, $\\beta$ will decrease with increase in the magnitude of collector current.",
+      "Under low-level injection condition in forward active mode, where the current at the emitter-base junction is dominated by recombination-generation process, $\\beta$ will decrease with increase in the magnitude of collector current.",
+      "$\\beta$ will be lower when the BJT is in saturation region compared to when it is in active region.",
+      "A higher value of $\\beta$ will lead to a lower value of the collector-to-emitter breakdown voltage."
+    ],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "b39b6692-807e-4025-89af-9e2b2fbbc087",
+    "images": [],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Electronic Devices"
+  },
+  {
+    "question_number": "Q.53",
+    "question": "Consider a system $S$ represented in state space as\n$$\\frac{dx}{dt} = \\begin{bmatrix} 0 & -2 \\\\ 1 & -3 \\end{bmatrix} x + \\begin{bmatrix} 1 \\\\ 0 \\end{bmatrix} r, \\quad y = \\begin{bmatrix} 2 & -5 \\end{bmatrix} x.$$\n\nWhich of the state space representations given below has/have the same transfer function as that of $S$?",
+    "type": "m-mcq",
+    "choices": [
+      "$\\frac{dx}{dt} = \\begin{bmatrix} 0 & 1 \\\\ -2 & -3 \\end{bmatrix} x + \\begin{bmatrix} 0 \\\\ 1 \\end{bmatrix} r, \\quad y = \\begin{bmatrix} 1 & 2 \\end{bmatrix} x$",
+      "$\\frac{dx}{dt} = \\begin{bmatrix} 0 & 1 \\\\ -2 & -3 \\end{bmatrix} x + \\begin{bmatrix} 1 \\\\ 0 \\end{bmatrix} r, \\quad y = \\begin{bmatrix} 0 & 2 \\end{bmatrix} x$",
+      "$\\frac{dx}{dt} = \\begin{bmatrix} -1 & 0 \\\\ 0 & -2 \\end{bmatrix} x + \\begin{bmatrix} -1 \\\\ 3 \\end{bmatrix} r, \\quad y = \\begin{bmatrix} 1 & 1 \\end{bmatrix} x$",
+      "$\\frac{dx}{dt} = \\begin{bmatrix} -1 & 0 \\\\ 0 & -2 \\end{bmatrix} x + \\begin{bmatrix} 1 \\\\ 1 \\end{bmatrix} r, \\quad y = \\begin{bmatrix} 1 & 2 \\end{bmatrix} x$"
+    ],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "23437e5f-6826-421a-863e-bda0dc97211d",
+    "images": [],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Control Systems"
+  },
+  {
+    "question_number": "Q.54",
+    "question": "Let $F_1, F_2$, and $F_3$ be functions of $(x, y, z)$. Suppose that for every given pair of points $A$ and $B$ in space, the line integral $\\int_C (F_1 \\mathrm{d}x + F_2 \\mathrm{d}y + F_3 \\mathrm{d}z)$ evaluates to the same value along any path $C$ that starts at $A$ and ends at $B$. Then which of the following is/are true?",
+    "type": "m-mcq",
+    "choices": [
+      "For every closed path $\\Gamma$, we have $\\oint_{\\Gamma} (F_1 \\mathrm{d}x + F_2 \\mathrm{d}y + F_3 \\mathrm{d}z) = 0$.",
+      "There exists a differentiable scalar function $f(x, y, z)$ such that $F_1 = \\frac{\\partial f}{\\partial x}, F_2 = \\frac{\\partial f}{\\partial y}, F_3 = \\frac{\\partial f}{\\partial z}$.",
+      "$\\frac{\\partial F_1}{\\partial x} + \\frac{\\partial F_2}{\\partial y} + \\frac{\\partial F_3}{\\partial z} = 0$.",
+      "$\\frac{\\partial F_3}{\\partial y} = \\frac{\\partial F_2}{\\partial z}, \\frac{\\partial F_1}{\\partial z} = \\frac{\\partial F_3}{\\partial x}, \\frac{\\partial F_2}{\\partial x} = \\frac{\\partial F_1}{\\partial y}$."
+    ],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "7e046547-1d2b-4c02-baee-1a1ec26c4a4d",
+    "images": [],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Engineering Mathematics"
+  },
+  {
+    "question_number": "Q.55",
+    "question": "Consider the matrix $\\begin{bmatrix} 1 & k \\\\ 2 & 1 \\end{bmatrix}$, where $k$ is a positive real number. Which of the following vectors is/are eigenvector(s) of this matrix?",
+    "type": "m-mcq",
+    "choices": [
+      "$\\begin{bmatrix} 1 \\\\ -\\sqrt{2/k} \\end{bmatrix}$",
+      "$\\begin{bmatrix} 1 \\\\ \\sqrt{2/k} \\end{bmatrix}$",
+      "$\\begin{bmatrix} \\sqrt{2k} \\\\ 1 \\end{bmatrix}$",
+      "$\\begin{bmatrix} \\sqrt{2k} \\\\ -1 \\end{bmatrix}$"
+    ],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "7e046547-1d2b-4c02-baee-1a1ec26c4a4d",
+    "images": [],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Engineering Mathematics"
+  },
+  {
+    "question_number": "Q.56",
+    "question": "The radian frequency value(s) for which the discrete time sinusoidal signal $x[n] = A \\cos(\\Omega n + \\pi/3)$ has a period of 40 is/are ________.",
+    "type": "m-mcq",
+    "choices": [
+      "$0.15\\pi$",
+      "$0.225\\pi$",
+      "$0.3\\pi$",
+      "$0.45\\pi$"
+    ],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "d0658078-810f-40f5-ab9f-a27359959aaf",
+    "images": [],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Signals and Systems"
+  },
+  {
+    "question_number": "Q.57",
+    "question": "Let $X(t) = A \\cos(2\\pi f_0 t + \\theta)$ be a random process, where amplitude $A$ and phase $\\theta$ are independent of each other, and are uniformly distributed in the intervals $[-2, 2]$ and $[0, 2\\pi]$, respectively. $X(t)$ is fed to an 8-bit uniform mid-rise type quantizer.\n\nGiven that the autocorrelation of $X(t)$ is $R_X(\\tau) = \\frac{2}{3} \\cos(2\\pi f_0 \\tau)$, the signal to quantization noise ratio (in dB, *rounded off to two decimal places*) at the output of the quantizer is ________.",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "82278307-a0a9-4dc0-8af8-4583d3e3b122",
+    "images": [],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Communication Systems"
+  },
+  {
+    "question_number": "Q.58",
+    "question": "A lossless transmission line with characteristic impedance $Z_0 = 50\\ \\Omega$ is terminated with an unknown load. The magnitude of the reflection co-efficient is $|\\Gamma| = 0.6$. As one moves towards the generator from the load, the maximum value of the input impedance magnitude looking towards the load (in $\\Omega$) is ________.",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "f42d0e75-4d38-435b-89a0-84786bbf161d",
+    "images": [],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Electromagnetics"
+  },
+  {
+    "question_number": "Q.59",
+    "question": "The relationship between any N-length sequence $x[n]$ and its corresponding N-point discrete Fourier transform $X[k]$ is defined as\n$$X[k] = \\mathcal{F}\\{x[n]\\}.$$\n\nAnother sequence $y[n]$ is formed as below\n$$y[n] = \\mathcal{F}\\{\\mathcal{F}\\{\\mathcal{F}\\{\\mathcal{F}\\{x[n]\\}\\}\\}\\}.$$\n\nFor the sequence $x[n] = \\{1, 2, 1, 3\\}$, the value of $Y[0]$ is ________.",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "d0658078-810f-40f5-ab9f-a27359959aaf",
+    "images": [],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Signals and Systems"
+  },
+  {
+    "question_number": "Q.60",
+    "question": "For the two port network shown below, the value of the $Y_{21}$ parameter (in Siemens) is ________.\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ec/p1/images/p44_Q_60_img_1.png)",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "82e617a8-9cf2-4dbb-aeb3-8820327b46b5",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          197,
+          362,
+          368,
+          708
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ec/p1/images/p44_Q_60_img_1.png"
+      }
+    ],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Network Theory"
+  },
+  {
+    "question_number": "Q.61",
+    "question": "Consider a MOS capacitor made with p-type silicon. It has an oxide thickness of $100\\text{ nm}$, a fixed positive oxide charge of $10^{-8}\\text{ C/cm}^2$ at the oxide-silicon interface, and a metal work function of $4.6\\text{ eV}$. Assume that the relative permittivity of the oxide is $4$ and the absolute permittivity of free space is $8.85 \\times 10^{-14}\\text{ F/cm}$. If the flatband voltage is $0\\text{ V}$, the work function of the p-type silicon (in eV, rounded off to two decimal places) is ________.",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "b39b6692-807e-4025-89af-9e2b2fbbc087",
+    "images": [],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Electronic Devices"
+  },
+  {
+    "question_number": "Q.62",
+    "question": "In the network shown below, maximum power is to be transferred to the load $R_L$.\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ec/p1/images/p44_Q_62_img_2.png)\n\nThe value of $R_L$ (in $\\Omega$) is ________.",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "82e617a8-9cf2-4dbb-aeb3-8820327b46b5",
+    "images": [
+      {
+        "box_id": "img_2",
+        "box": [
+          653,
+          406,
+          810,
+          725
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ec/p1/images/p44_Q_62_img_2.png"
+      }
+    ],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Network Theory"
+  },
+  {
+    "question_number": "Q.63",
+    "question": "A non-degenerate n-type semiconductor has $5\\%$ neutral dopant atoms. Its Fermi level is located at $0.25\\text{ eV}$ below the conduction band ($E_C$) and the donor energy level ($E_D$) has a degeneracy of 2. Assuming the thermal voltage to be $20\\text{ mV}$, the difference between $E_C$ and $E_D$ (in eV, *rounded off to two decimal places*) is ________.",
+    "type": "numerical",
+    "choices": [],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "b39b6692-807e-4025-89af-9e2b2fbbc087",
+    "images": [],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Electronic Devices"
+  },
+  {
+    "question_number": "Q.64",
+    "question": "An NMOS transistor operating in the linear region has $I_{DS}$ of $5\\ \\mu\\text{A}$ at $V_{DS}$ of $0.1\\text{ V}$. Keeping $V_{GS}$ constant, the $V_{DS}$ is increased to $1.5\\text{ V}$.\n\nGiven that $\\mu_n C_{ox} \\frac{W}{L} = 50\\ \\mu\\text{A/V}^2$, the transconductance at the new operating point (in $\\mu\\text{A/V}$, *rounded off to two decimal places*) is ________.",
+    "type": "numerical",
+    "choices": [],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "b39b6692-807e-4025-89af-9e2b2fbbc087",
+    "images": [],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Electronic Devices"
+  },
+  {
+    "question_number": "Q.65",
+    "question": "The photocurrent of a PN junction diode solar cell is $1\\text{ mA}$. The voltage corresponding to its maximum power point is $0.3\\text{ V}$. If the thermal voltage is $30\\text{ mV}$, the reverse saturation current of the diode (in nA, *rounded off to two decimal places*) is ________.",
+    "type": "numerical",
+    "choices": [],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "b39b6692-807e-4025-89af-9e2b2fbbc087",
+    "images": [],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Electronic Devices"
+  }
+]

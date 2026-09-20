@@ -1,0 +1,1214 @@
+[
+  {
+    "question_number": "Q.1",
+    "question": "Despite his initial hesitation, Rehman’s ________ to contribute to the success of the project never wavered.\n\nSelect the most appropriate option to complete the above sentence.",
+    "type": "mcq",
+    "choices": [
+      "ambivalence",
+      "satisfaction",
+      "resolve",
+      "revolve"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "0bf8ab6b-eb4c-493a-922b-c8589faa6344",
+    "topic": "9b264b49-cf5c-4738-86b4-01a534102871",
+    "images": [],
+    "subject_name": "Computer Science And Engineering",
+    "topic_name": "General Aptitude"
+  },
+  {
+    "question_number": "Q.2",
+    "question": "Bird : Nest :: Bee : _______\n\nSelect the correct option to complete the analogy.",
+    "type": "mcq",
+    "choices": [
+      "Kennel",
+      "Hammock",
+      "Hive",
+      "Lair"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "0bf8ab6b-eb4c-493a-922b-c8589faa6344",
+    "topic": "9b264b49-cf5c-4738-86b4-01a534102871",
+    "images": [],
+    "subject_name": "Computer Science And Engineering",
+    "topic_name": "General Aptitude"
+  },
+  {
+    "question_number": "Q.3",
+    "question": "If $P e^x = Q e^{-x}$ for all real values of $x$, which one of the following statements is true?",
+    "type": "mcq",
+    "choices": [
+      "$P = Q = 0$",
+      "$P = Q = 1$",
+      "$P = 1; Q = -1$",
+      "$\\frac{P}{Q} = 0$"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "0bf8ab6b-eb4c-493a-922b-c8589faa6344",
+    "topic": "05d0e1c5-f251-427d-bbdb-b15b36dfde48",
+    "images": [],
+    "subject_name": "Computer Science And Engineering",
+    "topic_name": "Engineering Mathematics"
+  },
+  {
+    "question_number": "Q.4",
+    "question": "The paper as shown in the figure is folded to make a cube where each square corresponds to a particular face of the cube. Which one of the following options correctly represents the cube?\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/cs/p2/images/p3_Q_4_img_net.png)\n\nNote: The figures shown are representative.",
+    "type": "mcq",
+    "choices": [
+      "![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/cs/p2/images/p3_Q_4_img_a.png)",
+      "![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/cs/p2/images/p3_Q_4_img_b.png)",
+      "![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/cs/p2/images/p3_Q_4_img_c.png)",
+      "![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/cs/p2/images/p3_Q_4_img_d.png)"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "0bf8ab6b-eb4c-493a-922b-c8589faa6344",
+    "topic": "9b264b49-cf5c-4738-86b4-01a534102871",
+    "images": [
+      {
+        "box_id": "img_net",
+        "box": [
+          227,
+          387,
+          347,
+          613
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/cs/p2/images/p3_Q_4_img_net.png"
+      },
+      {
+        "box_id": "img_a",
+        "box": [
+          365,
+          204,
+          424,
+          300
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/cs/p2/images/p3_Q_4_img_a.png"
+      },
+      {
+        "box_id": "img_b",
+        "box": [
+          433,
+          204,
+          492,
+          298
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/cs/p2/images/p3_Q_4_img_b.png"
+      },
+      {
+        "box_id": "img_c",
+        "box": [
+          501,
+          201,
+          560,
+          295
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/cs/p2/images/p3_Q_4_img_c.png"
+      },
+      {
+        "box_id": "img_d",
+        "box": [
+          569,
+          201,
+          628,
+          295
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/cs/p2/images/p3_Q_4_img_d.png"
+      }
+    ],
+    "subject_name": "Computer Science And Engineering",
+    "topic_name": "General Aptitude"
+  },
+  {
+    "question_number": "Q.5",
+    "question": "Let $p_1$ and $p_2$ denote two arbitrary prime numbers. Which one of the following statements is correct for all values of $p_1$ and $p_2$?",
+    "type": "mcq",
+    "choices": [
+      "$p_1 + p_2$ is not a prime number.",
+      "$p_1 p_2$ is not a prime number.",
+      "$p_1 + p_2 + 1$ is a prime number.",
+      "$p_1 p_2 + 1$ is a prime number."
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "0bf8ab6b-eb4c-493a-922b-c8589faa6344",
+    "topic": "9b264b49-cf5c-4738-86b4-01a534102871",
+    "images": [],
+    "subject_name": "Computer Science And Engineering",
+    "topic_name": "General Aptitude"
+  },
+  {
+    "question_number": "Q.6",
+    "question": "Based only on the conversation below, identify the logically correct inference:\n\n“Even if I had known that you were in the hospital, I would not have gone there to see you”, Ramya told Josephine.",
+    "type": "mcq",
+    "choices": [
+      "Ramya knew that Josephine was in the hospital.",
+      "Ramya did not know that Josephine was in the hospital.",
+      "Ramya and Josephine were once close friends; but now, they are not.",
+      "Josephine was in the hospital due to an injury to her leg."
+    ],
+    "marks": 2,
+    "negativeMarks": 0.66,
+    "subject": "0bf8ab6b-eb4c-493a-922b-c8589faa6344",
+    "topic": "9b264b49-cf5c-4738-86b4-01a534102871",
+    "images": [],
+    "subject_name": "Computer Science And Engineering",
+    "topic_name": "General Aptitude"
+  },
+  {
+    "question_number": "Q.7",
+    "question": "If IMAGE and FIELD are coded as FHBNJ and EMFJG respectively then, which one among the given options is the most appropriate code for BEACH ?",
+    "type": "mcq",
+    "choices": [
+      "CEADP",
+      "IDBFC",
+      "JGIBC",
+      "IBCEC"
+    ],
+    "marks": 2,
+    "negativeMarks": 0.66,
+    "subject": "0bf8ab6b-eb4c-493a-922b-c8589faa6344",
+    "topic": "9b264b49-cf5c-4738-86b4-01a534102871",
+    "images": [],
+    "subject_name": "Computer Science And Engineering",
+    "topic_name": "General Aptitude"
+  },
+  {
+    "question_number": "Q.8",
+    "question": "Which one of the following options is correct for the given data in the table?\n\n| Iteration ($i$) | 0 | 1 | 2 | 3 |\n| :--- | :---: | :---: | :---: | :---: |\n| Input ($I$) | 20 | $-4$ | 10 | 15 |\n| Output ($X$) | 20 | 16 | 26 | 41 |\n| Output ($Y$) | 20 | $-80$ | $-800$ | $-12000$ |",
+    "type": "mcq",
+    "choices": [
+      "$X(i) = X(i - 1) + I(i); \\quad Y(i) = Y(i - 1)I(i); \\quad i > 0$",
+      "$X(i) = X(i - 1)I(i); \\quad Y(i) = Y(i - 1) + I(i); \\quad i > 0$",
+      "$X(i) = X(i - 1)I(i); \\quad Y(i) = Y(i - 1)I(i); \\quad i > 0$",
+      "$X(i) = X(i - 1) + I(i); \\quad Y(i) = Y(i - 1)I(i - 1); \\quad i > 0$"
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "0bf8ab6b-eb4c-493a-922b-c8589faa6344",
+    "topic": "d0a7922d-6cd8-4168-9812-fac0b70baff5",
+    "images": [],
+    "subject_name": "Computer Science And Engineering",
+    "topic_name": "Programming & Data Structures"
+  },
+  {
+    "question_number": "Q.9",
+    "question": "In the given figure, PQRS is a square of side 2 cm and PLMN is a rectangle. The corner L of the rectangle is on the side QR. Side MN of the rectangle passes through the corner S of the square.\n\nWhat is the area (in $\\text{cm}^2$) of the rectangle PLMN?\n\nNote: The figure shown is representative.\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/cs/p2/images/p8_Q_9_img_1.png)",
+    "type": "mcq",
+    "choices": [
+      "$2\\sqrt{2}$",
+      "$2$",
+      "$8$",
+      "$4$"
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "0bf8ab6b-eb4c-493a-922b-c8589faa6344",
+    "topic": "9b264b49-cf5c-4738-86b4-01a534102871",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          263,
+          382,
+          395,
+          569
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/cs/p2/images/p8_Q_9_img_1.png"
+      }
+    ],
+    "subject_name": "Computer Science And Engineering",
+    "topic_name": "General Aptitude"
+  },
+  {
+    "question_number": "Q.10",
+    "question": "The diagram below shows a river system consisting of 7 segments, marked P, Q, R, S, T, U, and V. It splits the land into 5 zones, marked Z1, Z2, Z3, Z4, and Z5. We need to connect these zones using the least number of bridges. Out of the following options, which one is correct?\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/cs/p2/images/p9_Q_10_img_1.png)\n\nNote: The figure shown is representative.",
+    "type": "mcq",
+    "choices": [
+      "Bridges on P, Q, and T",
+      "Bridges on P, Q, S, and T",
+      "Bridges on Q, R, T, and V",
+      "Bridges on P, Q, S, U, and V"
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "0bf8ab6b-eb4c-493a-922b-c8589faa6344",
+    "topic": "9b264b49-cf5c-4738-86b4-01a534102871",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          247,
+          278,
+          430,
+          708
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/cs/p2/images/p9_Q_10_img_1.png"
+      }
+    ],
+    "subject_name": "Computer Science And Engineering",
+    "topic_name": "General Aptitude"
+  },
+  {
+    "question_number": "Q.11",
+    "question": "If $A = \\begin{pmatrix} 1 & 2 \\\\ 2 & -1 \\end{pmatrix}$, then which ONE of the following is $A^8$ ?",
+    "type": "mcq",
+    "choices": [
+      "$\\begin{pmatrix} 25 & 0 \\\\ 0 & 25 \\end{pmatrix}$",
+      "$\\begin{pmatrix} 125 & 0 \\\\ 0 & 125 \\end{pmatrix}$",
+      "$\\begin{pmatrix} 625 & 0 \\\\ 0 & 625 \\end{pmatrix}$",
+      "$\\begin{pmatrix} 3125 & 0 \\\\ 0 & 3125 \\end{pmatrix}$"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "0bf8ab6b-eb4c-493a-922b-c8589faa6344",
+    "topic": "05d0e1c5-f251-427d-bbdb-b15b36dfde48",
+    "images": [],
+    "subject_name": "Computer Science And Engineering",
+    "topic_name": "Engineering Mathematics"
+  },
+  {
+    "question_number": "Q.12",
+    "question": "The value of $x$ such that $x > 1$, satisfying the equation $\\int_{1}^{x} t \\ln t \\, dt = \\frac{1}{4}$ is",
+    "type": "mcq",
+    "choices": [
+      "$\\sqrt{e}$",
+      "$e$",
+      "$e^2$",
+      "$e - 1$"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "0bf8ab6b-eb4c-493a-922b-c8589faa6344",
+    "topic": "05d0e1c5-f251-427d-bbdb-b15b36dfde48",
+    "images": [],
+    "subject_name": "Computer Science And Engineering",
+    "topic_name": "Engineering Mathematics"
+  },
+  {
+    "question_number": "Q.13",
+    "question": "Consider a binary tree $T$ in which every node has either zero or two children. Let $n > 0$ be the number of nodes in $T$.\n\nWhich ONE of the following is the number of nodes in $T$ that have exactly two children?",
+    "type": "mcq",
+    "choices": [
+      "$\\frac{n - 2}{2}$",
+      "$\\frac{n - 1}{2}$",
+      "$\\frac{n}{2}$",
+      "$\\frac{n + 1}{2}$"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "0bf8ab6b-eb4c-493a-922b-c8589faa6344",
+    "topic": "d0a7922d-6cd8-4168-9812-fac0b70baff5",
+    "images": [],
+    "subject_name": "Computer Science And Engineering",
+    "topic_name": "Programming & Data Structures"
+  },
+  {
+    "question_number": "Q.14",
+    "question": "Let $L, M$, and $N$ be non-singular matrices of order 3 satisfying the equations\n$$L^2 = L^{-1}, \\quad M = L^8 \\quad \\text{and} \\quad N = L^2.$$\n\nWhich ONE of the following is the value of the determinant of $(M - N)$?",
+    "type": "mcq",
+    "choices": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "0bf8ab6b-eb4c-493a-922b-c8589faa6344",
+    "topic": "05d0e1c5-f251-427d-bbdb-b15b36dfde48",
+    "images": [],
+    "subject_name": "Computer Science And Engineering",
+    "topic_name": "Engineering Mathematics"
+  },
+  {
+    "question_number": "Q.15",
+    "question": "Let $P(x)$ be an arbitrary predicate over the domain of natural numbers.\n\nWhich ONE of the following statements is TRUE?",
+    "type": "mcq",
+    "choices": [
+      "$(P(0) \\land (\\forall x [P(x) \\Rightarrow P(x + 1)])) \\Rightarrow (\\forall x P(x))$",
+      "$(P(0) \\land (\\forall x [P(x) \\Rightarrow P(x - 1)])) \\Rightarrow (\\forall x P(x))$",
+      "$(P(1000) \\land (\\forall x [P(x) \\Rightarrow P(x - 1)])) \\Rightarrow (\\forall x P(x))$",
+      "$(P(1000) \\land (\\forall x [P(x) \\Rightarrow P(x + 1)])) \\Rightarrow (\\forall x P(x))$"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "0bf8ab6b-eb4c-493a-922b-c8589faa6344",
+    "topic": "05d0e1c5-f251-427d-bbdb-b15b36dfde48",
+    "images": [],
+    "subject_name": "Computer Science And Engineering",
+    "topic_name": "Engineering Mathematics"
+  },
+  {
+    "question_number": "Q.16",
+    "question": "Consider the following statements:\n\n(i) Address Resolution Protocol (ARP) provides a mapping from an IP address to the corresponding hardware (link-layer) address.\n(ii) A single TCP segment from a sender S to a receiver R cannot carry both data from S to R and acknowledgement for a segment from R to S.\n\nWhich ONE of the following is CORRECT?",
+    "type": "mcq",
+    "choices": [
+      "Both (i) and (ii) are TRUE",
+      "(i) is TRUE and (ii) is FALSE",
+      "(i) is FALSE and (ii) is TRUE",
+      "Both (i) and (ii) are FALSE"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "0bf8ab6b-eb4c-493a-922b-c8589faa6344",
+    "topic": "e4d5b7c5-c4da-424b-b735-20d6fdcd4fb7",
+    "images": [],
+    "subject_name": "Computer Science And Engineering",
+    "topic_name": "Computer Networks (CN)"
+  },
+  {
+    "question_number": "Q.17",
+    "question": "Consider the routing protocols given in **List I** and the names given in **List II**:\n\n| List I | List II |\n| :--- | :--- |\n| (i) Distance vector routing | (a) Bellman-Ford |\n| (ii) Link state routing | (b) Dijkstra |\n\nFor matching of items in **List I** with those in **List II**, which ONE of the following options is CORRECT?",
+    "type": "mcq",
+    "choices": [
+      "(i) – (a) and (ii) – (b)",
+      "(i) – (a) and (ii) – (a)",
+      "(i) – (b) and (ii) – (a)",
+      "(i) – (b) and (ii) – (b)"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "0bf8ab6b-eb4c-493a-922b-c8589faa6344",
+    "topic": "e4d5b7c5-c4da-424b-b735-20d6fdcd4fb7",
+    "images": [],
+    "subject_name": "Computer Science And Engineering",
+    "topic_name": "Computer Networks (CN)"
+  },
+  {
+    "question_number": "18",
+    "question": "A machine receives an IPv4 datagram. The protocol field of the IPv4 header has the protocol number of a protocol X.\n\nWhich ONE of the following is NOT a possible candidate for X?",
+    "type": "mcq",
+    "choices": [
+      "Internet Control Message Protocol (ICMP)",
+      "Internet Group Management Protocol (IGMP)",
+      "Open Shortest Path First (OSPF)",
+      "Routing Information Protocol (RIP)"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "0bf8ab6b-eb4c-493a-922b-c8589faa6344",
+    "topic": "e4d5b7c5-c4da-424b-b735-20d6fdcd4fb7",
+    "images": [],
+    "subject_name": "Computer Science And Engineering",
+    "topic_name": "Computer Networks (CN)"
+  },
+  {
+    "question_number": "Q.19",
+    "question": "Consider the following C program:\n\n```c\n#include <stdio.h>\n\nvoid stringcopy(char *, char *);\n\nint main() {\n    char a[30] = \"@#Hello World!\";\n    stringcopy(a, a + 2);\n    printf(\"%s\\n\", a);\n    return 0;\n}\n\nvoid stringcopy(char *s, char *t) {\n    while(*t)\n        *s++ = *t++;\n}\n```\n\nWhich ONE of the following will be the output of the program?",
+    "type": "mcq",
+    "choices": [
+      "`@#Hello World!`",
+      "`Hello World!`",
+      "`ello World!`",
+      "`Hello World!d!`"
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "0bf8ab6b-eb4c-493a-922b-c8589faa6344",
+    "topic": "d0a7922d-6cd8-4168-9812-fac0b70baff5",
+    "images": [],
+    "subject_name": "Computer Science And Engineering",
+    "topic_name": "Programming & Data Structures"
+  },
+  {
+    "question_number": "Q.20",
+    "question": "Consider an unordered list of $N$ distinct integers.\n\nWhat is the minimum number of element comparisons required to find an integer in the list that is NOT the largest in the list?",
+    "type": "mcq",
+    "choices": [
+      "1",
+      "$N - 1$",
+      "$N$",
+      "$2N - 1$"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "0bf8ab6b-eb4c-493a-922b-c8589faa6344",
+    "topic": "7b8a8cc6-8c28-4a4e-bd30-947adbf0f886",
+    "images": [],
+    "subject_name": "Computer Science And Engineering",
+    "topic_name": "Algorithms"
+  },
+  {
+    "question_number": "Q.21",
+    "question": "Consider the following statements about the use of backpatching in a compiler for intermediate code generation:\n\n(I) Backpatching can be used to generate code for Boolean expression in one pass.\n(II) Backpatching can be used to generate code for flow-of-control statements in one pass.\n\nWhich ONE of the following options is CORRECT?",
+    "type": "mcq",
+    "choices": [
+      "Only (I) is correct.",
+      "Only (II) is correct.",
+      "Both (I) and (II) are correct.",
+      "Neither (I) nor (II) is correct."
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "0bf8ab6b-eb4c-493a-922b-c8589faa6344",
+    "topic": "56ed1eb7-359c-4533-b344-e49e45080b7b",
+    "images": [],
+    "subject_name": "Computer Science And Engineering",
+    "topic_name": "Compiler Design"
+  },
+  {
+    "question_number": "Q.22",
+    "question": "Given the following syntax directed translation rules:\n\nRule 1: $R \\rightarrow AB \\{B.i = R.i - 1; A.i = B.i; R.i = A.i + 1;\\}$\nRule 2: $P \\rightarrow CD \\{P.i = C.i + D.i; D.i = C.i + 2;\\}$\nRule 3: $Q \\rightarrow EF \\{Q.i = E.i + F.i;\\}$\n\nWhich ONE is the CORRECT option among the following?",
+    "type": "mcq",
+    "choices": [
+      "Rule 1 is S-attributed and L-attributed; Rule 2 is S-attributed and not L-attributed; Rule 3 is neither S-attributed nor L-attributed",
+      "Rule 1 is neither S-attributed nor L-attributed; Rule 2 is S-attributed and L-attributed; Rule 3 is S-attributed and L-attributed",
+      "Rule 1 is neither S-attributed nor L-attributed; Rule 2 is not S-attributed and is L-attributed; Rule 3 is S-attributed and L-attributed",
+      "Rule 1 is S-attributed and not L-attributed; Rule 2 is not S-attributed and is L-attributed; Rule 3 is S-attributed and L-attributed"
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "0bf8ab6b-eb4c-493a-922b-c8589faa6344",
+    "topic": "56ed1eb7-359c-4533-b344-e49e45080b7b",
+    "images": [],
+    "subject_name": "Computer Science And Engineering",
+    "topic_name": "Compiler Design"
+  },
+  {
+    "question_number": "Q.23",
+    "question": "Consider a network that uses Ethernet and IPv4. Assume that IPv4 headers do not use any options field. Each Ethernet frame can carry a maximum of 1500 bytes in its data field. A UDP segment is transmitted. The payload (data) in the UDP segment is 7488 bytes.\n\nWhich ONE of the following choices has the CORRECT total number of fragments transmitted and the size of the last fragment including IPv4 header?",
+    "type": "mcq",
+    "choices": [
+      "5 fragments, 1488 bytes",
+      "6 fragments, 88 bytes",
+      "6 fragments, 108 bytes",
+      "6 fragments, 116 bytes"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "0bf8ab6b-eb4c-493a-922b-c8589faa6344",
+    "topic": "e4d5b7c5-c4da-424b-b735-20d6fdcd4fb7",
+    "images": [],
+    "subject_name": "Computer Science And Engineering",
+    "topic_name": "Computer Networks (CN)"
+  },
+  {
+    "question_number": "Q.24",
+    "question": "Which ONE of the following languages is accepted by a deterministic pushdown automaton?",
+    "type": "mcq",
+    "choices": [
+      "Any regular language.",
+      "Any context-free language.",
+      "Any language accepted by a non-deterministic pushdown automaton.",
+      "Any decidable language."
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "0bf8ab6b-eb4c-493a-922b-c8589faa6344",
+    "topic": "f89b04fd-66f7-4ec8-ade8-970d584d3f4b",
+    "images": [],
+    "subject_name": "Computer Science And Engineering",
+    "topic_name": "Theory of Computation / FLAT"
+  },
+  {
+    "question_number": "Q.25",
+    "question": "Let $G_1, G_2$ be Context Free Grammars (CFGs) and $R$ be a regular expression. For a grammar $G$, let $L(G)$ denote the language generated by $G$.\n\nWhich ONE among the following questions is decidable?",
+    "type": "mcq",
+    "choices": [
+      "Is $L(G_1) = L(G_2)$?",
+      "Is $L(G_1) \\cap L(G_2) = \\emptyset$?",
+      "Is $L(G_1) = L(R)$?",
+      "Is $L(G_1) = \\emptyset$?"
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "0bf8ab6b-eb4c-493a-922b-c8589faa6344",
+    "topic": "f89b04fd-66f7-4ec8-ade8-970d584d3f4b",
+    "images": [],
+    "subject_name": "Computer Science And Engineering",
+    "topic_name": "Theory of Computation / FLAT"
+  },
+  {
+    "question_number": "Q.26",
+    "question": "Processes $P1, P2, P3, P4$ arrive in that order at times $0, 1, 2$, and $8$ milliseconds respectively, and have execution times of $10, 13, 6$, and $9$ milliseconds respectively. Shortest Remaining Time First (SRTF) algorithm is used as the CPU scheduling policy. Ignore context switching times.\n\nWhich ONE of the following correctly gives the average turnaround time of the four processes in milliseconds?",
+    "type": "mcq",
+    "choices": [
+      "22",
+      "15",
+      "37",
+      "19"
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "0bf8ab6b-eb4c-493a-922b-c8589faa6344",
+    "topic": "94bae9c5-81a8-4df5-bf21-2e1bb8b8b2ae",
+    "images": [],
+    "subject_name": "Computer Science And Engineering",
+    "topic_name": "Operating Systems (OS)"
+  },
+  {
+    "question_number": "Q.27",
+    "question": "An audit of a banking transactions system has found that on an earlier occasion, two joint holders of account $A$ attempted simultaneous transfers of Rs. 10000 each from account $A$ to account $B$. Both transactions read the same value, Rs. 11000, as the initial balance in $A$ and were allowed to go through. $B$ was credited Rs. 10000 twice. $A$ was debited only once and ended up with a balance of Rs. 1000.\n\nWhich of the following properties is/are certain to have been violated by the system?",
+    "type": "m-mcq",
+    "choices": [
+      "Atomicity",
+      "Consistency",
+      "Isolation",
+      "Durability"
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "0bf8ab6b-eb4c-493a-922b-c8589faa6344",
+    "topic": "bed6aea7-04a8-4a28-b6ae-85d6aebc660e",
+    "images": [],
+    "subject_name": "Computer Science And Engineering",
+    "topic_name": "Database Management System (DBMS)"
+  },
+  {
+    "question_number": "Q.28",
+    "question": "Which of the following is/are part of an Instruction Set Architecture of a processor?",
+    "type": "m-mcq",
+    "choices": [
+      "The size of the cache memory",
+      "The clock frequency of the processor",
+      "The number of cache memory levels",
+      "The total number of registers"
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "0bf8ab6b-eb4c-493a-922b-c8589faa6344",
+    "topic": "381fea67-1ed3-4fb9-adf8-1544d86d94f0",
+    "images": [],
+    "subject_name": "Computer Science And Engineering",
+    "topic_name": "Computer Organization & Architecture (COA)"
+  },
+  {
+    "question_number": "Q.29",
+    "question": "Which of the following statements regarding Breadth First Search (BFS) and Depth First Search (DFS) on an undirected simple graph $G$ is/are TRUE?",
+    "type": "m-mcq",
+    "choices": [
+      "A DFS tree of $G$ is a Shortest Path tree of $G$.",
+      "Every non-tree edge of $G$ with respect to a DFS tree is a forward/back edge.",
+      "If $(u, v)$ is a non-tree edge of $G$ with respect to a BFS tree, then the distances from the source vertex $s$ to $u$ and $v$ in the BFS tree are within $\\pm 1$ of each other.",
+      "Both BFS and DFS can be used to find the connected components of $G$."
+    ],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "0bf8ab6b-eb4c-493a-922b-c8589faa6344",
+    "topic": "7b8a8cc6-8c28-4a4e-bd30-947adbf0f886",
+    "images": [],
+    "subject_name": "Computer Science And Engineering",
+    "topic_name": "Algorithms"
+  },
+  {
+    "question_number": "Q.30",
+    "question": "Consider the two lists **List I** and **List II** given below:\n\n| List I | List II |\n| :--- | :--- |\n| (i) Context free languages | (a) Closed under union |\n| (ii) Recursive languages | (b) Not closed under complementation |\n| (iii) Regular languages | (c) Closed under intersection |\n\nFor matching of items in **List I** with those in **List II**, which of the following option(s) is/are CORRECT?",
+    "type": "m-mcq",
+    "choices": [
+      "(i) – (a), (ii) – (b), and (iii) – (c)",
+      "(i) – (b), (ii) – (a), and (iii) – (c)",
+      "(i) – (b), (ii) – (c), and (iii) – (a)",
+      "(i) – (a), (ii) – (c), and (iii) – (b)"
+    ],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "0bf8ab6b-eb4c-493a-922b-c8589faa6344",
+    "topic": "f89b04fd-66f7-4ec8-ade8-970d584d3f4b",
+    "images": [],
+    "subject_name": "Computer Science And Engineering",
+    "topic_name": "Theory of Computation / FLAT"
+  },
+  {
+    "question_number": "Q.31",
+    "question": "Consider the following logic circuit diagram.\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/cs/p2/images/p24_Q_31_img_1.png)\n\nWhich is/are the CORRECT option(s) for the output function $F$?",
+    "type": "m-mcq",
+    "choices": [
+      "$\\bar{X} \\bar{Y}$",
+      "$\\bar{X} + \\bar{Y} + X\\bar{Y}$",
+      "$\\bar{X}Y + \\bar{X} + X\\bar{Y}$",
+      "$X + \\bar{Y}$"
+    ],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "0bf8ab6b-eb4c-493a-922b-c8589faa6344",
+    "topic": "f2ec8e1f-3fc5-4865-bc85-ab7568e6da41",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          173,
+          271,
+          348,
+          721
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/cs/p2/images/p24_Q_31_img_1.png"
+      }
+    ],
+    "subject_name": "Computer Science And Engineering",
+    "topic_name": "Digital Logic"
+  },
+  {
+    "question_number": "Q.32",
+    "question": "The following two signed 2's complement numbers (multiplicand M and multiplier Q) are being multiplied using Booth's algorithm:\n\nM: 1100 1101 1110 1101 and Q: 1010 0100 1010 1010\n\nThe total number of addition and subtraction operations to be performed is ____________. (Answer in integer)",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "0bf8ab6b-eb4c-493a-922b-c8589faa6344",
+    "topic": "381fea67-1ed3-4fb9-adf8-1544d86d94f0",
+    "images": [],
+    "subject_name": "Computer Science And Engineering",
+    "topic_name": "Computer Organization & Architecture (COA)"
+  },
+  {
+    "question_number": "Q.33",
+    "question": "```c\nint x=126,y=105;\ndo {\n    if(x>y) x=x-y;\n    else y=y-x;\n} while(x!=y);\n\nprintf(\"%d\",x);\n```\n\nThe output of the given C code segment is __________. (Answer in integer)",
+    "type": "numerical",
+    "choices": [],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "0bf8ab6b-eb4c-493a-922b-c8589faa6344",
+    "topic": "d0a7922d-6cd8-4168-9812-fac0b70baff5",
+    "images": [],
+    "subject_name": "Computer Science And Engineering",
+    "topic_name": "Programming & Data Structures"
+  },
+  {
+    "question_number": "Q.34",
+    "question": "In a 4-bit ripple counter, if the period of the waveform at the last flip-flop is 64 microseconds, then the frequency of the ripple counter in kHz is __________. (Answer in integer)",
+    "type": "numerical",
+    "choices": [],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "0bf8ab6b-eb4c-493a-922b-c8589faa6344",
+    "topic": "f2ec8e1f-3fc5-4865-bc85-ab7568e6da41",
+    "images": [],
+    "subject_name": "Computer Science And Engineering",
+    "topic_name": "Digital Logic"
+  },
+  {
+    "question_number": "Q.35",
+    "question": "Suppose the values $10, -4, 15, 30, 20, 5, 60, 19$ are inserted in that order into an initially empty binary search tree. Let $T$ be the resulting binary search tree. The number of edges in the path from the node containing 19 to the root node of $T$ is __________. (Answer in integer)",
+    "type": "numerical",
+    "choices": [],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "0bf8ab6b-eb4c-493a-922b-c8589faa6344",
+    "topic": "d0a7922d-6cd8-4168-9812-fac0b70baff5",
+    "images": [],
+    "subject_name": "Computer Science And Engineering",
+    "topic_name": "Programming & Data Structures"
+  },
+  {
+    "question_number": "Q.36",
+    "question": "Suppose we are transmitting frames between two nodes using Stop-and-Wait protocol. The frame size is 3000 bits. The transmission rate of the channel is 2000 bps (bits/second) and the propagation delay between the two nodes is 100 milliseconds. Assume that the processing times at the source and destination are negligible. Also, assume that the size of the acknowledgement packet is negligible. Which ONE of the following most accurately gives the channel utilization for the above scenario in percentage?",
+    "type": "mcq",
+    "choices": [
+      "88.23",
+      "93.75",
+      "85.44",
+      "66.67"
+    ],
+    "marks": 2,
+    "negativeMarks": 0.66,
+    "subject": "0bf8ab6b-eb4c-493a-922b-c8589faa6344",
+    "topic": "e4d5b7c5-c4da-424b-b735-20d6fdcd4fb7",
+    "images": [],
+    "subject_name": "Computer Science And Engineering",
+    "topic_name": "Computer Networks (CN)"
+  },
+  {
+    "question_number": "Q.37",
+    "question": "Let $G$ be an edge-weighted undirected graph with positive edge weights. Suppose a positive constant $\\alpha$ is added to the weight of every edge.\n\nWhich ONE of the following statements is TRUE about the minimum spanning trees (MSTs) and shortest paths (SPs) in $G$ before and after the edge weight update?",
+    "type": "mcq",
+    "choices": [
+      "Every MST remains an MST, and every SP remains an SP.",
+      "MSTs need not remain MSTs, and every SP remains an SP.",
+      "Every MST remains an MST, and SPs need not remain SPs.",
+      "MSTs need not remain MSTs, and SPs need not remain SPs."
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "0bf8ab6b-eb4c-493a-922b-c8589faa6344",
+    "topic": "7b8a8cc6-8c28-4a4e-bd30-947adbf0f886",
+    "images": [],
+    "subject_name": "Computer Science And Engineering",
+    "topic_name": "Algorithms"
+  },
+  {
+    "question_number": "Q.38",
+    "question": "A meld operation on two instances of a data structure combines them into one single instance of the same data structure. Consider the following data structures:\n\nP: Unsorted doubly linked list with pointers to the head node and tail node of the list.\n\nQ: Min-heap implemented using an array.\n\nR: Binary Search Tree.\n\nWhich ONE of the following options gives the worst-case time complexities for meld operation on instances of size $n$ of these data structures?",
+    "type": "mcq",
+    "choices": [
+      "P: $\\Theta(1)$, Q: $\\Theta(n)$, R: $\\Theta(n)$",
+      "P: $\\Theta(1)$, Q: $\\Theta(n \\log n)$, R: $\\Theta(n)$",
+      "P: $\\Theta(n)$, Q: $\\Theta(n \\log n)$, R: $\\Theta(n^2)$",
+      "P: $\\Theta(1)$, Q: $\\Theta(n)$, R: $\\Theta(n \\log n)$"
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "0bf8ab6b-eb4c-493a-922b-c8589faa6344",
+    "topic": "d0a7922d-6cd8-4168-9812-fac0b70baff5",
+    "images": [],
+    "subject_name": "Computer Science And Engineering",
+    "topic_name": "Programming & Data Structures"
+  },
+  {
+    "question_number": "Q.39",
+    "question": "For a direct-mapped cache, 4 bits are used for the tag field and 12 bits are used to index into a cache block. The size of each cache block is one byte. Assume that there is no other information stored for each cache block.\n\nWhich ONE of the following is the CORRECT option for the sizes of the main memory and the cache memory in this system (byte addressable), respectively?",
+    "type": "mcq",
+    "choices": [
+      "64 KB and 4 KB",
+      "128 KB and 16 KB",
+      "64 KB and 8 KB",
+      "128 KB and 6 KB"
+    ],
+    "marks": 2,
+    "negativeMarks": 0.67,
+    "subject": "0bf8ab6b-eb4c-493a-922b-c8589faa6344",
+    "topic": "381fea67-1ed3-4fb9-adf8-1544d86d94f0",
+    "images": [],
+    "subject_name": "Computer Science And Engineering",
+    "topic_name": "Computer Organization & Architecture (COA)"
+  },
+  {
+    "question_number": "Q.40",
+    "question": "Given a Context-Free Grammar $G$ as follows:\n\n$S \\rightarrow Aa \\mid bAc \\mid dc \\mid bda$\n$A \\rightarrow d$\n\nWhich ONE of the following statements is TRUE?",
+    "type": "mcq",
+    "choices": [
+      "$G$ is neither LALR(1) nor SLR(1)",
+      "$G$ is CLR(1), not LALR(1)",
+      "$G$ is LALR(1), not SLR(1)",
+      "$G$ is LALR(1), also SLR(1)"
+    ],
+    "marks": 2,
+    "negativeMarks": 0.67,
+    "subject": "0bf8ab6b-eb4c-493a-922b-c8589faa6344",
+    "topic": "56ed1eb7-359c-4533-b344-e49e45080b7b",
+    "images": [],
+    "subject_name": "Computer Science And Engineering",
+    "topic_name": "Compiler Design"
+  },
+  {
+    "question_number": "Q.41",
+    "question": "An array $A$ of length $n$ with distinct elements is said to be bitonic if there is an index $1 \\le i \\le n$ such that $A[1..i]$ is sorted in the non-decreasing order and $A[i+1..n]$ is sorted in the non-increasing order.\n\nWhich ONE of the following represents the best possible asymptotic bound for the worst-case number of comparisons by an algorithm that searches for an element in a bitonic array $A$?",
+    "type": "mcq",
+    "choices": [
+      "$\\Theta(n)$",
+      "$\\Theta(1)$",
+      "$\\Theta(\\log^2 n)$",
+      "$\\Theta(\\log n)$"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "0bf8ab6b-eb4c-493a-922b-c8589faa6344",
+    "topic": "7b8a8cc6-8c28-4a4e-bd30-947adbf0f886",
+    "images": [],
+    "subject_name": "Computer Science And Engineering",
+    "topic_name": "Algorithms"
+  },
+  {
+    "question_number": "Q.42",
+    "question": "Let $\\mathcal{F}$ be the set of all functions from $\\{1, \\dots, n\\}$ to $\\{0,1\\}$. Define the binary relation $\\preccurlyeq$ on $\\mathcal{F}$ as follows:\n$$\\forall f, g \\in \\mathcal{F}, f \\preccurlyeq g \\text{ if and only if } \\forall x \\in \\{1, \\dots, n\\}, f(x) \\le g(x), \\text{ where } 0 \\le 1.$$\nWhich of the following statement(s) is/are TRUE?",
+    "type": "m-mcq",
+    "choices": [
+      "$\\preccurlyeq$ is a symmetric relation",
+      "$(\\mathcal{F}, \\preccurlyeq)$ is a partial order",
+      "$(\\mathcal{F}, \\preccurlyeq)$ is a lattice",
+      "$\\preccurlyeq$ is an equivalence relation"
+    ],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "0bf8ab6b-eb4c-493a-922b-c8589faa6344",
+    "topic": "05d0e1c5-f251-427d-bbdb-b15b36dfde48",
+    "images": [],
+    "subject_name": "Computer Science And Engineering",
+    "topic_name": "Engineering Mathematics"
+  },
+  {
+    "question_number": "Q.43",
+    "question": "Given the following Karnaugh Map for a Boolean function $F(w, x, y, z)$:\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/cs/p2/images/p31_Q_43_img_1.png)\n\nWhich one or more of the following Boolean expression(s) represent(s) $F$?",
+    "type": "m-mcq",
+    "choices": [
+      "$\\bar{w}\\bar{x}\\bar{y}\\bar{z} + w\\bar{x}\\bar{y}\\bar{z} + \\bar{w}\\bar{x}y\\bar{z} + w\\bar{x}y\\bar{z} + xz$",
+      "$\\bar{w}\\bar{x}\\bar{y}\\bar{z} + \\bar{w}\\bar{x}y\\bar{z} + w\\bar{x}y\\bar{z} + xz$",
+      "$\\bar{w}\\bar{x}\\bar{y}\\bar{z} + w\\bar{x}\\bar{y}\\bar{z} + w\\bar{x}y\\bar{z} + xz$",
+      "$\\bar{x}\\bar{z} + xz$"
+    ],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "0bf8ab6b-eb4c-493a-922b-c8589faa6344",
+    "topic": "f2ec8e1f-3fc5-4865-bc85-ab7568e6da41",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          168,
+          438,
+          301,
+          643
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/cs/p2/images/p31_Q_43_img_1.png"
+      }
+    ],
+    "subject_name": "Computer Science And Engineering",
+    "topic_name": "Digital Logic"
+  },
+  {
+    "question_number": "Q.44",
+    "question": "Consider a system of linear equations $PX = Q$ where $P \\in \\mathbb{R}^{3\\times 3}$ and $Q \\in \\mathbb{R}^{3\\times 1}$. Suppose $P$ has an LU decomposition, $P = LU$, where\n\n$$L = \\begin{bmatrix} 1 & 0 & 0 \\\\ l_{21} & 1 & 0 \\\\ l_{31} & l_{32} & 1 \\end{bmatrix} \\quad \\text{and} \\quad U = \\begin{bmatrix} u_{11} & u_{12} & u_{13} \\\\ 0 & u_{22} & u_{23} \\\\ 0 & 0 & u_{33} \\end{bmatrix}.$$\n\nWhich of the following statement(s) is/are TRUE?",
+    "type": "m-mcq",
+    "choices": [
+      "The system $PX = Q$ can be solved by first solving $LY = Q$ and then $UX = Y$.",
+      "If $P$ is invertible, then both $L$ and $U$ are invertible.",
+      "If $P$ is singular, then at least one of the diagonal elements of $U$ is zero.",
+      "If $P$ is symmetric, then both $L$ and $U$ are symmetric."
+    ],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "0bf8ab6b-eb4c-493a-922b-c8589faa6344",
+    "topic": "05d0e1c5-f251-427d-bbdb-b15b36dfde48",
+    "images": [],
+    "subject_name": "Computer Science And Engineering",
+    "topic_name": "Engineering Mathematics"
+  },
+  {
+    "question_number": "Q.45",
+    "question": "Consider a stack data structure into which we can PUSH and POP records. Assume that each record pushed in the stack has a positive integer key and that all keys are distinct.\n\nWe wish to augment the stack data structure with an $O(1)$ time MIN operation that returns a pointer to the record with smallest key present in the stack\n1) without deleting the corresponding record, and\n2) without increasing the complexities of the standard stack operations.\n\nWhich one or more of the following approach(es) can achieve it?",
+    "type": "m-mcq",
+    "choices": [
+      "Keep with every record in the stack, a pointer to the record with the smallest key below it.",
+      "Keep a pointer to the record with the smallest key in the stack.",
+      "Keep an auxiliary array in which the key values of the records in the stack are maintained in sorted order.",
+      "Keep a Min-Heap in which the key values of the records in the stack are maintained."
+    ],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "0bf8ab6b-eb4c-493a-922b-c8589faa6344",
+    "topic": "d0a7922d-6cd8-4168-9812-fac0b70baff5",
+    "images": [],
+    "subject_name": "Computer Science And Engineering",
+    "topic_name": "Programming & Data Structures"
+  },
+  {
+    "question_number": "Q.46",
+    "question": "Consider the following relational schema along with all the functional dependencies that hold on them.\n\n$R1(A, B, C, D, E): \\{ D \\rightarrow E, EA \\rightarrow B, EB \\rightarrow C \\}$\n\n$R2(A, B, C, D): \\{ A \\rightarrow D, A \\rightarrow B, C \\rightarrow A \\}$\n\nWhich of the following statement(s) is/are TRUE?",
+    "type": "m-mcq",
+    "choices": [
+      "$R1$ is in 3NF",
+      "$R2$ is in 3NF",
+      "$R1$ is NOT in 3NF",
+      "$R2$ is NOT in 3NF"
+    ],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "0bf8ab6b-eb4c-493a-922b-c8589faa6344",
+    "topic": "bed6aea7-04a8-4a28-b6ae-85d6aebc660e",
+    "images": [],
+    "subject_name": "Computer Science And Engineering",
+    "topic_name": "Database Management System (DBMS)"
+  },
+  {
+    "question_number": "Q.47",
+    "question": "Consider a demand paging system with three frames, and the following page reference string: 1 2 3 4 5 4 1 6 4 5 1 3 2. The contents of the frames are as follows initially and after each reference (from left to right):\n\n| *initially* | *after* | | | | | | | | | | | | |\n| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |\n| - | 1\\* | 2\\* | 3\\* | 4\\* | 5\\* | 4 | 1 | 6\\* | 4 | 5 | 1\\* | 3\\* | 2\\* |\n| - | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 6 | 6 | 6 | 6 | 6 | 2 |\n| - | - | 2 | 2 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 1 | 1 | 1 |\n| - | - | - | 3 | 3 | 5 | 5 | 5 | 5 | 5 | 5 | 5 | 3 | 3 |\n\nThe \\*-marked references cause page replacements.\n\nWhich one or more of the following could be the page replacement policy/policies in use?",
+    "type": "m-mcq",
+    "choices": [
+      "Least Recently Used page replacement policy",
+      "Least Frequently Used page replacement policy",
+      "Most Frequently Used page replacement policy",
+      "Optimal page replacement policy"
+    ],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "0bf8ab6b-eb4c-493a-922b-c8589faa6344",
+    "topic": "94bae9c5-81a8-4df5-bf21-2e1bb8b8b2ae",
+    "images": [],
+    "subject_name": "Computer Science And Engineering",
+    "topic_name": "Operating Systems (OS)"
+  },
+  {
+    "question_number": "Q.48",
+    "question": "$P = \\{P_1, P_2, P_3, P_4\\}$ consists of all active processes in an operating system.\n$R = \\{R_1, R_2, R_3, R_4\\}$ consists of single instances of distinct types of resources in the system.\n\nThe resource allocation graph has the following assignment and claim edges.\n\nAssignment edges: $R_1 \\to P_1, R_2 \\to P_2, R_3 \\to P_3, R_4 \\to P_4$ (the assignment edge $R_1 \\to P_1$ means resource $R_1$ is assigned to process $P_1$ , and so on for others)\n\nClaim edges: $P_1 \\to R_2, P_2 \\to R_3, P_3 \\to R_1, P_2 \\to R_4, P_4 \\to R_2$ (the claim edge $P_1 \\to R_2$ means process $P_1$ is waiting for resource $R_2$ , and so on for others)\n\nWhich of the following statement(s) is/are CORRECT?",
+    "type": "m-mcq",
+    "choices": [
+      "Aborting $P_1$ makes the system deadlock free.",
+      "Aborting $P_3$ makes the system deadlock free.",
+      "Aborting $P_2$ makes the system deadlock free.",
+      "Aborting $P_1$ and $P_4$ makes the system deadlock free."
+    ],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "0bf8ab6b-eb4c-493a-922b-c8589faa6344",
+    "topic": "94bae9c5-81a8-4df5-bf21-2e1bb8b8b2ae",
+    "images": [],
+    "subject_name": "Computer Science And Engineering",
+    "topic_name": "Operating Systems (OS)"
+  },
+  {
+    "question_number": "Q.49",
+    "question": "Three floating point numbers $X, Y,$ and $Z$ are stored in three registers $\\text{R}_X, \\text{R}_Y,$ and $\\text{R}_Z,$ respectively in IEEE 754 single precision format as given below in hexadecimal:\n\n$$\\text{R}_X = \\text{0xC1100000}, \\quad \\text{R}_Y = \\text{0x40C00000}, \\quad \\text{and} \\quad \\text{R}_Z = \\text{0x41400000}$$\n\nWhich of the following option(s) is/are CORRECT?",
+    "type": "m-mcq",
+    "choices": [
+      "$4(X + Y) + Z = 0$",
+      "$2Y - Z = 0$",
+      "$4X + 3Z = 0$",
+      "$X + Y + Z = 0$"
+    ],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "0bf8ab6b-eb4c-493a-922b-c8589faa6344",
+    "topic": "381fea67-1ed3-4fb9-adf8-1544d86d94f0",
+    "images": [],
+    "subject_name": "Computer Science And Engineering",
+    "topic_name": "Computer Organization & Architecture (COA)"
+  },
+  {
+    "question_number": "Q.50",
+    "question": "Which of the following Boolean algebraic equation(s) is/are CORRECT?",
+    "type": "m-mcq",
+    "choices": [
+      "$\\bar{A} B C + A \\bar{B} \\bar{C} + \\bar{A} \\bar{B} \\bar{C} + A \\bar{B} C + A B C = B C + \\bar{B} \\bar{C} + \\bar{A} \\bar{B}$",
+      "$A B + \\bar{A} C + B C = A B + \\bar{A} C$",
+      "$(A + C)(\\bar{A} + B) = A B + \\bar{A} C$",
+      "$\\overline{(A + \\bar{B} + \\bar{D})(C + D)(\\bar{A} + C + D)(A + B + \\bar{D})} = \\bar{A} D + \\bar{C} \\bar{D}$"
+    ],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "0bf8ab6b-eb4c-493a-922b-c8589faa6344",
+    "topic": "f2ec8e1f-3fc5-4865-bc85-ab7568e6da41",
+    "images": [],
+    "subject_name": "Computer Science And Engineering",
+    "topic_name": "Digital Logic"
+  },
+  {
+    "question_number": "Q.51",
+    "question": "Consider two grammars $G_1$ and $G_2$ with the production rules given below:\n\n$$G_1: S \\rightarrow if\\ E\\ then\\ S \\mid if\\ E\\ then\\ S\\ else\\ S \\mid a$$\n$$E \\rightarrow b$$\n\n$$G_2: S \\rightarrow if\\ E\\ then\\ S \\mid M$$\n$$M \\rightarrow if\\ E\\ then\\ M\\ else\\ S \\mid c$$\n$$E \\rightarrow b$$\n\nwhere $if, then, else, a, b, c$ are the terminals.\n\nWhich of the following option(s) is/are CORRECT?",
+    "type": "m-mcq",
+    "choices": [
+      "$G_1$ is not $LL(1)$ and $G_2$ is $LL(1)$.",
+      "$G_1$ is $LL(1)$ and $G_2$ is not $LL(1)$.",
+      "$G_1$ and $G_2$ are not $LL(1)$.",
+      "$G_1$ and $G_2$ are ambiguous."
+    ],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "0bf8ab6b-eb4c-493a-922b-c8589faa6344",
+    "topic": "56ed1eb7-359c-4533-b344-e49e45080b7b",
+    "images": [],
+    "subject_name": "Computer Science And Engineering",
+    "topic_name": "Compiler Design"
+  },
+  {
+    "question_number": "Q.52",
+    "question": "Let $\\Sigma = \\{a, b, c\\}$. For $x \\in \\Sigma^*$, and $\\alpha \\in \\Sigma$, let $\\#_\\alpha(x)$ denote the number of occurrences of $\\alpha$ in $x$.\n\nWhich one or more of the following option(s) define(s) regular language(s)?",
+    "type": "m-mcq",
+    "choices": [
+      "$\\{a^m b^n \\mid m, n \\ge 0\\}$",
+      "$\\{a, b\\}^* \\cap \\{a^m b^n c^{m-n} \\mid m \\ge n \\ge 0\\}$",
+      "$\\{w \\mid w \\in \\{a, b\\}^*, \\#_a(w) \\equiv 2 \\pmod 7, \\text{ and } \\#_b(w) \\equiv 3 \\pmod 9\\}$",
+      "$\\{w \\mid w \\in \\{a, b\\}^*, \\#_a(w) \\equiv 2 \\pmod 7, \\text{ and } \\#_a(w) = \\#_b(w)\\}$"
+    ],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "0bf8ab6b-eb4c-493a-922b-c8589faa6344",
+    "topic": "f89b04fd-66f7-4ec8-ade8-970d584d3f4b",
+    "images": [],
+    "subject_name": "Computer Science And Engineering",
+    "topic_name": "Theory of Computation / FLAT"
+  },
+  {
+    "question_number": "Q.53",
+    "question": "Consider the database transactions T1 and T2, and data items X and Y. Which of the schedule(s) is/are conflict serializable?\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/cs/p2/images/p40_Q_53_img_1.png)",
+    "type": "m-mcq",
+    "choices": [
+      "R1(X), W2(X), W1(Y), W2(Y), R1(X), W1(X), COMMIT(T2), COMMIT(T1)",
+      "W2(X), R1(X), W2(Y), W1(Y), R1(X), COMMIT(T2), W1(X), COMMIT(T1)",
+      "R1(X), W1(Y), W2(X), W2(Y), R1(X), W1(X), COMMIT(T1), COMMIT(T2)",
+      "W2(X), R1(X), W1(Y), W2(Y), R1(X), COMMIT(T2), W1(X), COMMIT(T1)"
+    ],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "0bf8ab6b-eb4c-493a-922b-c8589faa6344",
+    "topic": "bed6aea7-04a8-4a28-b6ae-85d6aebc660e",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          184,
+          270,
+          357,
+          731
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/cs/p2/images/p40_Q_53_img_1.png"
+      }
+    ],
+    "subject_name": "Computer Science And Engineering",
+    "topic_name": "Database Management System (DBMS)"
+  },
+  {
+    "question_number": "Q.54",
+    "question": "Consider the following relational schema:\n\nStudents (<u>rollno: integer</u>, name: string, age: integer, cgpa: real)\n\nCourses (<u>courseno: integer</u>, cname: string, credits: integer)\n\nEnrolled (<u>rollno: integer</u>, <u>courseno: integer</u>, grade: string)\n\nWhich of the following options is/are correct SQL query/queries to retrieve the names of the students enrolled in course number (i.e., courseno) 1470?",
+    "type": "m-mcq",
+    "choices": [
+      "SELECT S.name\nFROM Students S\nWHERE EXISTS (SELECT * FROM Enrolled E\n              WHERE E.courseno = 1470\n                AND E.rollno = S.rollno);",
+      "SELECT S.name\nFROM Students S\nWHERE SIZEOF (SELECT * FROM Enrolled E\n              WHERE E.courseno = 1470\n                AND E.rollno = S.rollno) > 0;",
+      "SELECT S.name\nFROM Students S\nWHERE 0 < (SELECT COUNT(*)\n           FROM Enrolled E\n           WHERE E.courseno = 1470\n             AND E.rollno = S.rollno);",
+      "SELECT S.name\nFROM Students S NATURAL JOIN Enrolled E\nWHERE E.courseno = 1470;"
+    ],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "0bf8ab6b-eb4c-493a-922b-c8589faa6344",
+    "topic": "bed6aea7-04a8-4a28-b6ae-85d6aebc660e",
+    "images": [],
+    "subject_name": "Computer Science And Engineering",
+    "topic_name": "Database Management System (DBMS)"
+  },
+  {
+    "question_number": "Q.55",
+    "question": "Given a computing system with two levels of cache (L1 and L2) and a main memory. The first level (L1) cache access time is 1 nanosecond (ns) and the “hit rate” for L1 cache is 90% while the processor is accessing the data from L1 cache. Whereas, for the second level (L2) cache, the “hit rate” is 80% and the “miss penalty” for transferring data from L2 cache to L1 cache is 10 ns. The “miss penalty” for the data to be transferred from main memory to L2 cache is 100 ns.\n\nThen the average memory access time in this system in nanoseconds is ____________ . (rounded off to one decimal place)",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "0bf8ab6b-eb4c-493a-922b-c8589faa6344",
+    "topic": "381fea67-1ed3-4fb9-adf8-1544d86d94f0",
+    "images": [],
+    "subject_name": "Computer Science And Engineering",
+    "topic_name": "Computer Organization & Architecture (COA)"
+  },
+  {
+    "question_number": "Q.56",
+    "question": "A 5-stage instruction pipeline has stage delays of 180, 250, 150, 170, and 250, respectively, in nanoseconds. The delay of an inter-stage latch is 10 nanoseconds. Assume that there are no pipeline stalls due to branches and other hazards. The time taken to process 1000 instructions in microseconds is ____________ . (rounded off to two decimal places)",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "0bf8ab6b-eb4c-493a-922b-c8589faa6344",
+    "topic": "381fea67-1ed3-4fb9-adf8-1544d86d94f0",
+    "images": [],
+    "subject_name": "Computer Science And Engineering",
+    "topic_name": "Computer Organization & Architecture (COA)"
+  },
+  {
+    "question_number": "Q.57",
+    "question": "In a $\\text{B}^+$-tree where each node can hold at most four key values, a root to leaf path consists of the following nodes:\n\n$$\\text{A} = (49, 77, 83, -), \\text{B} = (7, 19, 33, 44), \\text{C} = (20^*, 22^*, 25^*, 26^*)$$\n\nThe $*$-marked keys signify that these are data entries in a leaf.\n\nAssume that a pointer between keys $k_1$ and $k_2$ points to a subtree containing keys in $[k_1, k_2)$, and that when a leaf is created, the smallest key in it is copied up into its parent.\n\nA record with key value 23 is inserted into the $\\text{B}^+$-tree.\n\nThe smallest key value in the parent of the leaf that contains $25^*$ is ____________ . (Answer in integer)",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "0bf8ab6b-eb4c-493a-922b-c8589faa6344",
+    "topic": "bed6aea7-04a8-4a28-b6ae-85d6aebc660e",
+    "images": [],
+    "subject_name": "Computer Science And Engineering",
+    "topic_name": "Database Management System (DBMS)"
+  },
+  {
+    "question_number": "Q.58",
+    "question": "A computer system supports a logical address space of $2^{32}$ bytes. It uses two-level hierarchical paging with a page size of 4096 bytes. A logical address is divided into a $b$-bit index to the outer page table, an offset within the page of the inner page table, and an offset within the desired page. Each entry of the inner page table uses eight bytes. All the pages in the system have the same size.\n\nThe value of $b$ is ________ . (Answer in integer)",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "0bf8ab6b-eb4c-493a-922b-c8589faa6344",
+    "topic": "94bae9c5-81a8-4df5-bf21-2e1bb8b8b2ae",
+    "images": [],
+    "subject_name": "Computer Science And Engineering",
+    "topic_name": "Operating Systems (OS)"
+  },
+  {
+    "question_number": "Q.59",
+    "question": "Consider the following algorithm `someAlgo` that takes an undirected graph $G$ as input.\n\n$$\\begin{aligned}\n&\\text{someAlgo}(G) \\\\\n&\\quad 1.\\ \\text{Let } v \\text{ be any vertex in } G. \\text{ Run BFS on } G \\text{ starting at } v. \\\\\n&\\quad\\quad\\ \\text{Let } u \\text{ be a vertex in } G \\text{ at maximum distance from } v \\text{ as given by the BFS.} \\\\\n&\\quad 2.\\ \\text{Run BFS on } G \\text{ again with } u \\text{ as the starting vertex.} \\\\\n&\\quad\\quad\\ \\text{Let } z \\text{ be the vertex at maximum distance from } u \\text{ as given by the BFS.} \\\\\n&\\quad 3.\\ \\text{Output the distance between } u \\text{ and } z \\text{ in } G.\n\\end{aligned}$$\n\nThe output of `someAlgo(T)` for the tree shown in the given figure is ________ . (Answer in integer)\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/cs/p2/images/p43_Q_59_img_1.png)",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "0bf8ab6b-eb4c-493a-922b-c8589faa6344",
+    "topic": "7b8a8cc6-8c28-4a4e-bd30-947adbf0f886",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          591,
+          287,
+          746,
+          719
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/cs/p2/images/p43_Q_59_img_1.png"
+      }
+    ],
+    "subject_name": "Computer Science And Engineering",
+    "topic_name": "Algorithms"
+  },
+  {
+    "question_number": "Q.60",
+    "question": "Let $\\Sigma = \\{1,2,3,4\\}$. For $x \\in \\Sigma^*$, let $prod(x)$ be the product of symbols in $x$ modulo 7. We take $prod(\\epsilon) = 1$, where $\\epsilon$ is the null string.\n\nFor example, $prod(124) = (1 \\times 2 \\times 4) \\bmod 7 = 1$.\n\nDefine $L = \\{x \\in \\Sigma^* \\mid prod(x) = 2\\}$.\n\nThe number of states in a minimum state DFA for $L$ is ____________.",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "0bf8ab6b-eb4c-493a-922b-c8589faa6344",
+    "topic": "f89b04fd-66f7-4ec8-ade8-970d584d3f4b",
+    "images": [],
+    "subject_name": "Computer Science And Engineering",
+    "topic_name": "Theory of Computation / FLAT"
+  },
+  {
+    "question_number": "Q.61",
+    "question": "An application executes $6.4 \\times 10^8$ number of instructions in 6.3 seconds. There are four types of instructions, the details of which are given in the table. The duration of a clock cycle in nanoseconds is ____________. (rounded off to one decimal place)\n\n| Instruction type | Clock cycles required per instruction (CPI) | Number of instructions executed |\n| :--- | :---: | :---: |\n| Branch | 2 | $2.25 \\times 10^8$ |\n| Load | 5 | $1.20 \\times 10^8$ |\n| Store | 4 | $1.65 \\times 10^8$ |\n| Arithmetic | 3 | $1.30 \\times 10^8$ |",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "0bf8ab6b-eb4c-493a-922b-c8589faa6344",
+    "topic": "381fea67-1ed3-4fb9-adf8-1544d86d94f0",
+    "images": [],
+    "subject_name": "Computer Science And Engineering",
+    "topic_name": "Computer Organization & Architecture (COA)"
+  },
+  {
+    "question_number": "Q.62",
+    "question": "Consider the following C program:\n\n```c\n#include <stdio.h>\n\nint main() {\n    int a;\n    int arr[5] = {30,50,10};\n    int *ptr;\n    \n    ptr = &arr[0] + 1;\n    a = *ptr;\n    (*ptr)++;\n    ptr++;\n    \n    printf(\"%d\", a + (*ptr) + arr[1]);\n    return 0;\n}\n```\n\nThe output of the above program is __________. (Answer in integer)",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "0bf8ab6b-eb4c-493a-922b-c8589faa6344",
+    "topic": "d0a7922d-6cd8-4168-9812-fac0b70baff5",
+    "images": [],
+    "subject_name": "Computer Science And Engineering",
+    "topic_name": "Programming & Data Structures"
+  },
+  {
+    "question_number": "Q.63",
+    "question": "Consider the following C program:\n\n```c\n#include <stdio.h>\n\nint g(int n) {\n    return (n+10);\n}\n\nint f(int n) {\n    return g(n*2);\n}\n\nint main() {\n    int sum, n;\n    sum=0;\n    for (n=1; n<3; n++)\n        sum += g(f(n));\n    printf (\"%d\", sum);\n    return 0;\n}\n```\n\nThe output of the given C program is ________ . (Answer in integer)",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "0bf8ab6b-eb4c-493a-922b-c8589faa6344",
+    "topic": "d0a7922d-6cd8-4168-9812-fac0b70baff5",
+    "images": [],
+    "subject_name": "Computer Science And Engineering",
+    "topic_name": "Programming & Data Structures"
+  },
+  {
+    "question_number": "Q.64",
+    "question": "A quadratic polynomial $(x - \\alpha)(x - \\beta)$ over complex numbers is said to be square invariant if $(x - \\alpha)(x - \\beta) = (x - \\alpha^2)(x - \\beta^2)$. Suppose from the set of all square invariant quadratic polynomials we choose one at random.\n\nThe probability that the roots of the chosen polynomial are equal is ________ .\n(rounded off to one decimal place)",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "0bf8ab6b-eb4c-493a-922b-c8589faa6344",
+    "topic": "05d0e1c5-f251-427d-bbdb-b15b36dfde48",
+    "images": [],
+    "subject_name": "Computer Science And Engineering",
+    "topic_name": "Engineering Mathematics"
+  },
+  {
+    "question_number": "Q.65",
+    "question": "The unit interval $(0,1)$ is divided at a point chosen uniformly distributed over $(0,1)$ in $\\mathbb{R}$ into two disjoint subintervals.\n\nThe expected length of the subinterval that contains $0.4$ is ____________. (rounded off to two decimal places)",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "0bf8ab6b-eb4c-493a-922b-c8589faa6344",
+    "topic": "05d0e1c5-f251-427d-bbdb-b15b36dfde48",
+    "images": [],
+    "subject_name": "Computer Science And Engineering",
+    "topic_name": "Engineering Mathematics"
+  }
+]

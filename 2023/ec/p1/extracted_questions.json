@@ -1,0 +1,1499 @@
+[
+  {
+    "question_number": "Q.1",
+    "question": "“I cannot support this proposal. My ________ will not permit it.”",
+    "type": "mcq",
+    "choices": [
+      "conscious",
+      "consensus",
+      "conscience",
+      "consent"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "017d31c0-ae6c-4ac0-8c67-b392b9af1a75",
+    "images": [],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "General Aptitude"
+  },
+  {
+    "question_number": "Q.2",
+    "question": "Courts : ________ :: Parliament : Legislature\n\n(By word meaning)",
+    "type": "mcq",
+    "choices": [
+      "Judiciary",
+      "Executive",
+      "Governmental",
+      "Legal"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "017d31c0-ae6c-4ac0-8c67-b392b9af1a75",
+    "images": [],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "General Aptitude"
+  },
+  {
+    "question_number": "Q.3",
+    "question": "What is the smallest number with distinct digits whose digits add up to 45?",
+    "type": "mcq",
+    "choices": [
+      "123555789",
+      "123457869",
+      "123456789",
+      "99999"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "017d31c0-ae6c-4ac0-8c67-b392b9af1a75",
+    "images": [],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "General Aptitude"
+  },
+  {
+    "question_number": "Q.4",
+    "question": "In a class of 100 students,\n\n(i) there are 30 students who neither like romantic movies nor comedy movies,\n(ii) the number of students who like romantic movies is twice the number of students who like comedy movies, and\n(iii) the number of students who like both romantic movies and comedy movies is 20.\n\nHow many students in the class like romantic movies?",
+    "type": "mcq",
+    "choices": [
+      "40",
+      "20",
+      "60",
+      "30"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "017d31c0-ae6c-4ac0-8c67-b392b9af1a75",
+    "images": [],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "General Aptitude"
+  },
+  {
+    "question_number": "Q.5",
+    "question": "How many rectangles are present in the given figure?\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ec/p1/images/p2_Q_5_img_1.png)",
+    "type": "mcq",
+    "choices": [
+      "8",
+      "9",
+      "10",
+      "12"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "017d31c0-ae6c-4ac0-8c67-b392b9af1a75",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          145,
+          372,
+          376,
+          698
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ec/p1/images/p2_Q_5_img_1.png"
+      }
+    ],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "General Aptitude"
+  },
+  {
+    "question_number": "Q.6",
+    "question": "Forestland is a planet inhabited by different kinds of creatures. Among other creatures, it is populated by animals all of whom are ferocious. There are also creatures that have claws, and some that do not. All creatures that have claws are ferocious.\n\nBased only on the information provided above, which one of the following options can be logically inferred with *certainty*?",
+    "type": "mcq",
+    "choices": [
+      "All creatures with claws are animals.",
+      "Some creatures with claws are non-ferocious.",
+      "Some non-ferocious creatures have claws.",
+      "Some ferocious creatures are creatures with claws."
+    ],
+    "marks": 2,
+    "negativeMarks": 0.66,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "017d31c0-ae6c-4ac0-8c67-b392b9af1a75",
+    "images": [],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "General Aptitude"
+  },
+  {
+    "question_number": "Q.7",
+    "question": "Which one of the following options represents the given graph?\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ec/p1/images/p4_Q_7_img_1.png)",
+    "type": "mcq",
+    "choices": [
+      "$f(x) = x^2 2^{-|x|}$",
+      "$f(x) = x 2^{-|x|}$",
+      "$f(x) = |x| 2^{-x}$",
+      "$f(x) = x 2^{-x}$"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "7e046547-1d2b-4c02-baee-1a1ec26c4a4d",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          153,
+          226,
+          341,
+          843
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ec/p1/images/p4_Q_7_img_1.png"
+      }
+    ],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Engineering Mathematics"
+  },
+  {
+    "question_number": "Q.8",
+    "question": "Which one of the following options can be inferred from the given passage alone?\n\nWhen I was a kid, I was partial to stories about other worlds and interplanetary travel. I used to imagine that I could just gaze off into space and be whisked to another planet.\n\n[Excerpt from *The Truth about Stories* by T. King]",
+    "type": "mcq",
+    "choices": [
+      "It is a child’s description of what he or she likes.",
+      "It is an adult’s memory of what he or she liked as a child.",
+      "The child in the passage read stories about interplanetary travel only in parts.",
+      "It teaches us that stories are good for children."
+    ],
+    "marks": 2,
+    "negativeMarks": 0.66,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "017d31c0-ae6c-4ac0-8c67-b392b9af1a75",
+    "images": [],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "General Aptitude"
+  },
+  {
+    "question_number": "Q.9",
+    "question": "Out of 1000 individuals in a town, 100 unidentified individuals are covid positive. Due to lack of adequate covid-testing kits, the health authorities of the town devised a strategy to identify these covid-positive individuals. The strategy is to:\n\n(i) Collect saliva samples from all 1000 individuals and randomly group them into sets of 5.\n(ii) Mix the samples within each set and test the mixed sample for covid.\n(iii) If the test done in (ii) gives a negative result, then declare all the 5 individuals to be covid negative.\n(iv) If the test done in (ii) gives a positive result, then all the 5 individuals are separately tested for covid.\n\nGiven this strategy, no more than ________ testing kits will be required to identify all the 100 covid positive individuals irrespective of how they are grouped.",
+    "type": "mcq",
+    "choices": [
+      "700",
+      "600",
+      "800",
+      "1000"
+    ],
+    "marks": 2,
+    "negativeMarks": 0.66,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "017d31c0-ae6c-4ac0-8c67-b392b9af1a75",
+    "images": [],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "General Aptitude"
+  },
+  {
+    "question_number": "Q.10",
+    "question": "A 100 cm × 32 cm rectangular sheet is folded 5 times. Each time the sheet is folded, the long edge aligns with its opposite side. Eventually, the folded sheet is a rectangle of dimensions 100 cm × 1 cm.\n\nThe total number of creases visible when the sheet is unfolded is ________.",
+    "type": "mcq",
+    "choices": [
+      "32",
+      "5",
+      "31",
+      "63"
+    ],
+    "marks": 2,
+    "negativeMarks": 0.66,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "017d31c0-ae6c-4ac0-8c67-b392b9af1a75",
+    "images": [],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "General Aptitude"
+  },
+  {
+    "question_number": "Q.11",
+    "question": "Let $\\boldsymbol{v_1} = \\begin{bmatrix} 1 \\\\ 2 \\\\ 0 \\end{bmatrix}$ and $\\boldsymbol{v_2} = \\begin{bmatrix} 2 \\\\ 1 \\\\ 3 \\end{bmatrix}$ be two vectors. The value of the coefficient $\\alpha$ in the expression $\\boldsymbol{v_1} = \\alpha \\boldsymbol{v_2} + \\boldsymbol{e}$, which minimizes the length of the error vector $\\boldsymbol{e}$, is",
+    "type": "mcq",
+    "choices": [
+      "$\\frac{7}{2}$",
+      "$\\frac{-2}{7}$",
+      "$\\frac{2}{7}$",
+      "$\\frac{-7}{2}$"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "7e046547-1d2b-4c02-baee-1a1ec26c4a4d",
+    "images": [],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Engineering Mathematics"
+  },
+  {
+    "question_number": "Q.12",
+    "question": "The rate of increase, of a scalar field $f(x, y, z) = xyz$, in the direction $\\boldsymbol{v} = (2,1,2)$ at a point $(0,2,1)$ is",
+    "type": "mcq",
+    "choices": [
+      "$\\frac{2}{3}$",
+      "$\\frac{4}{3}$",
+      "2",
+      "4"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "7e046547-1d2b-4c02-baee-1a1ec26c4a4d",
+    "images": [],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Engineering Mathematics"
+  },
+  {
+    "question_number": "Q.13",
+    "question": "Let $w^4 = 16j$. Which of the following cannot be a value of $w$?",
+    "type": "mcq",
+    "choices": [
+      "$2e^{\\frac{j2\\pi}{8}}$",
+      "$2e^{\\frac{j\\pi}{8}}$",
+      "$2e^{\\frac{j5\\pi}{8}}$",
+      "$2e^{\\frac{j9\\pi}{8}}$"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "7e046547-1d2b-4c02-baee-1a1ec26c4a4d",
+    "images": [],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Engineering Mathematics"
+  },
+  {
+    "question_number": "Q.14",
+    "question": "The value of the contour integral, $\\oint_C \\left( \\frac{z+2}{z^2+2z+2} \\right) dz$ , where the contour C is $\\left\\{ z: \\left| z + 1 - \\frac{3}{2}j \\right| = 1 \\right\\}$, taken in the counter clockwise direction, is",
+    "type": "mcq",
+    "choices": [
+      "$-\\pi(1 + j)$",
+      "$\\pi(1 + j)$",
+      "$\\pi(1 - j)$",
+      "$-\\pi(1 - j)$"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "7e046547-1d2b-4c02-baee-1a1ec26c4a4d",
+    "images": [],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Engineering Mathematics"
+  },
+  {
+    "question_number": "Q.15",
+    "question": "Let the sets of eigenvalues and eigenvectors of a matrix $B$ be $\\{\\lambda_k \\mid 1 \\le k \\le n\\}$ and $\\{\\boldsymbol{v}_k \\mid 1 \\le k \\le n\\}$, respectively. For any invertible matrix $P$, the sets of eigenvalues and eigenvectors of the matrix $A$, where $B = P^{-1}AP$, respectively, are",
+    "type": "mcq",
+    "choices": [
+      "$\\{\\lambda_k \\det(A) \\mid 1 \\le k \\le n\\}$ and $\\{P\\boldsymbol{v}_k \\mid 1 \\le k \\le n\\}$",
+      "$\\{\\lambda_k \\mid 1 \\le k \\le n\\}$ and $\\{\\boldsymbol{v}_k \\mid 1 \\le k \\le n\\}$",
+      "$\\{\\lambda_k \\mid 1 \\le k \\le n\\}$ and $\\{P\\boldsymbol{v}_k \\mid 1 \\le k \\le n\\}$",
+      "$\\{\\lambda_k \\mid 1 \\le k \\le n\\}$ and $\\{P^{-1}\\boldsymbol{v}_k \\mid 1 \\le k \\le n\\}$"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "7e046547-1d2b-4c02-baee-1a1ec26c4a4d",
+    "images": [],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Engineering Mathematics"
+  },
+  {
+    "question_number": "Q.16",
+    "question": "In a semiconductor, if the Fermi energy level lies in the conduction band, then the semiconductor is known as",
+    "type": "mcq",
+    "choices": [
+      "degenerate n-type.",
+      "degenerate p-type.",
+      "non-degenerate n-type.",
+      "non-degenerate p-type."
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "b39b6692-807e-4025-89af-9e2b2fbbc087",
+    "images": [],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Electronic Devices"
+  },
+  {
+    "question_number": "Q.17",
+    "question": "For an intrinsic semiconductor at temperature $T = 0\\text{ K}$, which of the following statement is true?",
+    "type": "mcq",
+    "choices": [
+      "All energy states in the valence band are filled with electrons and all energy states in the conduction band are empty of electrons.",
+      "All energy states in the valence band are empty of electrons and all energy states in the conduction band are filled with electrons.",
+      "All energy states in the valence and conduction band are filled with holes.",
+      "All energy states in the valence and conduction band are filled with electrons."
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "b39b6692-807e-4025-89af-9e2b2fbbc087",
+    "images": [],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Electronic Devices"
+  },
+  {
+    "question_number": "Q.18",
+    "question": "A series $RLC$ circuit has a quality factor $Q$ of $1000$ at a center frequency of $10^6\\text{ rad/s}$. The possible values of $R, L$ and $C$ are",
+    "type": "mcq",
+    "choices": [
+      "$R = 1\\ \\Omega, L = 1\\ \\mu\\text{H}$ and $C = 1\\ \\mu\\text{F}$",
+      "$R = 0.1\\ \\Omega, L = 1\\ \\mu\\text{H}$ and $C = 1\\ \\mu\\text{F}$",
+      "$R = 0.01\\ \\Omega, L = 1\\ \\mu\\text{H}$ and $C = 1\\ \\mu\\text{F}$",
+      "$R = 0.001\\ \\Omega, L = 1\\ \\mu\\text{H}$ and $C = 1\\ \\mu\\text{F}$"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "82e617a8-9cf2-4dbb-aeb3-8820327b46b5",
+    "images": [],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Network Theory"
+  },
+  {
+    "question_number": "Q.19",
+    "question": "For a MOS capacitor, $\\text{V}_{\\text{fb}}$ and $\\text{V}_{\\text{t}}$ are the flat-band voltage and the threshold voltage, respectively. The variation of the depletion width ($\\text{W}_{\\text{dep}}$) for varying gate voltage ($\\text{V}_{\\text{g}}$) is best represented by",
+    "type": "mcq",
+    "choices": [
+      "![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ec/p1/images/p12_Q_19_img_a.png)",
+      "![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ec/p1/images/p12_Q_19_img_b.png)",
+      "![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ec/p1/images/p12_Q_19_img_c.png)",
+      "![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ec/p1/images/p12_Q_19_img_d.png)"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "b39b6692-807e-4025-89af-9e2b2fbbc087",
+    "images": [
+      {
+        "box_id": "img_a",
+        "box": [
+          233,
+          217,
+          340,
+          483
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ec/p1/images/p12_Q_19_img_a.png"
+      },
+      {
+        "box_id": "img_b",
+        "box": [
+          377,
+          217,
+          484,
+          483
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ec/p1/images/p12_Q_19_img_b.png"
+      },
+      {
+        "box_id": "img_c",
+        "box": [
+          523,
+          217,
+          631,
+          483
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ec/p1/images/p12_Q_19_img_c.png"
+      },
+      {
+        "box_id": "img_d",
+        "box": [
+          669,
+          217,
+          792,
+          503
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ec/p1/images/p12_Q_19_img_d.png"
+      }
+    ],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Electronic Devices"
+  },
+  {
+    "question_number": "Q.20",
+    "question": "Consider a narrow band signal, propagating in a lossless dielectric medium $(\\varepsilon_r = 4, \\mu_r = 1)$, with phase velocity $v_p$ and group velocity $v_g$. Which of the following statement is true? ($c$ is the velocity of light in vacuum.)",
+    "type": "mcq",
+    "choices": [
+      "$v_p > c, v_g > c$",
+      "$v_p < c, v_g > c$",
+      "$v_p > c, v_g < c$",
+      "$v_p < c, v_g < c$"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "f42d0e75-4d38-435b-89a0-84786bbf161d",
+    "images": [],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Electromagnetics"
+  },
+  {
+    "question_number": "Q.21",
+    "question": "In the circuit shown below, $V_1$ and $V_2$ are bias voltages. Based on input and output impedances, the circuit behaves as a\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ec/p1/images/p14_Q_21_img_q21.png)",
+    "type": "mcq",
+    "choices": [
+      "voltage controlled voltage source.",
+      "voltage controlled current source.",
+      "current controlled voltage source.",
+      "current controlled current source."
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "416e35ac-9e65-496a-a597-089d4926e5a5",
+    "images": [
+      {
+        "box_id": "img_q21",
+        "box": [
+          180,
+          475,
+          338,
+          597
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ec/p1/images/p14_Q_21_img_q21.png"
+      }
+    ],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Analog Circuits"
+  },
+  {
+    "question_number": "Q.22",
+    "question": "A cascade of common-source amplifiers in a unity gain feedback configuration oscillates when",
+    "type": "mcq",
+    "choices": [
+      "the closed loop gain is less than 1 and the phase shift is less than 180°.",
+      "the closed loop gain is greater than 1 and the phase shift is less than 180°.",
+      "the closed loop gain is less than 1 and the phase shift is greater than 180°.",
+      "the closed loop gain is greater than 1 and the phase shift is greater than 180°."
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "416e35ac-9e65-496a-a597-089d4926e5a5",
+    "images": [],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Analog Circuits"
+  },
+  {
+    "question_number": "Q.23",
+    "question": "In the circuit shown below, P and Q are the inputs. The logical function realized by the circuit shown below is\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ec/p1/images/p15_Q_23_img_1.png)",
+    "type": "mcq",
+    "choices": [
+      "Y = PQ",
+      "Y = P + Q",
+      "Y = \\overline{PQ}",
+      "Y = \\overline{P + Q}"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "1745ade9-d57e-405a-93ab-3a54a7f92d7d",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          163,
+          397,
+          324,
+          664
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ec/p1/images/p15_Q_23_img_1.png"
+      }
+    ],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Digital Circuits"
+  },
+  {
+    "question_number": "Q.24",
+    "question": "The synchronous sequential circuit shown below works at a clock frequency of 1 GHz. The throughput, in Mbits/s, and the latency, in ns, respectively, are\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ec/p1/images/p16_Q_24_img_1.png)",
+    "type": "mcq",
+    "choices": [
+      "1000, 3",
+      "333.33, 1",
+      "2000, 3",
+      "333.33, 3"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "1745ade9-d57e-405a-93ab-3a54a7f92d7d",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          168,
+          230,
+          315,
+          835
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ec/p1/images/p16_Q_24_img_1.png"
+      }
+    ],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Digital Circuits"
+  },
+  {
+    "question_number": "Q.25",
+    "question": "The open loop transfer function of a unity negative feedback system is\n\n$$G(s) = \\frac{k}{s(1+sT_1)(1+sT_2)}$$\n\nwhere $k$, $T_1$ and $T_2$ are positive constants. The phase cross-over frequency, in rad/s, is",
+    "type": "mcq",
+    "choices": [
+      "$\\frac{1}{\\sqrt{T_1 T_2}}$",
+      "$\\frac{1}{T_1 T_2}$",
+      "$\\frac{1}{T_1 \\sqrt{T_2}}$",
+      "$\\frac{1}{T_2 \\sqrt{T_1}}$"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "23437e5f-6826-421a-863e-bda0dc97211d",
+    "images": [],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Control Systems"
+  },
+  {
+    "question_number": "Q.26",
+    "question": "Consider a system with input $x(t)$ and output $y(t) = x(e^t)$. The system is",
+    "type": "mcq",
+    "choices": [
+      "Causal and time invariant.",
+      "Non-causal and time varying.",
+      "Causal and time varying.",
+      "Non-causal and time invariant."
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "d0658078-810f-40f5-ab9f-a27359959aaf",
+    "images": [],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Signals and Systems"
+  },
+  {
+    "question_number": "Q.27",
+    "question": "Let $m(t)$ be a strictly band-limited signal with bandwidth $B$ and energy $E$. Assuming $\\omega_0 = 10B$, the energy in the signal $m(t) \\cos \\omega_0 t$ is",
+    "type": "mcq",
+    "choices": [
+      "$\\frac{E}{4}$",
+      "$\\frac{E}{2}$",
+      "$E$",
+      "$2E$"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "d0658078-810f-40f5-ab9f-a27359959aaf",
+    "images": [],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Signals and Systems"
+  },
+  {
+    "question_number": "Q.28",
+    "question": "The Fourier transform $X(\\omega)$ of $x(t) = e^{-t^2}$ is\n\nNote: $\\int_{-\\infty}^{\\infty} e^{-y^2} dy = \\sqrt{\\pi}$",
+    "type": "mcq",
+    "choices": [
+      "$\\sqrt{\\pi} e^{\\frac{\\omega^2}{2}}$",
+      "$\\frac{e^{-\\frac{\\omega^2}{4}}}{2\\sqrt{\\pi}}$",
+      "$\\sqrt{\\pi} e^{-\\frac{\\omega^2}{4}}$",
+      "$\\sqrt{\\pi} e^{-\\frac{\\omega^2}{2}}$"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "d0658078-810f-40f5-ab9f-a27359959aaf",
+    "images": [],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Signals and Systems"
+  },
+  {
+    "question_number": "Q.29",
+    "question": "In the table shown below, match the signal type with its spectral characteristics.\n\n| Signal type | Spectral characteristics |\n|---|---|\n| (i) Continuous, aperiodic | (a) Continuous, aperiodic |\n| (ii) Continuous, periodic | (b) Continuous, periodic |\n| (iii) Discrete, aperiodic | (c) Discrete, aperiodic |\n| (iv) Discrete, periodic | (d) Discrete, periodic |",
+    "type": "mcq",
+    "choices": [
+      "(i) → (a), (ii) → (b), (iii) → (c), (iv) → (d)",
+      "(i) → (a), (ii) → (c), (iii) → (b), (iv) → (d)",
+      "(i) → (d), (ii) → (b), (iii) → (c), (iv) → (a)",
+      "(i) → (a), (ii) → (c), (iii) → (d), (iv) → (b)"
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "d0658078-810f-40f5-ab9f-a27359959aaf",
+    "images": [],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Signals and Systems"
+  },
+  {
+    "question_number": "Q.30",
+    "question": "For a real signal, which of the following is/are valid power spectral density/densities?",
+    "type": "m-mcq",
+    "choices": [
+      "$S_X(\\omega) = \\frac{2}{9 + \\omega^2}$",
+      "$S_X(\\omega) = e^{-\\omega^2} \\cos^2 \\omega$",
+      "![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ec/p1/images/p20_Q_30_img_1.png)",
+      "![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ec/p1/images/p20_Q_30_img_2.png)"
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "82278307-a0a9-4dc0-8af8-4583d3e3b122",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          322,
+          203,
+          448,
+          638
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ec/p1/images/p20_Q_30_img_1.png"
+      },
+      {
+        "box_id": "img_2",
+        "box": [
+          484,
+          203,
+          570,
+          638
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ec/p1/images/p20_Q_30_img_2.png"
+      }
+    ],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Communication Systems"
+  },
+  {
+    "question_number": "Q.31",
+    "question": "The signal-to-noise ratio (SNR) of an ADC with a full-scale sinusoidal input is given to be 61.96 dB. The resolution of the ADC is ________ bits *(rounded off to the nearest integer)*.",
+    "type": "numerical",
+    "choices": [],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "1745ade9-d57e-405a-93ab-3a54a7f92d7d",
+    "images": [],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Digital Circuits"
+  },
+  {
+    "question_number": "Q.32",
+    "question": "In the circuit shown below, the current $i$ flowing through $200\\ \\Omega$ resistor is ________ mA (*rounded off to two decimal places*).\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ec/p1/images/p21_Q_32_img_q32.png)",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "82e617a8-9cf2-4dbb-aeb3-8820327b46b5",
+    "images": [
+      {
+        "box_id": "img_q32",
+        "box": [
+          148,
+          325,
+          345,
+          731
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ec/p1/images/p21_Q_32_img_q32.png"
+      }
+    ],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Network Theory"
+  },
+  {
+    "question_number": "Q.33",
+    "question": "For the two port network shown below, the [Y]-parameters is given as\n$$[Y] = \\frac{1}{100} \\begin{bmatrix} 2 & -1 \\\\ -1 & 4/3 \\end{bmatrix} \\text{ S}$$\nThe value of load impedance $Z_L$, in $\\Omega$, for maximum power transfer will be ________ (*rounded off to the nearest integer*).\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ec/p1/images/p21_Q_33_img_q33.png)",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "82e617a8-9cf2-4dbb-aeb3-8820327b46b5",
+    "images": [
+      {
+        "box_id": "img_q33",
+        "box": [
+          572,
+          400,
+          694,
+          756
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ec/p1/images/p21_Q_33_img_q33.png"
+      }
+    ],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Network Theory"
+  },
+  {
+    "question_number": "Q.34",
+    "question": "For the circuit shown below, the propagation delay of each NAND gate is 1 ns. The critical path delay, in ns, is ________ (rounded off to the nearest integer).\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ec/p1/images/p22_Q_34_img_q34.png)",
+    "type": "numerical",
+    "choices": [],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "1745ade9-d57e-405a-93ab-3a54a7f92d7d",
+    "images": [
+      {
+        "box_id": "img_q34",
+        "box": [
+          168,
+          450,
+          275,
+          608
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ec/p1/images/p22_Q_34_img_q34.png"
+      }
+    ],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Digital Circuits"
+  },
+  {
+    "question_number": "Q.35",
+    "question": "In the circuit shown below, switch S was closed for a long time. If the switch is opened at $t = 0$, the maximum magnitude of the voltage $\\text{V}_{\\text{R}}$, in volts, is ________ (rounded off to the nearest integer).\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ec/p1/images/p22_Q_35_img_q35.png)",
+    "type": "numerical",
+    "choices": [],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "82e617a8-9cf2-4dbb-aeb3-8820327b46b5",
+    "images": [
+      {
+        "box_id": "img_q35",
+        "box": [
+          410,
+          395,
+          520,
+          678
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ec/p1/images/p22_Q_35_img_q35.png"
+      }
+    ],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Network Theory"
+  },
+  {
+    "question_number": "Q.36",
+    "question": "A random variable X, distributed normally as $N(0,1)$, undergoes the transformation $Y = h(X)$, given in the figure. The form of the probability density function of $Y$ is\n\n(In the options given below, $a, b, c$ are non-zero constants and $g(y)$ is piece-wise continuous function)\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ec/p1/images/p23_Q_36_img_1.png)",
+    "type": "mcq",
+    "choices": [
+      "$a\\delta(y - 1) + b\\delta(y + 1) + g(y)$",
+      "$a\\delta(y + 1) + b\\delta(y) + c\\delta(y - 1) + g(y)$",
+      "$a\\delta(y + 2) + b\\delta(y) + c\\delta(y - 2) + g(y)$",
+      "$a\\delta(y + 2) + b\\delta(y - 2) + g(y)$"
+    ],
+    "marks": 2,
+    "negativeMarks": 0.67,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "82278307-a0a9-4dc0-8af8-4583d3e3b122",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          233,
+          375,
+          395,
+          685
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ec/p1/images/p23_Q_36_img_1.png"
+      }
+    ],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Communication Systems"
+  },
+  {
+    "question_number": "Q.37",
+    "question": "The value of the line integral $\\int_P^Q (z^2 dx + 3y^2 dy + 2xz dz)$ along the straight line joining the points $P (1,1,2)$ and $Q (2,3,1)$ is",
+    "type": "mcq",
+    "choices": [
+      "20",
+      "24",
+      "29",
+      "-5"
+    ],
+    "marks": 2,
+    "negativeMarks": 0.66,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "7e046547-1d2b-4c02-baee-1a1ec26c4a4d",
+    "images": [],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Engineering Mathematics"
+  },
+  {
+    "question_number": "Q.38",
+    "question": "Let $\\boldsymbol{x}$ be an $n \\times 1$ real column vector with length $l = \\sqrt{\\boldsymbol{x}^T \\boldsymbol{x}}$. The trace of the matrix $P = \\boldsymbol{x}\\boldsymbol{x}^T$ is",
+    "type": "mcq",
+    "choices": [
+      "$l^2$",
+      "$\\frac{l^2}{4}$",
+      "$l$",
+      "$\\frac{l^2}{2}$"
+    ],
+    "marks": 2,
+    "negativeMarks": 0.66,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "7e046547-1d2b-4c02-baee-1a1ec26c4a4d",
+    "images": [],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Engineering Mathematics"
+  },
+  {
+    "question_number": "Q.39",
+    "question": "The $\\frac{V_{\\text{OUT}}}{V_{\\text{IN}}}$ of the circuit shown below is\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ec/p1/images/p25_Q_39_img_1.png)",
+    "type": "mcq",
+    "choices": [
+      "$-\\frac{R_4}{R_3}$",
+      "$\\frac{R_4}{R_3}$",
+      "$1 + \\frac{R_4}{R_3}$",
+      "$1 - \\frac{R_4}{R_3}$"
+    ],
+    "marks": 2,
+    "negativeMarks": 0.67,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "416e35ac-9e65-496a-a597-089d4926e5a5",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          158,
+          350,
+          412,
+          715
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ec/p1/images/p25_Q_39_img_1.png"
+      }
+    ],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Analog Circuits"
+  },
+  {
+    "question_number": "40",
+    "question": "In the circuit shown below, $\\text{D}_1$ and $\\text{D}_2$ are silicon diodes with cut-in voltage of $0.7\\text{ V}$. $\\text{V}_{IN}$ and $\\text{V}_{OUT}$ are input and output voltages in volts. The transfer characteristic is\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ec/p1/images/p26_40_img_circuit.png)",
+    "type": "mcq",
+    "choices": [
+      "![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ec/p1/images/p26_40_img_a.png)",
+      "![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ec/p1/images/p26_40_img_b.png)",
+      "![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ec/p1/images/p26_40_img_c.png)",
+      "![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ec/p1/images/p26_40_img_d.png)"
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "416e35ac-9e65-496a-a597-089d4926e5a5",
+    "images": [
+      {
+        "box_id": "img_circuit",
+        "box": [
+          168,
+          452,
+          278,
+          611
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ec/p1/images/p26_40_img_circuit.png"
+      },
+      {
+        "box_id": "img_a",
+        "box": [
+          314,
+          203,
+          417,
+          355
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ec/p1/images/p26_40_img_a.png"
+      },
+      {
+        "box_id": "img_b",
+        "box": [
+          458,
+          207,
+          555,
+          358
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ec/p1/images/p26_40_img_b.png"
+      },
+      {
+        "box_id": "img_c",
+        "box": [
+          603,
+          204,
+          706,
+          368
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ec/p1/images/p26_40_img_c.png"
+      },
+      {
+        "box_id": "img_d",
+        "box": [
+          750,
+          205,
+          856,
+          366
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ec/p1/images/p26_40_img_d.png"
+      }
+    ],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Analog Circuits"
+  },
+  {
+    "question_number": "Q.41",
+    "question": "A closed loop system is shown in the figure where $k > 0$ and $\\alpha > 0$. The steady state error due to a ramp input ($R(s) = \\alpha / s^2$) is given by\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ec/p1/images/p27_Q_41_img_1.png)",
+    "type": "mcq",
+    "choices": [
+      "$\\frac{2\\alpha}{k}$",
+      "$\\frac{\\alpha}{k}$",
+      "$\\frac{\\alpha}{2k}$",
+      "$\\frac{\\alpha}{4k}$"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "23437e5f-6826-421a-863e-bda0dc97211d",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          160,
+          186,
+          290,
+          875
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ec/p1/images/p27_Q_41_img_1.png"
+      }
+    ],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Control Systems"
+  },
+  {
+    "question_number": "Q.42",
+    "question": "In the following block diagram, $R(s)$ and $D(s)$ are two inputs. The output $Y(s)$ is expressed as $Y(s) = G_1(s)R(s) + G_2(s)D(s)$.\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ec/p1/images/p28_Q_42_img_1.png)\n\n$G_1(s)$ and $G_2(s)$ are given by",
+    "type": "mcq",
+    "choices": [
+      "$G_1(s) = \\frac{G(s)}{1 + G(s) + G(s)H(s)}$ and $G_2(s) = \\frac{G(s)}{1 + G(s) + G(s)H(s)}$",
+      "$G_1(s) = \\frac{G(s)}{1 + G(s) + H(s)}$ and $G_2(s) = \\frac{G(s)}{1 + G(s) + H(s)}$",
+      "$G_1(s) = \\frac{G(s)}{1 + G(s) + H(s)}$ and $G_2(s) = \\frac{G(s)}{1 + G(s) + G(s)H(s)}$",
+      "$G_1(s) = \\frac{G(s)}{1 + G(s) + G(s)H(s)}$ and $G_2(s) = \\frac{G(s)}{1 + G(s) + H(s)}$"
+    ],
+    "marks": 2,
+    "negativeMarks": 0.66,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "23437e5f-6826-421a-863e-bda0dc97211d",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          195,
+          274,
+          368,
+          792
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ec/p1/images/p28_Q_42_img_1.png"
+      }
+    ],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Control Systems"
+  },
+  {
+    "question_number": "Q.43",
+    "question": "The state equation of a second order system is\n$$\\dot{\\boldsymbol{x}}(t) = \\mathbf{A}\\boldsymbol{x}(t), \\quad \\boldsymbol{x}(0) \\text{ is the initial condition.}$$ \nSuppose $\\lambda_1$ and $\\lambda_2$ are two distinct eigenvalues of $\\mathbf{A}$ and $\\boldsymbol{v}_1$ and $\\boldsymbol{v}_2$ are the corresponding eigenvectors. For constants $\\alpha_1$ and $\\alpha_2$, the solution, $\\boldsymbol{x}(t)$, of the state equation is",
+    "type": "mcq",
+    "choices": [
+      "$\\sum_{i=1}^{2} \\alpha_i e^{\\lambda_i t} \\boldsymbol{v}_i$",
+      "$\\sum_{i=1}^{2} \\alpha_i e^{2\\lambda_i t} \\boldsymbol{v}_i$",
+      "$\\sum_{i=1}^{2} \\alpha_i e^{3\\lambda_i t} \\boldsymbol{v}_i$",
+      "$\\sum_{i=1}^{2} \\alpha_i e^{4\\lambda_i t} \\boldsymbol{v}_i$"
+    ],
+    "marks": 2,
+    "negativeMarks": 0.67,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "23437e5f-6826-421a-863e-bda0dc97211d",
+    "images": [],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Control Systems"
+  },
+  {
+    "question_number": "Q.44",
+    "question": "The switch $\\text{S}_1$ was closed and $\\text{S}_2$ was open for a long time. At $t = 0$, switch $\\text{S}_1$ is opened and $\\text{S}_2$ is closed, simultaneously. The value of $i_C(0^+)$, in amperes, is\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ec/p1/images/p30_Q_44_img_q44.png)",
+    "type": "mcq",
+    "choices": [
+      "1",
+      "$-1$",
+      "0.2",
+      "0.8"
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "82e617a8-9cf2-4dbb-aeb3-8820327b46b5",
+    "images": [
+      {
+        "box_id": "img_q44",
+        "box": [
+          171,
+          295,
+          316,
+          764
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ec/p1/images/p30_Q_44_img_q44.png"
+      }
+    ],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Network Theory"
+  },
+  {
+    "question_number": "45",
+    "question": "Let a frequency modulated (FM) signal\n$$x(t) = A \\cos\\left(\\omega_c t + k_f \\int_{-\\infty}^t m(\\lambda)d\\lambda\\right)$$, where $m(t)$ is a message signal of bandwidth $W$. It is passed through a non-linear system with output $y(t) = 2x(t) + 5(x(t))^2$. Let $B_T$ denote the FM bandwidth. The minimum value of $\\omega_c$ required to recover $x(t)$ from $y(t)$ is",
+    "type": "mcq",
+    "choices": [
+      "$B_T + W$",
+      "$\\frac{3}{2} B_T$",
+      "$2 B_T + W$",
+      "$\\frac{5}{2} B_T$"
+    ],
+    "marks": 2,
+    "negativeMarks": 0.66,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "82278307-a0a9-4dc0-8af8-4583d3e3b122",
+    "images": [],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Communication Systems"
+  },
+  {
+    "question_number": "Q.46",
+    "question": "The h-parameters of a two port network are shown below. The condition for the maximum small signal voltage gain $\\frac{V_{\\text{out}}}{V_{\\text{s}}}$ is\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ec/p1/images/p32_Q_46_img_1.png)",
+    "type": "mcq",
+    "choices": [
+      "$h_{11} = 0, h_{12} = 0, h_{21} = \\text{very high and } h_{22} = 0$",
+      "$h_{11} = \\text{very high}, h_{12} = 0, h_{21} = \\text{very high and } h_{22} = 0$",
+      "$h_{11} = 0, h_{12} = \\text{very high}, h_{21} = \\text{very high and } h_{22} = 0$",
+      "$h_{11} = 0, h_{12} = 0, h_{21} = \\text{very high and } h_{22} = \\text{very high}$"
+    ],
+    "marks": 2,
+    "negativeMarks": 0.67,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "82e617a8-9cf2-4dbb-aeb3-8820327b46b5",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          160,
+          210,
+          312,
+          800
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ec/p1/images/p32_Q_46_img_1.png"
+      }
+    ],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Network Theory"
+  },
+  {
+    "question_number": "Q.47",
+    "question": "Consider a discrete-time periodic signal with period $N = 5$. Let the discrete-time Fourier series (DTFS) representation be $x[n] = \\sum_{k=0}^{4} a_k e^{\\frac{j k 2 \\pi n}{5}}$, where $a_0 = 1, a_1 = 3j, a_2 = 2j, a_3 = -2j$ and $a_4 = -3j$. The value of the sum $\\sum_{n=0}^{4} x[n] \\sin \\frac{4 \\pi n}{5}$ is",
+    "type": "mcq",
+    "choices": [
+      "$-10$",
+      "$10$",
+      "$-2$",
+      "$2$"
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "d0658078-810f-40f5-ab9f-a27359959aaf",
+    "images": [],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Signals and Systems"
+  },
+  {
+    "question_number": "Q.48",
+    "question": "Let an input $x[n]$ having discrete time Fourier transform\n$X(e^{j\\Omega}) = 1 - e^{-j\\Omega} + 2e^{-3j\\Omega}$ be passed through an LTI system. The frequency response of the LTI system is $H(e^{j\\Omega}) = 1 - \\frac{1}{2} e^{-j2\\Omega}$. The output $y[n]$ of the system is",
+    "type": "mcq",
+    "choices": [
+      "$\\delta[n] + \\delta[n-1] - \\frac{1}{2}\\delta[n-2] - \\frac{5}{2}\\delta[n-3] + \\delta[n-5]$",
+      "$\\delta[n] - \\delta[n-1] - \\frac{1}{2}\\delta[n-2] - \\frac{5}{2}\\delta[n-3] + \\delta[n-5]$",
+      "$\\delta[n] - \\delta[n-1] - \\frac{1}{2}\\delta[n-2] + \\frac{5}{2}\\delta[n-3] - \\delta[n-5]$",
+      "$\\delta[n] + \\delta[n-1] + \\frac{1}{2}\\delta[n-2] + \\frac{5}{2}\\delta[n-3] + \\delta[n-5]$"
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "d0658078-810f-40f5-ab9f-a27359959aaf",
+    "images": [],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Signals and Systems"
+  },
+  {
+    "question_number": "Q.49",
+    "question": "Let $x(t) = 10 \\cos(10.5Wt)$ be passed through an LTI system having impulse response $h(t) = \\pi \\left(\\frac{\\sin Wt}{\\pi t}\\right)^2 \\cos 10Wt$. The output of the system is",
+    "type": "mcq",
+    "choices": [
+      "$\\left(\\frac{15W}{4}\\right) \\cos(10.5Wt)$",
+      "$\\left(\\frac{15W}{2}\\right) \\cos(10.5Wt)$",
+      "$\\left(\\frac{15W}{8}\\right) \\cos(10.5Wt)$",
+      "$(15W) \\cos(10.5Wt)$"
+    ],
+    "marks": 2,
+    "negativeMarks": 0.66,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "d0658078-810f-40f5-ab9f-a27359959aaf",
+    "images": [],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Signals and Systems"
+  },
+  {
+    "question_number": "Q.50",
+    "question": "Let $x_1(t)$ and $x_2(t)$ be two band-limited signals having bandwidth $B = 4\\pi \times 10^3\\text{ rad/s}$ each. In the figure below, the Nyquist sampling frequency, in rad/s, required to sample $y(t)$, is\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ec/p1/images/p35_Q_50_img_1.png)",
+    "type": "mcq",
+    "choices": [
+      "$20\\pi \\times 10^3$",
+      "$40\\pi \\times 10^3$",
+      "$8\\pi \\times 10^3$",
+      "$32\\pi \\times 10^3$"
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "d0658078-810f-40f5-ab9f-a27359959aaf",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          195,
+          315,
+          405,
+          740
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ec/p1/images/p35_Q_50_img_1.png"
+      }
+    ],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Signals and Systems"
+  },
+  {
+    "question_number": "Q.51",
+    "question": "The S-parameters of a two port network is given as\n\n$$[S] = \\begin{bmatrix} S_{11} & S_{12} \\\\ S_{21} & S_{22} \\end{bmatrix}$$\n\nwith reference to $Z_0$. Two lossless transmission line sections of electrical lengths $\\theta_1 = \\beta l_1$ and $\\theta_2 = \\beta l_2$ are added to the input and output ports for measurement purposes, respectively. The S-parameters $[S']$ of the resultant two port network is\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ec/p1/images/p36_Q_51_img_1.png)",
+    "type": "mcq",
+    "choices": [
+      "$\\begin{bmatrix} S_{11}e^{-j2\\theta_1} & S_{12}e^{-j(\\theta_1+\\theta_2)} \\\\ S_{21}e^{-j(\\theta_1+\\theta_2)} & S_{22}e^{-j2\\theta_2} \\end{bmatrix}$",
+      "$\\begin{bmatrix} S_{11}e^{j2\\theta_1} & S_{12}e^{-j(\\theta_1+\\theta_2)} \\\\ S_{21}e^{-j(\\theta_1+\\theta_2)} & S_{22}e^{j2\\theta_2} \\end{bmatrix}$",
+      "$\\begin{bmatrix} S_{11}e^{j2\\theta_1} & S_{12}e^{j(\\theta_1+\\theta_2)} \\\\ S_{21}e^{j(\\theta_1+\\theta_2)} & S_{22}e^{j2\\theta_2} \\end{bmatrix}$",
+      "$\\begin{bmatrix} S_{11}e^{-j2\\theta_1} & S_{12}e^{j(\\theta_1+\\theta_2)} \\\\ S_{21}e^{j(\\theta_1+\\theta_2)} & S_{22}e^{-j2\\theta_2} \\end{bmatrix}$"
+    ],
+    "marks": 2,
+    "negativeMarks": 0.67,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "f42d0e75-4d38-435b-89a0-84786bbf161d",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          268,
+          246,
+          458,
+          807
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ec/p1/images/p36_Q_51_img_1.png"
+      }
+    ],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Electromagnetics"
+  },
+  {
+    "question_number": "Q.52",
+    "question": "The standing wave ratio on a $50\\ \\Omega$ lossless transmission line terminated in an unknown load impedance is found to be $2.0$. The distance between successive voltage minima is $30\\text{ cm}$ and the first minimum is located at $10\\text{ cm}$ from the load. $Z_L$ can be replaced by an equivalent length $l_m$ and terminating resistance $R_m$ of the same line. The value of $R_m$ and $l_m$, respectively, are\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ec/p1/images/p37_Q_52_img_1.png)",
+    "type": "mcq",
+    "choices": [
+      "$R_m = 100\\ \\Omega, l_m = 20\\text{ cm}$",
+      "$R_m = 25\\ \\Omega, l_m = 20\\text{ cm}$",
+      "$R_m = 100\\ \\Omega, l_m = 5\\text{ cm}$",
+      "$R_m = 25\\ \\Omega, l_m = 5\\text{ cm}$"
+    ],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "f42d0e75-4d38-435b-89a0-84786bbf161d",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          213,
+          260,
+          446,
+          800
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ec/p1/images/p37_Q_52_img_1.png"
+      }
+    ],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Electromagnetics"
+  },
+  {
+    "question_number": "Q.53",
+    "question": "The electric field of a plane electromagnetic wave is\n\n$$\\boldsymbol{E} = \\boldsymbol{a}_x C_{1x} \\cos(\\omega t - \\beta z) + \\boldsymbol{a}_y C_{1y} \\cos(\\omega t - \\beta z + \\theta) \\quad \\text{V/m.}$$ \n\nWhich of the following combination(s) will give rise to a left handed elliptically polarized (LHEP) wave?",
+    "type": "m-mcq",
+    "choices": [
+      "$C_{1x} = 1, C_{1y} = 1, \\theta = \\pi/4$",
+      "$C_{1x} = 2, C_{1y} = 1, \\theta = \\pi/2$",
+      "$C_{1x} = 1, C_{1y} = 2, \\theta = 3\\pi/2$",
+      "$C_{1x} = 2, C_{1y} = 1, \\theta = 3\\pi/4$"
+    ],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "f42d0e75-4d38-435b-89a0-84786bbf161d",
+    "images": [],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Electromagnetics"
+  },
+  {
+    "question_number": "Q.54",
+    "question": "The following circuit(s) representing a lumped element equivalent of an infinitesimal section of a transmission line is/are",
+    "type": "m-mcq",
+    "choices": [
+      "![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ec/p1/images/p39_Q_54_img_A.png)",
+      "![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ec/p1/images/p39_Q_54_img_B.png)",
+      "![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ec/p1/images/p39_Q_54_img_C.png)",
+      "![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ec/p1/images/p39_Q_54_img_D.png)"
+    ],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "f42d0e75-4d38-435b-89a0-84786bbf161d",
+    "images": [
+      {
+        "box_id": "img_A",
+        "box": [
+          210,
+          195,
+          292,
+          475
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ec/p1/images/p39_Q_54_img_A.png"
+      },
+      {
+        "box_id": "img_B",
+        "box": [
+          320,
+          195,
+          405,
+          456
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ec/p1/images/p39_Q_54_img_B.png"
+      },
+      {
+        "box_id": "img_C",
+        "box": [
+          430,
+          195,
+          510,
+          563
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ec/p1/images/p39_Q_54_img_C.png"
+      },
+      {
+        "box_id": "img_D",
+        "box": [
+          540,
+          195,
+          620,
+          608
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ec/p1/images/p39_Q_54_img_D.png"
+      }
+    ],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Electromagnetics"
+  },
+  {
+    "question_number": "Q.55",
+    "question": "The value of the integral $\\iint_R xy \\text{ dx dy}$ over the region R, given in the figure, is ________ *(rounded off to the nearest integer)*.\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ec/p1/images/p40_Q_55_img_55.png)",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "7e046547-1d2b-4c02-baee-1a1ec26c4a4d",
+    "images": [
+      {
+        "box_id": "img_55",
+        "box": [
+          173,
+          335,
+          360,
+          725
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ec/p1/images/p40_Q_55_img_55.png"
+      }
+    ],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Engineering Mathematics"
+  },
+  {
+    "question_number": "Q.56",
+    "question": "In an extrinsic semiconductor, the hole concentration is given to be $1.5n_i$ where $n_i$ is the intrinsic carrier concentration of $1 \\times 10^{10} \\text{ cm}^{-3}$. The ratio of electron to hole mobility for equal hole and electron drift current is given as ________ *(rounded off to two decimal places)*.",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "b39b6692-807e-4025-89af-9e2b2fbbc087",
+    "images": [],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Electronic Devices"
+  },
+  {
+    "question_number": "Q.57",
+    "question": "The asymptotic magnitude Bode plot of a minimum phase system is shown in the figure. The transfer function of the system is $(s) = \\frac{k(s+z)^a}{s^b(s+p)^c}$, where $k, z, p, a, b$ and $c$ are positive constants. The value of $(a + b + c)$ is ________ *(rounded off to the nearest integer)*.\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ec/p1/images/p40_Q_57_img_57.png)",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "23437e5f-6826-421a-863e-bda0dc97211d",
+    "images": [
+      {
+        "box_id": "img_57",
+        "box": [
+          681,
+          333,
+          838,
+          735
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ec/p1/images/p40_Q_57_img_57.png"
+      }
+    ],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Control Systems"
+  },
+  {
+    "question_number": "Q.58",
+    "question": "Let $x_1(t) = u(t + 1.5) - u(t - 1.5)$ and $x_2(t)$ is shown in the figure below. For $y(t) = x_1(t) * x_2(t)$, the $\\int_{-\\infty}^{\\infty} y(t)dt$ is ____________ *(rounded off to the nearest integer)*.\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ec/p1/images/p41_Q_58_img_q58.png)",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "d0658078-810f-40f5-ab9f-a27359959aaf",
+    "images": [
+      {
+        "box_id": "img_q58",
+        "box": [
+          185,
+          380,
+          274,
+          668
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ec/p1/images/p41_Q_58_img_q58.png"
+      }
+    ],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Signals and Systems"
+  },
+  {
+    "question_number": "Q.59",
+    "question": "Let $X(t)$ be a white Gaussian noise with power spectral density $\\frac{1}{2}\\text{ W/Hz}$. If $X(t)$ is input to an LTI system with impulse response $e^{-t}u(t)$. The average power of the system output is ____________ W *(rounded off to two decimal places)*.",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "82278307-a0a9-4dc0-8af8-4583d3e3b122",
+    "images": [],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Communication Systems"
+  },
+  {
+    "question_number": "Q.60",
+    "question": "A transparent dielectric coating is applied to glass ($\\varepsilon_r = 4, \\mu_r = 1$) to eliminate the reflection of red light ($\\lambda_0 = 0.75\\ \\mu\\text{m}$). The minimum thickness of the dielectric coating, in $\\mu\\text{m}$, that can be used is ____________ *(rounded off to two decimal places)*.",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "f42d0e75-4d38-435b-89a0-84786bbf161d",
+    "images": [],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Electromagnetics"
+  },
+  {
+    "question_number": "Q.61",
+    "question": "In a semiconductor device, the Fermi-energy level is $0.35\\text{ eV}$ above the valence band energy. The effective density of states in the valence band at $\\text{T} = 300\\text{ K}$ is $1 \\times 10^{19}\\text{ cm}^{-3}$. The thermal equilibrium hole concentration in silicon at $400\\text{ K}$ is ____________ $\\times 10^{13}\\text{ cm}^{-3}$ *(rounded off to two decimal places)*.\n\nGiven $\\text{kT}$ at $300\\text{ K}$ is $0.026\\text{ eV}$.",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "b39b6692-807e-4025-89af-9e2b2fbbc087",
+    "images": [],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Electronic Devices"
+  },
+  {
+    "question_number": "Q.62",
+    "question": "A sample and hold circuit is implemented using a resistive switch and a capacitor with a time constant of $1\\ \\mu\\text{s}$. The time for the sampling switch to stay closed to charge a capacitor adequately to a full scale voltage of $1\\text{ V}$ with 12-bit accuracy is ____________ $\\mu\\text{s}$ *(rounded off to two decimal places)*.",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "416e35ac-9e65-496a-a597-089d4926e5a5",
+    "images": [],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Analog Circuits"
+  },
+  {
+    "question_number": "Q.63",
+    "question": "In a given sequential circuit, initial states are $Q_1 = 1$ and $Q_2 = 0$. For a clock frequency of 1 MHz, the frequency of signal $Q_2$ in kHz, is ________ (rounded off to the nearest integer).\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ec/p1/images/p42_Q_63_img_1.png)",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "1745ade9-d57e-405a-93ab-3a54a7f92d7d",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          178,
+          393,
+          300,
+          686
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ec/p1/images/p42_Q_63_img_1.png"
+      }
+    ],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Digital Circuits"
+  },
+  {
+    "question_number": "Q.64",
+    "question": "In the circuit below, the voltage $V_L$ is ________ V (rounded off to two decimal places).\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ec/p1/images/p42_Q_64_img_2.png)",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "416e35ac-9e65-496a-a597-089d4926e5a5",
+    "images": [
+      {
+        "box_id": "img_2",
+        "box": [
+          472,
+          280,
+          627,
+          775
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ec/p1/images/p42_Q_64_img_2.png"
+      }
+    ],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Analog Circuits"
+  },
+  {
+    "question_number": "65",
+    "question": "The frequency of occurrence of 8 symbols (a-h) is shown in the table below. A symbol is chosen and it is determined by asking a series of “yes/no” questions which are assumed to be truthfully answered. The average number of questions when asked in the most efficient sequence, to determine the chosen symbol, is ________ (rounded off to two decimal places).\n\n| Symbols | a | b | c | d | e | f | g | h |\n| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |\n| Frequency of occurrence | $\\frac{1}{2}$ | $\\frac{1}{4}$ | $\\frac{1}{8}$ | $\\frac{1}{16}$ | $\\frac{1}{32}$ | $\\frac{1}{64}$ | $\\frac{1}{128}$ | $\\frac{1}{128}$ |",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "70da287a-6e1b-4bb1-87e8-9aef600e0594",
+    "topic": "82278307-a0a9-4dc0-8af8-4583d3e3b122",
+    "images": [],
+    "subject_name": "Electronics Engineering",
+    "topic_name": "Communication Systems"
+  }
+]

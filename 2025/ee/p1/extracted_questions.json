@@ -1,0 +1,1702 @@
+[
+  {
+    "question_number": "Q.1",
+    "question": "Kavya ____________ go to work yesterday as she ____________ feeling well.\n\nSelect the most appropriate option to complete the above sentence.",
+    "type": "mcq",
+    "choices": [
+      "didn’t; isn’t",
+      "wouldn’t; wasn’t",
+      "wasn’t; wasn’t",
+      "couldn’t; wasn’t"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "c10d9868-41a7-48c4-a6c6-457e3e25fb68",
+    "topic": "f496a3d0-e29c-466c-af05-184baad3b305",
+    "images": [],
+    "subject_name": "Electrical and Electronic Engineering",
+    "topic_name": "General Aptitude"
+  },
+  {
+    "question_number": "Q.2",
+    "question": "Good : Evil :: Genuine : ________\n\nSelect the most appropriate option to complete the analogy.",
+    "type": "mcq",
+    "choices": [
+      "Counterfeit",
+      "Contraband",
+      "Counterfoil",
+      "Counterpart"
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "c10d9868-41a7-48c4-a6c6-457e3e25fb68",
+    "topic": "f496a3d0-e29c-466c-af05-184baad3b305",
+    "images": [],
+    "subject_name": "Electrical and Electronic Engineering",
+    "topic_name": "General Aptitude"
+  },
+  {
+    "question_number": "Q.3",
+    "question": "The relationship between two variables $x$ and $y$ is given by $x + py + q = 0$ and is shown in the figure. Find the values of $p$ and $q$.\n\nNote: The figure shown is representative.\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/ee/p1/images/p2_Q_3_img_1.png)",
+    "type": "mcq",
+    "choices": [
+      "$p = -\\frac{1}{2} ; q = 2$",
+      "$p = 2 ; q = -2$",
+      "$p = \\frac{1}{2} ; q = 4$",
+      "$p = 2 ; q = 4$"
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "c10d9868-41a7-48c4-a6c6-457e3e25fb68",
+    "topic": "f496a3d0-e29c-466c-af05-184baad3b305",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          238,
+          222,
+          477,
+          788
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/ee/p1/images/p2_Q_3_img_1.png"
+      }
+    ],
+    "subject_name": "Electrical and Electronic Engineering",
+    "topic_name": "General Aptitude"
+  },
+  {
+    "question_number": "Q.4",
+    "question": "Each row of Column-I has three items and each item is represented by a circle in Column-II. The arrangement of circles in Column-II represents the relationship among the items in Column-I.\n\nIdentify the option that has the most appropriate match between Column-I and Column-II.\n\nNote: The figures shown are representative.\n\n| | Column-I | | Column-II |\n|---|---|---|---|\n| (1) | Animals, Zebra, Giraffe | (P) | ![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/ee/p1/images/p3_Q_4_img_1.png) |\n| (2) | Director, Producer, Actor | (Q) | ![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/ee/p1/images/p3_Q_4_img_2.png) |\n| (3) | Word, Sentence, Novel | (R) | ![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/ee/p1/images/p3_Q_4_img_3.png) |\n| (4) | Pianist, Guitarist, Instrumentalist | (S) | ![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/ee/p1/images/p3_Q_4_img_4.png) |",
+    "type": "mcq",
+    "choices": [
+      "(1) – (Q); (2) – (P); (3) – (S); (4) – (R)",
+      "(1) – (Q); (2) – (R); (3) – (S); (4) – (P)",
+      "(1) – (S); (2) – (P); (3) – (R); (4) – (Q)",
+      "(1) – (R); (2) – (S); (3) – (Q); (4) – (P)"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "c10d9868-41a7-48c4-a6c6-457e3e25fb68",
+    "topic": "f496a3d0-e29c-466c-af05-184baad3b305",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          340,
+          655,
+          402,
+          750
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/ee/p1/images/p3_Q_4_img_1.png"
+      },
+      {
+        "box_id": "img_2",
+        "box": [
+          428,
+          655,
+          488,
+          750
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/ee/p1/images/p3_Q_4_img_2.png"
+      },
+      {
+        "box_id": "img_3",
+        "box": [
+          515,
+          655,
+          575,
+          750
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/ee/p1/images/p3_Q_4_img_3.png"
+      },
+      {
+        "box_id": "img_4",
+        "box": [
+          605,
+          655,
+          665,
+          750
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/ee/p1/images/p3_Q_4_img_4.png"
+      }
+    ],
+    "subject_name": "Electrical and Electronic Engineering",
+    "topic_name": "General Aptitude"
+  },
+  {
+    "question_number": "Q.5",
+    "question": "What is the value of $\\left( \\frac{3^{81}}{27^4} \\right)^{\\frac{1}{3}}$ ?",
+    "type": "mcq",
+    "choices": [
+      "$3^{13}$",
+      "$3^{96}$",
+      "$3^{23}$",
+      "$3^{69}$"
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "c10d9868-41a7-48c4-a6c6-457e3e25fb68",
+    "topic": "f496a3d0-e29c-466c-af05-184baad3b305",
+    "images": [],
+    "subject_name": "Electrical and Electronic Engineering",
+    "topic_name": "General Aptitude"
+  },
+  {
+    "question_number": "Q.6",
+    "question": "Identify the option that has the most appropriate sequence such that a coherent paragraph is formed:\n\n**P.** It is because deer, like most of the animals that tigers normally prey on, run much faster! It simply means, another day of empty stomach for the big cats.\n**Q.** Tigers spend most of their life searching for food.\n**R.** If they trace the scent of deer, tigers follow the trail, chase the deer for a mile or two in the dark, and yet may not catch them.\n**S.** For several nights, they relentlessly prowl through the forest, hunting for a trail that may lead to their prey.",
+    "type": "mcq",
+    "choices": [
+      "$\\text{S} \\rightarrow \\text{P} \\rightarrow \\text{R} \\rightarrow \\text{Q}$",
+      "$\\text{R} \\rightarrow \\text{P} \\rightarrow \\text{S} \\rightarrow \\text{Q}$",
+      "$\\text{Q} \\rightarrow \\text{S} \\rightarrow \\text{R} \\rightarrow \\text{P}$",
+      "$\\text{P} \\rightarrow \\text{Q} \\rightarrow \\text{S} \\rightarrow \\text{R}$"
+    ],
+    "marks": 2,
+    "negativeMarks": 0.66,
+    "subject": "c10d9868-41a7-48c4-a6c6-457e3e25fb68",
+    "topic": "f496a3d0-e29c-466c-af05-184baad3b305",
+    "images": [],
+    "subject_name": "Electrical and Electronic Engineering",
+    "topic_name": "General Aptitude"
+  },
+  {
+    "question_number": "Q.7",
+    "question": "In the given figure, EF and HJ are coded as 30 and 80, respectively. Which one among the given options is most appropriate for the entries marked (i) and (ii) ?\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/ee/p1/images/p6_Q_7_img_1.png)",
+    "type": "mcq",
+    "choices": [
+      "(i) EH; (ii) 40",
+      "(i) JK; (ii) 36",
+      "(i) EG; (ii) 42",
+      "(i) PS; (ii) 14"
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "c10d9868-41a7-48c4-a6c6-457e3e25fb68",
+    "topic": "f496a3d0-e29c-466c-af05-184baad3b305",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          197,
+          321,
+          427,
+          650
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/ee/p1/images/p6_Q_7_img_1.png"
+      }
+    ],
+    "subject_name": "Electrical and Electronic Engineering",
+    "topic_name": "General Aptitude"
+  },
+  {
+    "question_number": "Q.8",
+    "question": "Scores obtained by two students P and Q in seven courses are given in the table below. Based on the information given in the table, which one of the following statements is INCORRECT?\n\n| P | 22 | 89 | 50 | 45 | 78 | 60 | 39 |\n|---|---|---|---|---|---|---|---|\n| Q | 35 | 65 | 60 | 56 | 81 | 45 | 50 |",
+    "type": "mcq",
+    "choices": [
+      "Average score of P is less than the average score of Q.",
+      "Median score of P is same as the median score of Q.",
+      "Difference between the maximum and minimum scores of P is greater than the difference between the maximum and minimum scores of Q.",
+      "Median score and the average score of Q are same."
+    ],
+    "marks": 2,
+    "negativeMarks": 0.66,
+    "subject": "c10d9868-41a7-48c4-a6c6-457e3e25fb68",
+    "topic": "f496a3d0-e29c-466c-af05-184baad3b305",
+    "images": [],
+    "subject_name": "Electrical and Electronic Engineering",
+    "topic_name": "General Aptitude"
+  },
+  {
+    "question_number": "Q.9",
+    "question": "Spheres of unit diameter are centered at $(l, m, n)$ where $l, m,$ and $n$ take every possible integer values.\n\nThe distance between two spheres is computed from the center of one sphere to the center of the other sphere. For a given sphere, $x$ is the distance to its nearest sphere and $y$ is the distance to its next nearest sphere. The value of $\\frac{y}{x}$ is:",
+    "type": "mcq",
+    "choices": [
+      "$2\\sqrt{2}$",
+      "$\\frac{1}{\\sqrt{2}}$",
+      "$\\sqrt{2}$",
+      "$2$"
+    ],
+    "marks": 2,
+    "negativeMarks": 0.66,
+    "subject": "c10d9868-41a7-48c4-a6c6-457e3e25fb68",
+    "topic": "f496a3d0-e29c-466c-af05-184baad3b305",
+    "images": [],
+    "subject_name": "Electrical and Electronic Engineering",
+    "topic_name": "General Aptitude"
+  },
+  {
+    "question_number": "Q.10",
+    "question": "In the triangle PQR, the lengths of PT and TR are in the ratio of 3:2.\n\nST is parallel to QR. Two semicircles are drawn with PS and PQ as diameters, as shown in the figure.\n\nWhich one of the following statements is true about the shaded area PQS?\n\nNote: The figure shown is representative.\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/ee/p1/images/p9_Q_10_img_1.png)",
+    "type": "mcq",
+    "choices": [
+      "The shaded area is $\\frac{16}{9}$ times the area of the semicircle with the diameter PS.",
+      "The shaded area is equal to the area of the semicircle with the diameter PS.",
+      "The shaded area is $\\frac{14}{9}$ times the area of the semicircle with the diameter PS.",
+      "The shaded area is $\\frac{14}{25}$ times the area of the semicircle with the diameter PQ."
+    ],
+    "marks": 2,
+    "negativeMarks": 0.66,
+    "subject": "c10d9868-41a7-48c4-a6c6-457e3e25fb68",
+    "topic": "f496a3d0-e29c-466c-af05-184baad3b305",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          295,
+          198,
+          478,
+          500
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/ee/p1/images/p9_Q_10_img_1.png"
+      }
+    ],
+    "subject_name": "Electrical and Electronic Engineering",
+    "topic_name": "General Aptitude"
+  },
+  {
+    "question_number": "Q.11",
+    "question": "Consider the set $S$ of points $(x, y) \\in \\mathbb{R}^2$ which minimize the real valued function\n$$f(x, y) = (x + y - 1)^2 + (x + y)^2$$\nWhich of the following statements is true about the set $S$?",
+    "type": "mcq",
+    "choices": [
+      "The number of elements in the set $S$ is finite and more than one.",
+      "The number of elements in the set $S$ is infinite.",
+      "The set $S$ is empty.",
+      "The number of elements in the set $S$ is exactly one."
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "c10d9868-41a7-48c4-a6c6-457e3e25fb68",
+    "topic": "cf604594-abd2-4091-93fd-9e829f69a949",
+    "images": [],
+    "subject_name": "Electrical and Electronic Engineering",
+    "topic_name": "Engineering Mathematics"
+  },
+  {
+    "question_number": "Q.12",
+    "question": "Let $\\boldsymbol{v_1}$ and $\\boldsymbol{v_2}$ be the two eigenvectors corresponding to distinct eigenvalues of a $3 \\times 3$ real symmetric matrix. Which one of the following statements is true?",
+    "type": "mcq",
+    "choices": [
+      "$\\boldsymbol{v_1}^T \\boldsymbol{v_2} \\neq 0$",
+      "$\\boldsymbol{v_1}^T \\boldsymbol{v_2} = 0$",
+      "$\\boldsymbol{v_1} + \\boldsymbol{v_2} = \\boldsymbol{0}$",
+      "$\\boldsymbol{v_1} - \\boldsymbol{v_2} = \\boldsymbol{0}$"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "c10d9868-41a7-48c4-a6c6-457e3e25fb68",
+    "topic": "cf604594-abd2-4091-93fd-9e829f69a949",
+    "images": [],
+    "subject_name": "Electrical and Electronic Engineering",
+    "topic_name": "Engineering Mathematics"
+  },
+  {
+    "question_number": "Q.13",
+    "question": "Let $A = \\begin{bmatrix} 1 & 1 & 1 \\\\ -1 & -1 & -1 \\\\ 0 & 1 & -1 \\end{bmatrix}$, and $b = \\begin{bmatrix} 1/3 \\\\ -1/3 \\\\ 0 \\end{bmatrix}$. Then, the system of linear equations $Ax = b$ has",
+    "type": "mcq",
+    "choices": [
+      "a unique solution.",
+      "infinitely many solutions.",
+      "a finite number of solutions.",
+      "no solution."
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "c10d9868-41a7-48c4-a6c6-457e3e25fb68",
+    "topic": "cf604594-abd2-4091-93fd-9e829f69a949",
+    "images": [],
+    "subject_name": "Electrical and Electronic Engineering",
+    "topic_name": "Engineering Mathematics"
+  },
+  {
+    "question_number": "Q.14",
+    "question": "Let $P = \\begin{bmatrix} 2 & 1 & 0 \\\\ -1 & 0 & 0 \\\\ 0 & 0 & 1 \\end{bmatrix}$ and let $I$ be the identity matrix. Then $P^2$ is equal to",
+    "type": "mcq",
+    "choices": [
+      "$2P - I$",
+      "$P$",
+      "$I$",
+      "$P + I$"
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "c10d9868-41a7-48c4-a6c6-457e3e25fb68",
+    "topic": "cf604594-abd2-4091-93fd-9e829f69a949",
+    "images": [],
+    "subject_name": "Electrical and Electronic Engineering",
+    "topic_name": "Engineering Mathematics"
+  },
+  {
+    "question_number": "Q.15",
+    "question": "Consider discrete random variables $X$ and $Y$ with probabilities as follows:\n\n$$P(X = 0 \\text{ and } Y = 0) = \\frac{1}{4}$$\n\n$$P(X = 1 \\text{ and } Y = 0) = \\frac{1}{8}$$\n\n$$P(X = 0 \\text{ and } Y = 1) = \\frac{1}{2}$$\n\n$$P(X = 1 \\text{ and } Y = 1) = \\frac{1}{8}$$\n\nGiven $X = 1$, the expected value of $Y$ is",
+    "type": "mcq",
+    "choices": [
+      "$\\frac{1}{4}$",
+      "$\\frac{1}{2}$",
+      "$\\frac{1}{8}$",
+      "$\\frac{1}{3}$"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "c10d9868-41a7-48c4-a6c6-457e3e25fb68",
+    "topic": "cf604594-abd2-4091-93fd-9e829f69a949",
+    "images": [],
+    "subject_name": "Electrical and Electronic Engineering",
+    "topic_name": "Engineering Mathematics"
+  },
+  {
+    "question_number": "Q.16",
+    "question": "Which one of the following statements is true about the small signal voltage gain of a MOSFET based single stage amplifier?",
+    "type": "mcq",
+    "choices": [
+      "Common source and common gate amplifiers are both inverting amplifiers",
+      "Common source and common gate amplifiers are both non-inverting amplifiers",
+      "Common source amplifier is inverting and common gate amplifier is non-inverting amplifier",
+      "Common source amplifier is non-inverting and common gate amplifier is inverting amplifier"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "c10d9868-41a7-48c4-a6c6-457e3e25fb68",
+    "topic": "f1162731-37b6-4823-aad4-8d388ba29fc7",
+    "images": [],
+    "subject_name": "Electrical and Electronic Engineering",
+    "topic_name": "Analog and Digital Electronics"
+  },
+  {
+    "question_number": "Q.17",
+    "question": "Assuming ideal op-amps, the circuit represents a\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/ee/p1/images/p14_Q_17_img_1.png)",
+    "type": "mcq",
+    "choices": [
+      "summing amplifier.",
+      "difference amplifier.",
+      "logarithmic amplifier.",
+      "buffer."
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "c10d9868-41a7-48c4-a6c6-457e3e25fb68",
+    "topic": "f1162731-37b6-4823-aad4-8d388ba29fc7",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          184,
+          355,
+          368,
+          720
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/ee/p1/images/p14_Q_17_img_1.png"
+      }
+    ],
+    "subject_name": "Electrical and Electronic Engineering",
+    "topic_name": "Analog and Digital Electronics"
+  },
+  {
+    "question_number": "Q.18",
+    "question": "The I-V characteristics of the element between the nodes X and Y is best depicted by\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/ee/p1/images/p15_Q_18_img_1.png)",
+    "type": "mcq",
+    "choices": [
+      "![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/ee/p1/images/p15_Q_18_img_2.png)",
+      "![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/ee/p1/images/p15_Q_18_img_3.png)",
+      "![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/ee/p1/images/p15_Q_18_img_4.png)",
+      "![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/ee/p1/images/p15_Q_18_img_5.png)"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "c10d9868-41a7-48c4-a6c6-457e3e25fb68",
+    "topic": "d7783493-31cd-4812-b7a6-caf00c4d3dd0",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          205,
+          440,
+          335,
+          620
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/ee/p1/images/p15_Q_18_img_1.png"
+      },
+      {
+        "box_id": "img_2",
+        "box": [
+          365,
+          200,
+          445,
+          320
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/ee/p1/images/p15_Q_18_img_2.png"
+      },
+      {
+        "box_id": "img_3",
+        "box": [
+          475,
+          200,
+          555,
+          330
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/ee/p1/images/p15_Q_18_img_3.png"
+      },
+      {
+        "box_id": "img_4",
+        "box": [
+          585,
+          200,
+          660,
+          320
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/ee/p1/images/p15_Q_18_img_4.png"
+      },
+      {
+        "box_id": "img_5",
+        "box": [
+          690,
+          200,
+          775,
+          350
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/ee/p1/images/p15_Q_18_img_5.png"
+      }
+    ],
+    "subject_name": "Electrical and Electronic Engineering",
+    "topic_name": "Network Theory"
+  },
+  {
+    "question_number": "Q.19",
+    "question": "A nullator is defined as a circuit element where the voltage across the device and the current through the device are both zero. A series combination of a nullator and a resistor of value, R, will behave as a",
+    "type": "mcq",
+    "choices": [
+      "resistor of value R.",
+      "nullator.",
+      "open circuit.",
+      "short circuit."
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "c10d9868-41a7-48c4-a6c6-457e3e25fb68",
+    "topic": "d7783493-31cd-4812-b7a6-caf00c4d3dd0",
+    "images": [],
+    "subject_name": "Electrical and Electronic Engineering",
+    "topic_name": "Network Theory"
+  },
+  {
+    "question_number": "Q.20",
+    "question": "Consider a discrete-time linear time-invariant (LTI) system **S**, where\n\n$$y[n] = S\\{x[n]\\}$$\n\nLet\n\n$$S\\{\\delta[n]\\} = \\begin{cases} 1, & n \\in \\{0, 1, 2\\} \\\\ 0, & \\text{otherwise} \\end{cases}$$\n\nwhere $\\delta[n]$ is the discrete-time unit impulse function. For an input signal $x[n]$, the output $y[n]$ is",
+    "type": "mcq",
+    "choices": [
+      "$x[n] + x[n - 1] + x[n - 2]$",
+      "$x[n - 1] + x[n] + x[n + 1]$",
+      "$x[n] + x[n + 1] + x[n + 2]$",
+      "$x[n + 1] + x[n + 2] + x[n + 3]$"
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "c10d9868-41a7-48c4-a6c6-457e3e25fb68",
+    "topic": "26ead9c1-4379-45bf-97e3-32e3897908bf",
+    "images": [],
+    "subject_name": "Electrical and Electronic Engineering",
+    "topic_name": "Signals and Systems"
+  },
+  {
+    "question_number": "Q.21",
+    "question": "Consider a continuous-time signal\n\n$$x(t) = -t^2 \\{u(t + 4) - u(t - 4)\\}$$\n\nwhere $u(t)$ is the continuous-time unit step function. Let $\\delta(t)$ be the continuous-time unit impulse function. The value of\n\n$$\\int_{-\\infty}^{\\infty} x(t)\\delta(t + 3)dt$$\n\nis",
+    "type": "mcq",
+    "choices": [
+      "-9",
+      "9",
+      "3",
+      "-3"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "c10d9868-41a7-48c4-a6c6-457e3e25fb68",
+    "topic": "26ead9c1-4379-45bf-97e3-32e3897908bf",
+    "images": [],
+    "subject_name": "Electrical and Electronic Engineering",
+    "topic_name": "Signals and Systems"
+  },
+  {
+    "question_number": "Q.22",
+    "question": "Selected data points of the step response of a stable first-order linear time-invariant (LTI) system are given below. The closest value of the time-constant, in sec, of the system is\n\n| Time (sec) | 0.6 | 1.6 | 2.6 | 10 | $\\infty$ |\n| :--- | :--- | :--- | :--- | :--- | :--- |\n| Output | 0.78 | 1.65 | 2.18 | 2.98 | 3 |",
+    "type": "mcq",
+    "choices": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "c10d9868-41a7-48c4-a6c6-457e3e25fb68",
+    "topic": "1db32e28-6bf6-4413-844a-73d3c40c9083",
+    "images": [],
+    "subject_name": "Electrical and Electronic Engineering",
+    "topic_name": "Control Systems"
+  },
+  {
+    "question_number": "Q.23",
+    "question": "The Nyquist plot of a strictly stable $G(s)$ having the numerator polynomial as $(s - 3)$ encircles the critical point $-1$ once in the anti-clockwise direction. Which one of the following statements on the closed-loop system shown in figure, is correct?\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/ee/p1/images/p18_Q_23_img_1.png)",
+    "type": "mcq",
+    "choices": [
+      "The system stability cannot be ascertained.",
+      "The system is marginally stable.",
+      "The system is stable.",
+      "The system is unstable."
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "c10d9868-41a7-48c4-a6c6-457e3e25fb68",
+    "topic": "1db32e28-6bf6-4413-844a-73d3c40c9083",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          238,
+          305,
+          324,
+          762
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/ee/p1/images/p18_Q_23_img_1.png"
+      }
+    ],
+    "subject_name": "Electrical and Electronic Engineering",
+    "topic_name": "Control Systems"
+  },
+  {
+    "question_number": "Q.24",
+    "question": "During a power failure, a domestic household uninterruptible power supply (UPS) supplies AC power to a limited number of lights and fans in various rooms. As per a Newton-Raphson load-flow formulation, the UPS would be represented as a",
+    "type": "mcq",
+    "choices": [
+      "Slack bus",
+      "PV bus",
+      "PQ bus",
+      "PQV bus"
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "c10d9868-41a7-48c4-a6c6-457e3e25fb68",
+    "topic": "2f2e0f47-189f-4933-b2a2-0c052fc0033e",
+    "images": [],
+    "subject_name": "Electrical and Electronic Engineering",
+    "topic_name": "Power Systems"
+  },
+  {
+    "question_number": "Q.25",
+    "question": "Which one of the following figures represents the radial electric field distribution $E_R$ caused by a spherical cloud of electrons with a volume charge density, $\\rho = -3\\rho_0$ for $0 \\le R \\le a$ (both $\\rho_0, a$ are positive and $R$ is the radial distance) and $\\rho = 0$ for $R > a$?\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/ee/p1/images/p19_Q_25_img_1.png)",
+    "type": "mcq",
+    "choices": [
+      "Fig. (i)",
+      "Fig. (ii)",
+      "Fig. (iii)",
+      "Fig. (iv)"
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "c10d9868-41a7-48c4-a6c6-457e3e25fb68",
+    "topic": "04accaf4-aba4-45c1-8a67-1b5592000bfa",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          236,
+          205,
+          622,
+          818
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/ee/p1/images/p19_Q_25_img_1.png"
+      }
+    ],
+    "subject_name": "Electrical and Electronic Engineering",
+    "topic_name": "Electromagnetic Fields"
+  },
+  {
+    "question_number": "Q.26",
+    "question": "The operating region of the developed torque ($T_{em}$) and speed ($\\omega$) of an induction motor drive is given by the shaded region OQRE in the figure. The load torque ($T_L$) characteristic is also shown. The motor drive moves from the initial operating point O to the final operating point S. Which one of the following trajectories will take the shortest time?\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/ee/p1/images/p20_Q_26_img_1.png)",
+    "type": "mcq",
+    "choices": [
+      "$O - Q - R - S$",
+      "$O - P - S$",
+      "$O - E - S$",
+      "$O - F - S$"
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "c10d9868-41a7-48c4-a6c6-457e3e25fb68",
+    "topic": "fc215b2c-570e-4eb5-9ca4-f9a3616c9ecf",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          250,
+          350,
+          455,
+          700
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/ee/p1/images/p20_Q_26_img_1.png"
+      }
+    ],
+    "subject_name": "Electrical and Electronic Engineering",
+    "topic_name": "Electrical Machines"
+  },
+  {
+    "question_number": "Q.27",
+    "question": "The input voltage $v(t)$ and current $i(t)$ of a converter are given by,\n\n$$v(t) = 300 \\sin(\\omega t) \\text{ V}$$\n\n$$i(t) = 10 \\sin\\left(\\omega t - \\frac{\\pi}{6}\\right) + 2 \\sin\\left(3\\omega t + \\frac{\\pi}{6}\\right) + \\sin\\left(5\\omega t + \\frac{\\pi}{2}\\right) \\text{ A}$$\n\nwhere, $\\omega = 2\\pi \\times 50 \\text{ rad/s}$. The input power factor of the converter is closest to",
+    "type": "mcq",
+    "choices": [
+      "0.845",
+      "0.867",
+      "0.887",
+      "1.0"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "c10d9868-41a7-48c4-a6c6-457e3e25fb68",
+    "topic": "66d42108-4931-455c-9c34-a24bddfd3582",
+    "images": [],
+    "subject_name": "Electrical and Electronic Engineering",
+    "topic_name": "Power Electronics"
+  },
+  {
+    "question_number": "Q.28",
+    "question": "Instrument(s) required to synchronize an alternator to the grid is/are",
+    "type": "m-mcq",
+    "choices": [
+      "Voltmeter",
+      "Wattmeter",
+      "Synchroscope",
+      "Stroboscope"
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "c10d9868-41a7-48c4-a6c6-457e3e25fb68",
+    "topic": "fc215b2c-570e-4eb5-9ca4-f9a3616c9ecf",
+    "images": [],
+    "subject_name": "Electrical and Electronic Engineering",
+    "topic_name": "Electrical Machines"
+  },
+  {
+    "question_number": "Q.29",
+    "question": "The open-loop transfer function of the system shown in the figure, is\n$$G(s) = \\frac{Ks(s + 2)}{(s + 5)(s + 7)}$$\nFor $K \\ge 0$, which of the following real axis point(s) is/are on the root locus?\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/ee/p1/images/p22_Q_29_img_q29.png)",
+    "type": "m-mcq",
+    "choices": [
+      "$-1$",
+      "$-4$",
+      "$-6$",
+      "$-10$"
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "c10d9868-41a7-48c4-a6c6-457e3e25fb68",
+    "topic": "1db32e28-6bf6-4413-844a-73d3c40c9083",
+    "images": [
+      {
+        "box_id": "img_q29",
+        "box": [
+          271,
+          308,
+          350,
+          757
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/ee/p1/images/p22_Q_29_img_q29.png"
+      }
+    ],
+    "subject_name": "Electrical and Electronic Engineering",
+    "topic_name": "Control Systems"
+  },
+  {
+    "question_number": "Q.30",
+    "question": "A continuous time periodic signal $x(t)$ is\n$$x(t) = 1 + 2 \\cos 2\\pi t + 2 \\cos 4\\pi t + 2 \\cos 6\\pi t\\ .$$\nIf $T$ is the period of $x(t)$, then $\\frac{1}{T} \\int_0^T |x(t)|^2 dt =$ ________ (round off to the nearest integer).",
+    "type": "numerical",
+    "choices": [],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "c10d9868-41a7-48c4-a6c6-457e3e25fb68",
+    "topic": "26ead9c1-4379-45bf-97e3-32e3897908bf",
+    "images": [],
+    "subject_name": "Electrical and Electronic Engineering",
+    "topic_name": "Signals and Systems"
+  },
+  {
+    "question_number": "Q.31",
+    "question": "The maximum percentage error in the equivalent resistance of two parallel-connected resistors of $100\\ \\Omega$ and $900\\ \\Omega$ with each having a maximum $5\\%$ error is ________ $\\%$ *(round off to nearest integer value)*.",
+    "type": "numerical",
+    "choices": [],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "c10d9868-41a7-48c4-a6c6-457e3e25fb68",
+    "topic": "3a27a0fb-06cb-4c80-a8e4-b3178eacbbb0",
+    "images": [],
+    "subject_name": "Electrical and Electronic Engineering",
+    "topic_name": "Measurements and Instrumentation"
+  },
+  {
+    "question_number": "Q.32",
+    "question": "Consider a distribution feeder, with $R/X$ ratio of 5. At the receiving end, a $350\\text{ kVA}$ load is connected. The maximum voltage drop will occur from the sending end to the receiving end, when the power factor of the load is ________ *(round off to three decimal places)*.",
+    "type": "numerical",
+    "choices": [],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "c10d9868-41a7-48c4-a6c6-457e3e25fb68",
+    "topic": "2f2e0f47-189f-4933-b2a2-0c052fc0033e",
+    "images": [],
+    "subject_name": "Electrical and Electronic Engineering",
+    "topic_name": "Power Systems"
+  },
+  {
+    "question_number": "Q.33",
+    "question": "The bus impedance matrix of a 3-bus system (in $pu$) is\n$$Z_{bus} = \\begin{bmatrix} j0.059 & j0.061 & j0.038 \\\\ j0.061 & j0.093 & j0.066 \\\\ j0.038 & j0.066 & j0.110 \\end{bmatrix}$$\nA symmetrical fault (through a fault impedance of $j0.007\\ pu$) occurs at bus 2. Neglecting pre-fault loading conditions, the voltage at bus 1, during the fault is ________ $pu$ *(round off to three decimal places)*.",
+    "type": "numerical",
+    "choices": [],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "c10d9868-41a7-48c4-a6c6-457e3e25fb68",
+    "topic": "2f2e0f47-189f-4933-b2a2-0c052fc0033e",
+    "images": [],
+    "subject_name": "Electrical and Electronic Engineering",
+    "topic_name": "Power Systems"
+  },
+  {
+    "question_number": "Q.34",
+    "question": "In the circuit with ideal devices, the power MOSFET is operated with a duty cycle of $0.4$ in a switching cycle with $I = 10\\text{ A}$ and $V = 15\\text{ V}$. The power delivered by the current source, in W, is ____________ (round off to the nearest integer).\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/ee/p1/images/p24_Q_34_img_1.png)",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "c10d9868-41a7-48c4-a6c6-457e3e25fb68",
+    "topic": "66d42108-4931-455c-9c34-a24bddfd3582",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          212,
+          340,
+          377,
+          722
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/ee/p1/images/p24_Q_34_img_1.png"
+      }
+    ],
+    "subject_name": "Electrical and Electronic Engineering",
+    "topic_name": "Power Electronics"
+  },
+  {
+    "question_number": "Q.35",
+    "question": "The induced emf in a $3.3\\text{ kV}$, 4 pole, 3-phase star connected synchronous motor is considered to be equal and in phase with the terminal voltage under no load condition. On application of a mechanical load, the induced emf phasor is deflected by an angle of $2^\\circ$ mechanical with respect to the terminal voltage phasor. If the synchronous reactance is $2\\ \\Omega$, and stator resistance is negligible, then the motor armature current magnitude, in ampere, during loaded condition is closest to, ____________ (round off to two decimal places).",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "c10d9868-41a7-48c4-a6c6-457e3e25fb68",
+    "topic": "fc215b2c-570e-4eb5-9ca4-f9a3616c9ecf",
+    "images": [],
+    "subject_name": "Electrical and Electronic Engineering",
+    "topic_name": "Electrical Machines"
+  },
+  {
+    "question_number": "Q.36",
+    "question": "Let $X$ and $Y$ be continuous random variables with probability density functions $P_X(x)$ and $P_Y(y)$, respectively. Further, let $Y = X^2$ and\n$$P_X(x) = \\begin{cases} 1, & x \\in (0,1] \\\\ 0, & \\text{otherwise} \\end{cases}$$\nWhich one of the following options is correct?",
+    "type": "mcq",
+    "choices": [
+      "$$P_Y(y) = \\begin{cases} \\frac{1}{2\\sqrt{y}}, & y \\in (0,1] \\\\ 0, & \\text{otherwise} \\end{cases}$$",
+      "$$P_Y(y) = \\begin{cases} 1, & y \\in (0,1] \\\\ 0, & \\text{otherwise} \\end{cases}$$",
+      "$$P_Y(y) = \\begin{cases} 1.5\\sqrt{y}, & y \\in (0,1] \\\\ 0, & \\text{otherwise} \\end{cases}$$",
+      "$$P_Y(y) = \\begin{cases} 2y, & y \\in (0,1] \\\\ 0, & \\text{otherwise} \\end{cases}$$"
+    ],
+    "marks": 2,
+    "negativeMarks": 0.66,
+    "subject": "c10d9868-41a7-48c4-a6c6-457e3e25fb68",
+    "topic": "cf604594-abd2-4091-93fd-9e829f69a949",
+    "images": [],
+    "subject_name": "Electrical and Electronic Engineering",
+    "topic_name": "Engineering Mathematics"
+  },
+  {
+    "question_number": "Q.37",
+    "question": "A Boolean function is given as\n\n$$f = (\\bar{u} + \\bar{v} + \\bar{w} + \\bar{x}).(\\bar{u} + \\bar{v} + \\bar{w} + x).(\\bar{u} + v + \\bar{w} + \\bar{x}).(\\bar{u} + v + \\bar{w} + x)$$\n\nThe simplified form of this function is represented by",
+    "type": "mcq",
+    "choices": [
+      "![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/ee/p1/images/p26_Q_37_img_a.png)",
+      "![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/ee/p1/images/p26_Q_37_img_b.png)",
+      "![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/ee/p1/images/p26_Q_37_img_c.png)",
+      "![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/ee/p1/images/p26_Q_37_img_d.png)"
+    ],
+    "marks": 2,
+    "negativeMarks": 0.66,
+    "subject": "c10d9868-41a7-48c4-a6c6-457e3e25fb68",
+    "topic": "f1162731-37b6-4823-aad4-8d388ba29fc7",
+    "images": [
+      {
+        "box_id": "img_a",
+        "box": [
+          290,
+          200,
+          354,
+          483
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/ee/p1/images/p26_Q_37_img_a.png"
+      },
+      {
+        "box_id": "img_b",
+        "box": [
+          382,
+          200,
+          445,
+          483
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/ee/p1/images/p26_Q_37_img_b.png"
+      },
+      {
+        "box_id": "img_c",
+        "box": [
+          474,
+          200,
+          538,
+          489
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/ee/p1/images/p26_Q_37_img_c.png"
+      },
+      {
+        "box_id": "img_d",
+        "box": [
+          565,
+          200,
+          633,
+          497
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/ee/p1/images/p26_Q_37_img_d.png"
+      }
+    ],
+    "subject_name": "Electrical and Electronic Engineering",
+    "topic_name": "Analog and Digital Electronics"
+  },
+  {
+    "question_number": "Q.38",
+    "question": "In the circuit, $\\text{I}_{\\text{DC}}$ is an ideal current source. The transistors $\\text{M}_1$ and $\\text{M}_2$ are assumed to be biased in saturation, wherein $\\text{V}_{\\text{in}}$ is the input signal and $\\text{V}_{\\text{DC}}$ is fixed DC voltage. Both transistors have a small signal resistance of $r_{ds}$ and trans-conductance of $g_m$. The small signal output impedance of this circuit is\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/ee/p1/images/p27_Q_38_img_1.png)",
+    "type": "mcq",
+    "choices": [
+      "$2r_{ds}$",
+      "$\\frac{1}{g_m} + r_{ds}$",
+      "$g_m r_{ds}^2 + 2r_{ds}$",
+      "infinity"
+    ],
+    "marks": null,
+    "negativeMarks": null,
+    "subject": "c10d9868-41a7-48c4-a6c6-457e3e25fb68",
+    "topic": "f1162731-37b6-4823-aad4-8d388ba29fc7",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          235,
+          420,
+          512,
+          643
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/ee/p1/images/p27_Q_38_img_1.png"
+      }
+    ],
+    "subject_name": "Electrical and Electronic Engineering",
+    "topic_name": "Analog and Digital Electronics"
+  },
+  {
+    "question_number": "Q.39",
+    "question": "In the circuit, shown below, if the values of R and C are very large, the form of the output voltage for a very high frequency square wave input, is best represented by\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/ee/p1/images/p28_Q_39_img_circuit.png)",
+    "type": "mcq",
+    "choices": [
+      "![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/ee/p1/images/p28_Q_39_img_a.png)",
+      "![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/ee/p1/images/p28_Q_39_img_b.png)",
+      "![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/ee/p1/images/p28_Q_39_img_c.png)",
+      "![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/ee/p1/images/p28_Q_39_img_d.png)"
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "c10d9868-41a7-48c4-a6c6-457e3e25fb68",
+    "topic": "f1162731-37b6-4823-aad4-8d388ba29fc7",
+    "images": [
+      {
+        "box_id": "img_circuit",
+        "box": [
+          200,
+          350,
+          320,
+          715
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/ee/p1/images/p28_Q_39_img_circuit.png"
+      },
+      {
+        "box_id": "img_a",
+        "box": [
+          345,
+          195,
+          440,
+          340
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/ee/p1/images/p28_Q_39_img_a.png"
+      },
+      {
+        "box_id": "img_b",
+        "box": [
+          460,
+          195,
+          555,
+          340
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/ee/p1/images/p28_Q_39_img_b.png"
+      },
+      {
+        "box_id": "img_c",
+        "box": [
+          580,
+          195,
+          675,
+          345
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/ee/p1/images/p28_Q_39_img_c.png"
+      },
+      {
+        "box_id": "img_d",
+        "box": [
+          712,
+          195,
+          810,
+          340
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/ee/p1/images/p28_Q_39_img_d.png"
+      }
+    ],
+    "subject_name": "Electrical and Electronic Engineering",
+    "topic_name": "Analog and Digital Electronics"
+  },
+  {
+    "question_number": "Q.40",
+    "question": "Let continuous-time signals $x_1(t)$ and $x_2(t)$ be\n$$x_1(t) = \\begin{cases} 1, & t \\in [0,1] \\\\ 2 - t, & t \\in [1,2] \\\\ 0, & \\text{otherwise} \\end{cases} \\quad \\text{and} \\quad x_2(t) = \\begin{cases} t, & t \\in [0,1] \\\\ 2 - t, & t \\in [1,2] \\\\ 0, & \\text{otherwise} \\end{cases}$$\nConsider the convolution $y(t) = x_1(t) * x_2(t)$. Then $\\int_{-\\infty}^{\\infty} y(t) dt$ is",
+    "type": "mcq",
+    "choices": [
+      "1.5",
+      "2.5",
+      "3.5",
+      "4"
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "c10d9868-41a7-48c4-a6c6-457e3e25fb68",
+    "topic": "26ead9c1-4379-45bf-97e3-32e3897908bf",
+    "images": [],
+    "subject_name": "Electrical and Electronic Engineering",
+    "topic_name": "Signals and Systems"
+  },
+  {
+    "question_number": "Q.41",
+    "question": "Let $G(s) = \\frac{1}{(s+1)(s+2)}$. Then the closed-loop system shown in the figure below,\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/ee/p1/images/p29_Q_41_img_1.png)\nis",
+    "type": "mcq",
+    "choices": [
+      "stable for all $K > 2$.",
+      "unstable for all $K > 2$.",
+      "unstable for all $K > 1$.",
+      "stable for all $K > 1$."
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "c10d9868-41a7-48c4-a6c6-457e3e25fb68",
+    "topic": "1db32e28-6bf6-4413-844a-73d3c40c9083",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          590,
+          350,
+          660,
+          715
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/ee/p1/images/p29_Q_41_img_1.png"
+      }
+    ],
+    "subject_name": "Electrical and Electronic Engineering",
+    "topic_name": "Control Systems"
+  },
+  {
+    "question_number": "42",
+    "question": "The continuous-time unit impulse signal is applied as an input to a continuous-time linear time-invariant system $S$. The output is observed to be the continuous-time unit step signal $u(t)$. Which one of the following statements is true?",
+    "type": "mcq",
+    "choices": [
+      "Every bounded input signal applied to $S$ results in a bounded output signal.",
+      "It is possible to find a bounded input signal which when applied to $S$ results in an unbounded output signal.",
+      "On applying any input signal to $S$, the output signal is always bounded.",
+      "On applying any input signal to $S$ the output signal is always unbounded."
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "c10d9868-41a7-48c4-a6c6-457e3e25fb68",
+    "topic": "26ead9c1-4379-45bf-97e3-32e3897908bf",
+    "images": [],
+    "subject_name": "Electrical and Electronic Engineering",
+    "topic_name": "Signals and Systems"
+  },
+  {
+    "question_number": "Q.43",
+    "question": "The transformer connection given in the figure is part of a balanced 3-phase circuit where the phase sequence is “$abc$”. The primary to secondary turns ratio is 2:1. If ($I_a + I_b + I_c = 0$), then the relationship between $I_A$ and $I_{ad}$ will be\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/ee/p1/images/p31_Q_43_img_1.png)",
+    "type": "mcq",
+    "choices": [
+      "\\frac{|I_A|}{|I_{ad}|} = \\frac{1}{2\\sqrt{3}} \\text{ and } I_{ad} \\text{ lags } I_A \\text{ by } 30^\\circ.",
+      "\\frac{|I_A|}{|I_{ad}|} = \\frac{1}{2\\sqrt{3}} \\text{ and } I_{ad} \\text{ leads } I_A \\text{ by } 30^\\circ.",
+      "\\frac{|I_A|}{|I_{ad}|} = 2\\sqrt{3} \\text{ and } I_{ad} \\text{ lags } I_A \\text{ by } 30^\\circ.",
+      "\\frac{|I_A|}{|I_{ad}|} = 2\\sqrt{3} \\text{ and } I_{ad} \\text{ leads } I_A \\text{ by } 30^\\circ."
+    ],
+    "marks": 2,
+    "negativeMarks": 0.66,
+    "subject": "c10d9868-41a7-48c4-a6c6-457e3e25fb68",
+    "topic": "fc215b2c-570e-4eb5-9ca4-f9a3616c9ecf",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          222,
+          326,
+          429,
+          745
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/ee/p1/images/p31_Q_43_img_1.png"
+      }
+    ],
+    "subject_name": "Electrical and Electronic Engineering",
+    "topic_name": "Electrical Machines"
+  },
+  {
+    "question_number": "Q.44",
+    "question": "A DC series motor with negligible series resistance is running at a certain speed driving a load, where the load torque varies as cube of the speed. The motor is fed from a 400 V DC source and draws 40 A armature current. Assume linear magnetic circuit. The external resistance, in $\\Omega$, that must be connected in series with the armature to reduce the speed of the motor by half, is closest to",
+    "type": "mcq",
+    "choices": [
+      "23.28",
+      "4.82",
+      "46.7",
+      "0"
+    ],
+    "marks": 2,
+    "negativeMarks": 0.66,
+    "subject": "c10d9868-41a7-48c4-a6c6-457e3e25fb68",
+    "topic": "fc215b2c-570e-4eb5-9ca4-f9a3616c9ecf",
+    "images": [],
+    "subject_name": "Electrical and Electronic Engineering",
+    "topic_name": "Electrical Machines"
+  },
+  {
+    "question_number": "Q.45",
+    "question": "A 3-phase, 400 V, 4 pole, 50 Hz star connected induction motor has the following parameters referred to the stator:\n\n$R_r' = 1\\Omega, \\quad X_s = X_r' = 2\\Omega$\n\nStator resistance, magnetizing reactance and core loss of the motor are neglected. The motor is run with constant $V/f$ control from a drive. For maximum starting torque, the voltage and frequency output, respectively, from the drive, is closest to,",
+    "type": "mcq",
+    "choices": [
+      "400 V and 50 Hz",
+      "200 V and 25 Hz",
+      "100 V and 12.5 Hz",
+      "300 V and 37.5 Hz"
+    ],
+    "marks": 2,
+    "negativeMarks": 0.66,
+    "subject": "c10d9868-41a7-48c4-a6c6-457e3e25fb68",
+    "topic": "fc215b2c-570e-4eb5-9ca4-f9a3616c9ecf",
+    "images": [],
+    "subject_name": "Electrical and Electronic Engineering",
+    "topic_name": "Electrical Machines"
+  },
+  {
+    "question_number": "Q.46",
+    "question": "The 3-phase modulating waveforms ($v_a(t), v_b(t)$ and $v_c(t)$), used in sinusoidal PWM in a Voltage Source Inverter (VSI) are\n\n$$v_a(t) = 0.8 \\sin (\\omega t) \\text{ V}$$\n$$v_b(t) = 0.8 \\sin \\left(\\omega t - \\frac{2\\pi}{3}\\right) \\text{ V}$$\n$$v_c(t) = 0.8 \\sin \\left(\\omega t + \\frac{2\\pi}{3}\\right) \\text{ V}$$\n\nwhere $\\omega = 2\\pi \\times 40 \\text{ rad/s}$ is the fundamental frequency. The modulating waveforms are compared with a $10 \\text{ kHz}$ triangular carrier whose magnitude varies between $+1$ and $-1$. The VSI has a DC link voltage of $600 \\text{ V}$ and feeds a star connected motor. The per phase fundamental RMS motor voltage, in volts, is closest to",
+    "type": "mcq",
+    "choices": [
+      "169.71",
+      "300.00",
+      "424.26",
+      "212.13"
+    ],
+    "marks": 2,
+    "negativeMarks": 0.67,
+    "subject": "c10d9868-41a7-48c4-a6c6-457e3e25fb68",
+    "topic": "66d42108-4931-455c-9c34-a24bddfd3582",
+    "images": [],
+    "subject_name": "Electrical and Electronic Engineering",
+    "topic_name": "Power Electronics"
+  },
+  {
+    "question_number": "Q.47",
+    "question": "An ideal sinusoidal voltage source $v(t) = 230\\sqrt{2} \\sin(2\\pi \\times 50t)\\text{ V}$ feeds an ideal inductor $L$ through an ideal SCR with firing angle $\\alpha = 0^\\circ$. If $L = 100\\text{ mH}$, then the peak of the inductor current, in ampere, is closest to\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/ee/p1/images/p34_Q_47_img_1.png)",
+    "type": "mcq",
+    "choices": [
+      "20.71",
+      "0",
+      "10.35",
+      "7.32"
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "c10d9868-41a7-48c4-a6c6-457e3e25fb68",
+    "topic": "66d42108-4931-455c-9c34-a24bddfd3582",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          220,
+          360,
+          370,
+          710
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/ee/p1/images/p34_Q_47_img_1.png"
+      }
+    ],
+    "subject_name": "Electrical and Electronic Engineering",
+    "topic_name": "Power Electronics"
+  },
+  {
+    "question_number": "Q.48",
+    "question": "In the following circuit, the average voltage\n$$V_o = 400 \\left(1 + \\frac{\\cos \\alpha}{3}\\right) \\text{ V},$$\nwhere $\\alpha$ is the firing angle. If the power dissipated in the resistor is 64 W, then the closest value of $\\alpha$ in degrees is\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/ee/p1/images/p35_Q_48_img_48.png)",
+    "type": "mcq",
+    "choices": [
+      "35.9",
+      "46.4",
+      "41.4",
+      "0"
+    ],
+    "marks": 2,
+    "negativeMarks": 0.67,
+    "subject": "c10d9868-41a7-48c4-a6c6-457e3e25fb68",
+    "topic": "66d42108-4931-455c-9c34-a24bddfd3582",
+    "images": [
+      {
+        "box_id": "img_48",
+        "box": [
+          275,
+          295,
+          425,
+          775
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/ee/p1/images/p35_Q_48_img_48.png"
+      }
+    ],
+    "subject_name": "Electrical and Electronic Engineering",
+    "topic_name": "Power Electronics"
+  },
+  {
+    "question_number": "Q.49",
+    "question": "In the system shown below, the generator was initially supplying power to the grid. A temporary LLLG bolted fault occurs at F very close to circuit breaker 1. The circuit breakers open to isolate the line. The fault self-clears. The circuit breakers reclose and restore the line. Which one of the following diagrams best indicates the rotor accelerating and decelerating areas?\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/ee/p1/images/p36_Q_49_img_1.png)",
+    "type": "mcq",
+    "choices": [
+      "Fig. (i)",
+      "Fig. (ii)",
+      "Fig. (iii)",
+      "Fig. (iv)"
+    ],
+    "marks": 2,
+    "negativeMarks": 0.66,
+    "subject": "c10d9868-41a7-48c4-a6c6-457e3e25fb68",
+    "topic": "2f2e0f47-189f-4933-b2a2-0c052fc0033e",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          236,
+          248,
+          716,
+          832
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/ee/p1/images/p36_Q_49_img_1.png"
+      }
+    ],
+    "subject_name": "Electrical and Electronic Engineering",
+    "topic_name": "Power Systems"
+  },
+  {
+    "question_number": "Q.50",
+    "question": "An air filled cylindrical capacitor (capacitance $C_0$) of length $L$, with $a$ and $b$ as its inner and outer radii, respectively, consists of two coaxial conducting surfaces. Its cross-sectional view is shown in Fig. (i). In order to increase the capacitance, a dielectric material of relative permittivity $\\varepsilon_r$ is inserted inside 50% of the annular region as shown in Fig. (ii). The value of $\\varepsilon_r$ for which the capacitance of the capacitor in Fig. (ii), becomes $5C_0$ is\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/ee/p1/images/p37_Q_50_img_1.png)",
+    "type": "mcq",
+    "choices": [
+      "4",
+      "5",
+      "9",
+      "10"
+    ],
+    "marks": 2,
+    "negativeMarks": 0.66,
+    "subject": "c10d9868-41a7-48c4-a6c6-457e3e25fb68",
+    "topic": "04accaf4-aba4-45c1-8a67-1b5592000bfa",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          265,
+          345,
+          395,
+          725
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/ee/p1/images/p37_Q_50_img_1.png"
+      }
+    ],
+    "subject_name": "Electrical and Electronic Engineering",
+    "topic_name": "Electromagnetic Fields"
+  },
+  {
+    "question_number": "Q.51",
+    "question": "Let $\\boldsymbol{a}_R$ be the unit radial vector in the spherical co-ordinate system. For which of the following value(s) of $n$, the divergence of the radial vector field $\\boldsymbol{f}(\\boldsymbol{R}) = \\boldsymbol{a}_R \\frac{1}{R^n}$ is independent of $R$?",
+    "type": "m-mcq",
+    "choices": [
+      "-2",
+      "-1",
+      "1",
+      "2"
+    ],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "c10d9868-41a7-48c4-a6c6-457e3e25fb68",
+    "topic": "04accaf4-aba4-45c1-8a67-1b5592000bfa",
+    "images": [],
+    "subject_name": "Electrical and Electronic Engineering",
+    "topic_name": "Electromagnetic Fields"
+  },
+  {
+    "question_number": "Q.52",
+    "question": "Consider two coupled circuits, having self-inductances $L_1$ and $L_2$, that carry non-zero currents $I_1$ and $I_2$, respectively. The mutual inductance between the circuits is $M$ with unity coupling coefficient. The stored magnetic energy of the coupled circuits is minimum at which of the following value(s) of $\\frac{I_1}{I_2}$?",
+    "type": "m-mcq",
+    "choices": [
+      "-\\frac{M}{L_1}",
+      "-\\frac{M}{L_2}",
+      "-\\frac{L_1}{M}",
+      "-\\frac{L_2}{M}"
+    ],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "c10d9868-41a7-48c4-a6c6-457e3e25fb68",
+    "topic": "d7783493-31cd-4812-b7a6-caf00c4d3dd0",
+    "images": [],
+    "subject_name": "Electrical and Electronic Engineering",
+    "topic_name": "Network Theory"
+  },
+  {
+    "question_number": "Q.53",
+    "question": "Let $(x, y) \\in \\mathcal{R}^2$. The rate of change of the real valued function,\n\n$$V(x, y) = x^2 + x + y^2 + 1$$\n\nat the origin in the direction of the point $(1,2)$ is ________ (round off to the nearest integer).",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "c10d9868-41a7-48c4-a6c6-457e3e25fb68",
+    "topic": "cf604594-abd2-4091-93fd-9e829f69a949",
+    "images": [],
+    "subject_name": "Electrical and Electronic Engineering",
+    "topic_name": "Engineering Mathematics"
+  },
+  {
+    "question_number": "Q.54",
+    "question": "Consider ordinary differential equations given by\n\n$$\\dot{x}_1(t) = 2x_2(t)$$\n$$\\dot{x}_2(t) = r(t)$$\n\nwith initial conditions $x_1(0) = 1$ and $x_2(0) = 0$.\n\nIf $r(t) = \\begin{cases} 1, & t \\ge 0 \\\\ 0, & t < 0 \\end{cases}$, then at $t = 1$, $x_1(t) =$ ________ (round off to the nearest integer).",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "c10d9868-41a7-48c4-a6c6-457e3e25fb68",
+    "topic": "cf604594-abd2-4091-93fd-9e829f69a949",
+    "images": [],
+    "subject_name": "Electrical and Electronic Engineering",
+    "topic_name": "Engineering Mathematics"
+  },
+  {
+    "question_number": "Q.55",
+    "question": "Let $C$ be a clockwise oriented closed curve in the complex plane defined by $|z| = 1$. Further, let $f(z) = jz$ be a complex function, where $j = \\sqrt{-1}$. Then, $\\oint_C f(z)dz =$ ________ (round off to the nearest integer).",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "c10d9868-41a7-48c4-a6c6-457e3e25fb68",
+    "topic": "cf604594-abd2-4091-93fd-9e829f69a949",
+    "images": [],
+    "subject_name": "Electrical and Electronic Engineering",
+    "topic_name": "Engineering Mathematics"
+  },
+  {
+    "question_number": "Q.56",
+    "question": "The op-amps in the following circuit are ideal. The voltage gain of the circuit is ________ *(round off to the nearest integer)*.\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/ee/p1/images/p40_Q_56_img_q56.png)",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "c10d9868-41a7-48c4-a6c6-457e3e25fb68",
+    "topic": "f1162731-37b6-4823-aad4-8d388ba29fc7",
+    "images": [
+      {
+        "box_id": "img_q56",
+        "box": [
+          205,
+          301,
+          338,
+          780
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/ee/p1/images/p40_Q_56_img_q56.png"
+      }
+    ],
+    "subject_name": "Electrical and Electronic Engineering",
+    "topic_name": "Analog and Digital Electronics"
+  },
+  {
+    "question_number": "Q.57",
+    "question": "The switch (S) closes at $t = 0\\text{ sec}$. The time, in sec, the capacitor takes to charge to $50\\text{ V}$ is ________ *(round off to one decimal place)*.\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/ee/p1/images/p40_Q_57_img_q57.png)",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "c10d9868-41a7-48c4-a6c6-457e3e25fb68",
+    "topic": "d7783493-31cd-4812-b7a6-caf00c4d3dd0",
+    "images": [
+      {
+        "box_id": "img_q57",
+        "box": [
+          520,
+          327,
+          651,
+          742
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/ee/p1/images/p40_Q_57_img_q57.png"
+      }
+    ],
+    "subject_name": "Electrical and Electronic Engineering",
+    "topic_name": "Network Theory"
+  },
+  {
+    "question_number": "Q.58",
+    "question": "In an experiment to measure the active power drawn by a single-phase RL Load connected to an AC source through a $2\\ \\Omega$ resistor, three voltmeters are connected as shown in the figure below. The voltmeter readings are as follows: $V_{Source} = 200\\text{ V}$, $V_R = 9\\text{ V}$, $V_{Load} = 199\\text{ V}$. Assuming perfect resistors and ideal voltmeters, the Load-active power measured in this experiment, in W, is ________ (round off to one decimal place).\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/ee/p1/images/p41_Q_58_img_1.png)",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "c10d9868-41a7-48c4-a6c6-457e3e25fb68",
+    "topic": "3a27a0fb-06cb-4c80-a8e4-b3178eacbbb0",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          265,
+          350,
+          438,
+          716
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/ee/p1/images/p41_Q_58_img_1.png"
+      }
+    ],
+    "subject_name": "Electrical and Electronic Engineering",
+    "topic_name": "Measurements and Instrumentation"
+  },
+  {
+    "question_number": "Q.59",
+    "question": "In the Wheatstone bridge shown below, the sensitivity of the bridge in terms of change in balancing voltage $E$ for unit change in the resistance $R$, in mV/$\\Omega$, is _________ (round off to two decimal places).\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/ee/p1/images/p41_Q_59_img_2.png)",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "c10d9868-41a7-48c4-a6c6-457e3e25fb68",
+    "topic": "3a27a0fb-06cb-4c80-a8e4-b3178eacbbb0",
+    "images": [
+      {
+        "box_id": "img_2",
+        "box": [
+          635,
+          396,
+          774,
+          675
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/ee/p1/images/p41_Q_59_img_2.png"
+      }
+    ],
+    "subject_name": "Electrical and Electronic Engineering",
+    "topic_name": "Measurements and Instrumentation"
+  },
+  {
+    "question_number": "Q.60",
+    "question": "The steady state capacitor current of a conventional DC-DC buck converter, working in CCM, is shown in one switching cycle. If the input voltage is 30 V, the value of the inductor used, in mH, is ________ (round off to one decimal place).\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/ee/p1/images/p42_Q_60_img_1.png)",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "c10d9868-41a7-48c4-a6c6-457e3e25fb68",
+    "topic": "66d42108-4931-455c-9c34-a24bddfd3582",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          235,
+          318,
+          368,
+          755
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/ee/p1/images/p42_Q_60_img_1.png"
+      }
+    ],
+    "subject_name": "Electrical and Electronic Engineering",
+    "topic_name": "Power Electronics"
+  },
+  {
+    "question_number": "Q.61",
+    "question": "An ideal low pass filter has frequency response given by\n\n$$H(j\\omega) = \\begin{cases} 1, & |\\omega| \\le 200\\pi \\\\ 0, & \\text{otherwise} \\end{cases}$$\n\nLet $h(t)$ be its time domain representation. Then $h(0) =$ ________ (round off to the nearest integer).",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "c10d9868-41a7-48c4-a6c6-457e3e25fb68",
+    "topic": "26ead9c1-4379-45bf-97e3-32e3897908bf",
+    "images": [],
+    "subject_name": "Electrical and Electronic Engineering",
+    "topic_name": "Signals and Systems"
+  },
+  {
+    "question_number": "Q.62",
+    "question": "Consider the state-space model\n\n$$\\dot{\\boldsymbol{x}}(t) = \\boldsymbol{A}\\boldsymbol{x}(t) + \\boldsymbol{B}r(t),$$\n$$y(t) = \\boldsymbol{C}\\boldsymbol{x}(t)$$\n\nwhere $\\boldsymbol{x}(t), r(t), y(t)$ are the state, input and output, respectively. The matrices $A, B, C$ are given below\n\n$$A = \\begin{bmatrix} 0 & 1 \\\\ -2 & -3 \\end{bmatrix}, \\quad B = \\begin{bmatrix} 0 \\\\ 1 \\end{bmatrix}, \\quad C = \\begin{bmatrix} 1 & 0 \\end{bmatrix}$$\n\nThe sum of the magnitudes of the poles is ________ (round off to nearest integer).",
+    "type": "numerical",
+    "choices": [],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "c10d9868-41a7-48c4-a6c6-457e3e25fb68",
+    "topic": "1db32e28-6bf6-4413-844a-73d3c40c9083",
+    "images": [],
+    "subject_name": "Electrical and Electronic Engineering",
+    "topic_name": "Control Systems"
+  },
+  {
+    "question_number": "Q.63",
+    "question": "Using shunt capacitors, the power factor of a 3-phase, $4\\text{ kV}$ induction motor (drawing $390\\text{ kVA}$ at $0.77\\text{ pf}$ lag) is to be corrected to $0.85\\text{ pf}$ lag. The line current of the capacitor bank, in A, is ________ (round off to one decimal place).",
+    "type": "numerical",
+    "choices": [],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "c10d9868-41a7-48c4-a6c6-457e3e25fb68",
+    "topic": "2f2e0f47-189f-4933-b2a2-0c052fc0033e",
+    "images": [],
+    "subject_name": "Electrical and Electronic Engineering",
+    "topic_name": "Power Systems"
+  },
+  {
+    "question_number": "Q.64",
+    "question": "Two units, rated at $100\\text{ MW}$ and $150\\text{ MW}$, are enabled for economic load dispatch. When the overall incremental cost is $10,000\\text{ Rs./MWh}$, the units are dispatched to $50\\text{ MW}$ and $80\\text{ MW}$ respectively. At an overall incremental cost of $10,600\\text{ Rs./MWh}$, the power output of the units are $80\\text{ MW}$ and $92\\text{ MW}$, respectively. The total plant MW-output (without overloading any unit) at an overall incremental cost of $11,800\\text{ Rs./MWh}$ is ________ (round off to the nearest integer).",
+    "type": "numerical",
+    "choices": [],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "c10d9868-41a7-48c4-a6c6-457e3e25fb68",
+    "topic": "2f2e0f47-189f-4933-b2a2-0c052fc0033e",
+    "images": [],
+    "subject_name": "Electrical and Electronic Engineering",
+    "topic_name": "Power Systems"
+  },
+  {
+    "question_number": "Q.65",
+    "question": "A controller $D(s)$ of the form $(1 + K_D s)$ is to be designed for the plant $G(s) = \\frac{1000\\sqrt{2}}{s(s+10)^2}$ as shown in the figure. The value of $K_D$ that yields a phase margin of $45^\\circ$ at the gain cross-over frequency of $10\\text{ rad/sec}$ is ____________ (_round off to one decimal place_).\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/ee/p1/images/p44_Q_65_img_1.png)",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "c10d9868-41a7-48c4-a6c6-457e3e25fb68",
+    "topic": "1db32e28-6bf6-4413-844a-73d3c40c9083",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          250,
+          290,
+          325,
+          780
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/ee/p1/images/p44_Q_65_img_1.png"
+      }
+    ],
+    "subject_name": "Electrical and Electronic Engineering",
+    "topic_name": "Control Systems"
+  },
+  {
+    "question_number": "Q.1A",
+    "question": "In a power system, following a sudden increase in load, the frequency will settle at a lower steady-state value if",
+    "type": "mcq",
+    "choices": [
+      "rotational inertia of the power system reduces.",
+      "a major proportion of the connected load is resistive.",
+      "all generation units for frequency regulation also have voltage regulators enabled.",
+      "the pre-disturbance tie-line power flows are increased."
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "c10d9868-41a7-48c4-a6c6-457e3e25fb68",
+    "topic": "2f2e0f47-189f-4933-b2a2-0c052fc0033e",
+    "images": [],
+    "subject_name": "Electrical and Electronic Engineering",
+    "topic_name": "Power Systems"
+  },
+  {
+    "question_number": "Q.1B",
+    "question": "A coil of inductance $100\\text{ mH}$ and series resistance $100\\ \\Omega$ is connected across a $20\\text{ V}$, $1\\text{ kHz}$ supply. The quality factor of the coil at $1\\text{ kHz}$ is",
+    "type": "mcq",
+    "choices": [
+      "$\\pi$",
+      "$2\\pi$",
+      "$10^{-3}$",
+      "$1$"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "c10d9868-41a7-48c4-a6c6-457e3e25fb68",
+    "topic": "d7783493-31cd-4812-b7a6-caf00c4d3dd0",
+    "images": [],
+    "subject_name": "Electrical and Electronic Engineering",
+    "topic_name": "Network Theory"
+  },
+  {
+    "question_number": "Q.1C",
+    "question": "A device (single-phase, 50 Hz, AC) yields the following measurements at its terminals: voltage = $141.4 \\angle -10^\\circ\\text{ V}$, current = $0.7 \\angle -55^\\circ\\text{ A}$. The power factor of the device is ________ (round off to three decimal places).",
+    "type": "numerical",
+    "choices": [],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "c10d9868-41a7-48c4-a6c6-457e3e25fb68",
+    "topic": "d7783493-31cd-4812-b7a6-caf00c4d3dd0",
+    "images": [],
+    "subject_name": "Electrical and Electronic Engineering",
+    "topic_name": "Network Theory"
+  },
+  {
+    "question_number": "Q.1D",
+    "question": "The current, $i$, in the circuit shown below, in A, is ________ (round off to the nearest integer).\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/ee/p1/images/p46_Q_1D_img_1.png)",
+    "type": "numerical",
+    "choices": [],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "c10d9868-41a7-48c4-a6c6-457e3e25fb68",
+    "topic": "d7783493-31cd-4812-b7a6-caf00c4d3dd0",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          373,
+          375,
+          565,
+          690
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/ee/p1/images/p46_Q_1D_img_1.png"
+      }
+    ],
+    "subject_name": "Electrical and Electronic Engineering",
+    "topic_name": "Network Theory"
+  },
+  {
+    "question_number": "Q.1E",
+    "question": "In the circuit, both $\\text{Q}_1$ and $\\text{Q}_2$ have a current gain of 100 and $V_{BE} = 0.7\\text{ V}$. The small signal voltage gain is ________ (round off to two decimal places).\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/ee/p1/images/p46_Q_1E_img_2.png)",
+    "type": "numerical",
+    "choices": [],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "c10d9868-41a7-48c4-a6c6-457e3e25fb68",
+    "topic": "f1162731-37b6-4823-aad4-8d388ba29fc7",
+    "images": [
+      {
+        "box_id": "img_2",
+        "box": [
+          700,
+          325,
+          891,
+          682
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/ee/p1/images/p46_Q_1E_img_2.png"
+      }
+    ],
+    "subject_name": "Electrical and Electronic Engineering",
+    "topic_name": "Analog and Digital Electronics"
+  },
+  {
+    "question_number": "Q.2A",
+    "question": "The bilateral $z$-transform of a discrete-time signal $x[n]$ is\n$$X(z) = \\frac{(1 - a^2)}{(z - a)(z^{-1} - a)}$$\nwith $0 < a < 1$, and the region of convergence\n$$a < |z| < \\frac{1}{a}.$$\nLet $u[n]$ be the discrete-time unit step signal. Then, for $n \\ge 0$, the signal $x[n]$ is",
+    "type": "mcq",
+    "choices": [
+      "$a^n u[n]$",
+      "$\\frac{1}{a^n} u[n - 1]$",
+      "$a^n (u[n] - u[n - 1])$",
+      "$-a^n (u[n] - u[n - 1])$"
+    ],
+    "marks": 2,
+    "negativeMarks": 0.66,
+    "subject": "c10d9868-41a7-48c4-a6c6-457e3e25fb68",
+    "topic": "26ead9c1-4379-45bf-97e3-32e3897908bf",
+    "images": [],
+    "subject_name": "Electrical and Electronic Engineering",
+    "topic_name": "Signals and Systems"
+  },
+  {
+    "question_number": "Q.2B",
+    "question": "Let $G(s) = \\frac{1}{(s+1)(s+2)}$. Then the closed-loop system shown in the figure below, is\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/ee/p1/images/p48_Q_2B_img_1.png)",
+    "type": "mcq",
+    "choices": [
+      "stable for all $K > 2$.",
+      "unstable for all $K > 2$.",
+      "unstable for all $K > 1$.",
+      "stable for all $K > 1$."
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "c10d9868-41a7-48c4-a6c6-457e3e25fb68",
+    "topic": "1db32e28-6bf6-4413-844a-73d3c40c9083",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          217,
+          356,
+          283,
+          712
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/ee/p1/images/p48_Q_2B_img_1.png"
+      }
+    ],
+    "subject_name": "Electrical and Electronic Engineering",
+    "topic_name": "Control Systems"
+  },
+  {
+    "question_number": "Q.2C",
+    "question": "Consider the two statements given below, and select the correct option.\n\n**Statement 1:** A directional relay relies on the principle that the CT currents due to fault location on either side of the CT, always differ from each other by a phase of $90^\\circ$.\n\n**Statement 2:** Directional relays are generally deployed in distribution feeders, with their direction towards the source/substation.",
+    "type": "mcq",
+    "choices": [
+      "Both the Statements are FALSE.",
+      "Both the Statements are TRUE.",
+      "Statement 1 is FALSE, while Statement 2 is TRUE.",
+      "Statement 1 is TRUE, while Statement 2 is FALSE."
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "c10d9868-41a7-48c4-a6c6-457e3e25fb68",
+    "topic": "2f2e0f47-189f-4933-b2a2-0c052fc0033e",
+    "images": [],
+    "subject_name": "Electrical and Electronic Engineering",
+    "topic_name": "Power Systems"
+  },
+  {
+    "question_number": "Q.2D",
+    "question": "In the Wheatstone bridge shown below, the sensitivity of the bridge in terms of change in balancing voltage $E$ for unit change in the resistance $R$, in $\\text{mV}/\\Omega$, is ____________ (round off to two decimal places).\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/ee/p1/images/p49_Q_2D_img_1.png)",
+    "type": "numerical",
+    "choices": [],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "c10d9868-41a7-48c4-a6c6-457e3e25fb68",
+    "topic": "3a27a0fb-06cb-4c80-a8e4-b3178eacbbb0",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          216,
+          395,
+          355,
+          672
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/ee/p1/images/p49_Q_2D_img_1.png"
+      }
+    ],
+    "subject_name": "Electrical and Electronic Engineering",
+    "topic_name": "Measurements and Instrumentation"
+  },
+  {
+    "question_number": "Q.2E",
+    "question": "Given $\\boldsymbol{F} = \\boldsymbol{a}_x(3y + k_1 z) + \\boldsymbol{a}_y(k_2 x - 2z) + \\boldsymbol{a}_z(k_3 y - x)$, where $\\boldsymbol{a}_x, \\boldsymbol{a}_y$ and $\\boldsymbol{a}_z$ are the unit vectors in Cartesian coordinate system. The product $k_1 k_2 k_3$ for which $\\boldsymbol{F}$ is irrotational is ____________(round off to nearest integer).",
+    "type": "numerical",
+    "choices": [],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "c10d9868-41a7-48c4-a6c6-457e3e25fb68",
+    "topic": "04accaf4-aba4-45c1-8a67-1b5592000bfa",
+    "images": [],
+    "subject_name": "Electrical and Electronic Engineering",
+    "topic_name": "Electromagnetic Fields"
+  }
+]

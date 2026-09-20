@@ -1,0 +1,1310 @@
+[
+  {
+    "question_number": "Q.1",
+    "question": "Fish : Shoal :: Lion : ________\n\nSelect the correct option to complete the analogy.",
+    "type": "mcq",
+    "choices": [
+      "(A) Pride",
+      "(B) School",
+      "(C) Forest",
+      "(D) Series"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "d82ad3b0-e5ca-4407-91d6-ab1653f3f02e",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "General Aptitude"
+  },
+  {
+    "question_number": "Q.2",
+    "question": "Identify the grammatically correct sentence:",
+    "type": "mcq",
+    "choices": [
+      "It is I who am responsible for this fiasco.",
+      "It is myself who is responsible for this fiasco.",
+      "It is I who is responsible for this fiasco.",
+      "It is I who are responsible for this fiasco."
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "d82ad3b0-e5ca-4407-91d6-ab1653f3f02e",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "General Aptitude"
+  },
+  {
+    "question_number": "Q.3",
+    "question": "Two cars, P and Q, start from a point X in India at 10 AM. Car P travels North with a speed of 25 km/h and car Q travels East with a speed of 30 km/h. Car P travels continuously but car Q stops for some time after travelling for one hour. If both the cars are at the same distance from X at 11:30 AM, for how long (in minutes) did car Q stop?",
+    "type": "mcq",
+    "choices": [
+      "10",
+      "12",
+      "15",
+      "18"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "d82ad3b0-e5ca-4407-91d6-ab1653f3f02e",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "General Aptitude"
+  },
+  {
+    "question_number": "Q.4",
+    "question": "The ceiling function of a real number $x$, denoted by $ce(x)$, is defined as the smallest integer that is greater than or equal to $x$. Similarly, the floor function, denoted by $fl(x)$, is defined as the largest integer that is smaller than or equal to $x$. Which one of the following statements is NOT correct for all possible values of $x$?",
+    "type": "mcq",
+    "choices": [
+      "$ce(x) \\ge x$",
+      "$fl(x) \\le x$",
+      "$ce(x) \\ge fl(x)$",
+      "$fl(x) < ce(x)$"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "d82ad3b0-e5ca-4407-91d6-ab1653f3f02e",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "General Aptitude"
+  },
+  {
+    "question_number": "Q.5",
+    "question": "P and Q play chess frequently against each other. Of these matches, P has won 80% of the matches, drawn 15% of the matches and lost 5% of the matches.\n\nIf they play 3 more matches, what is the probability of P winning exactly 2 of these 3 matches?",
+    "type": "mcq",
+    "choices": [
+      "\\frac{48}{125}",
+      "\\frac{16}{125}",
+      "\\frac{16}{25}",
+      "\\frac{25}{48}"
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "d82ad3b0-e5ca-4407-91d6-ab1653f3f02e",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "General Aptitude"
+  },
+  {
+    "question_number": "Q.6",
+    "question": "Identify the option that has the most appropriate sequence such that a coherent paragraph is formed:\n\nP. At once, without thinking much, people rushed towards the city in hordes with the sole aim of grabbing as much gold as they could.\nQ. However, little did they realize about the impending hardships they would have to face on their way to the city: miles of mud, unfriendly forests, hungry beasts and inimical local lords – all of which would reduce their chances of getting gold to almost zero.\nR. All of them thought that easily they could lay their hands on gold and become wealthy overnight.\nS. About a hundred years ago, the news that gold had been discovered in Kolar spread like wildfire and the whole State was in raptures.",
+    "type": "mcq",
+    "choices": [
+      "P $\\rightarrow$ Q $\\rightarrow$ R $\\rightarrow$ S",
+      "Q $\\rightarrow$ S $\\rightarrow$ R $\\rightarrow$ P",
+      "S $\\rightarrow$ Q $\\rightarrow$ P $\\rightarrow$ R",
+      "S $\\rightarrow$ P $\\rightarrow$ R $\\rightarrow$ Q"
+    ],
+    "marks": 2,
+    "negativeMarks": 0.66,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "d82ad3b0-e5ca-4407-91d6-ab1653f3f02e",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "General Aptitude"
+  },
+  {
+    "question_number": "Q.7",
+    "question": "If HIDE and CAGE are coded as 19-23-7-11 and 5-2-17-11 respectively, then what is the code for HIGH?",
+    "type": "mcq",
+    "choices": [
+      "5-17-1-2",
+      "17-19-13-17",
+      "13-3-1-2",
+      "19-23-17-19"
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "d82ad3b0-e5ca-4407-91d6-ab1653f3f02e",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "General Aptitude"
+  },
+  {
+    "question_number": "Q.8",
+    "question": "The given figure is reflected about the horizontal dashed line and then rotated clockwise by $90^\\circ$ about an axis perpendicular to the plane of the figure.\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/me/p1/images/p7_Q_8_img_main.png)\n\nWhich one of the following options correctly shows the resultant figure?\n\nNote: The figures shown are representative.",
+    "type": "mcq",
+    "choices": [
+      "![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/me/p1/images/p7_Q_8_img_a.png)",
+      "![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/me/p1/images/p7_Q_8_img_b.png)",
+      "![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/me/p1/images/p7_Q_8_img_c.png)",
+      "![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/me/p1/images/p7_Q_8_img_d.png)"
+    ],
+    "marks": 2,
+    "negativeMarks": 0.66,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "d82ad3b0-e5ca-4407-91d6-ab1653f3f02e",
+    "images": [
+      {
+        "box_id": "img_main",
+        "box": [
+          252,
+          363,
+          391,
+          641
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/me/p1/images/p7_Q_8_img_main.png"
+      },
+      {
+        "box_id": "img_a",
+        "box": [
+          415,
+          200,
+          516,
+          344
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/me/p1/images/p7_Q_8_img_a.png"
+      },
+      {
+        "box_id": "img_b",
+        "box": [
+          525,
+          200,
+          627,
+          344
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/me/p1/images/p7_Q_8_img_b.png"
+      },
+      {
+        "box_id": "img_c",
+        "box": [
+          635,
+          200,
+          745,
+          344
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/me/p1/images/p7_Q_8_img_c.png"
+      },
+      {
+        "box_id": "img_d",
+        "box": [
+          755,
+          200,
+          856,
+          344
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/me/p1/images/p7_Q_8_img_d.png"
+      }
+    ],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "General Aptitude"
+  },
+  {
+    "question_number": "Q.9",
+    "question": "Which one of the following options has the correct sequence of objects arranged in the increasing number of mirror lines (lines of symmetry)?",
+    "type": "mcq",
+    "choices": [
+      "Circle; Square; Equilateral triangle; Isosceles triangle",
+      "Isosceles triangle; Equilateral triangle; Square; Circle",
+      "Equilateral triangle; Isosceles triangle; Square; Circle",
+      "Isosceles triangle; Square; Equilateral triangle; Circle"
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "d82ad3b0-e5ca-4407-91d6-ab1653f3f02e",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "General Aptitude"
+  },
+  {
+    "question_number": "Q.10",
+    "question": "A final year student appears for placement interview in two companies, S and T. Based on her interview performance, she estimates the probability of receiving job offers from companies S and T to be 0.8 and 0.6, respectively. Let $p$ be the probability that she receives job offers from both the companies. Select the most appropriate option.",
+    "type": "mcq",
+    "choices": [
+      "$0 \\le p \\le 0.2$",
+      "$0.4 \\le p \\le 0.6$",
+      "$0.2 \\le p \\le 0.4$",
+      "$0.6 \\le p \\le 1.0$"
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "d82ad3b0-e5ca-4407-91d6-ab1653f3f02e",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "General Aptitude"
+  },
+  {
+    "question_number": "Q.11",
+    "question": "Let $\\mathbf{A}$ and $\\mathbf{B}$ be real symmetric matrices of same size. Which one of the following options is correct?",
+    "type": "mcq",
+    "choices": [
+      "$\\mathbf{A}^{\\text{T}} = \\mathbf{A}^{-1}$",
+      "$\\mathbf{A}\\mathbf{B} = \\mathbf{B}\\mathbf{A}$",
+      "$(\\mathbf{A}\\mathbf{B})^{\\text{T}} = \\mathbf{B}^{\\text{T}}\\mathbf{A}^{\\text{T}}$",
+      "$\\mathbf{A} = \\mathbf{A}^{-1}$"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "54ff49d4-98c9-404f-a658-6683d659a089",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Engineering Mathematics"
+  },
+  {
+    "question_number": "Q.12",
+    "question": "For the differential equation given below, which one of the following options is correct?\n$$\\frac{\\partial^2 u}{\\partial x^2} + \\frac{\\partial^2 u}{\\partial y^2} = 0 \\quad 0 \\le x \\le 1, 0 \\le y \\le 1$$",
+    "type": "mcq",
+    "choices": [
+      "$u = e^{x+y}$ is a solution for all $x$ and $y$",
+      "$u = e^x \\sin y$ is a solution for all $x$ and $y$",
+      "$u = \\sin x \\sin y$ is a solution for all $x$ and $y$",
+      "$u = \\cos x \\cos y$ is a solution for all $x$ and $y$"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "54ff49d4-98c9-404f-a658-6683d659a089",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Engineering Mathematics"
+  },
+  {
+    "question_number": "Q.13",
+    "question": "The divergence of the curl of a vector field is",
+    "type": "mcq",
+    "choices": [
+      "the magnitude of this vector field",
+      "the argument of this vector field",
+      "the magnitude of the curl of this vector field",
+      "zero"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "54ff49d4-98c9-404f-a658-6683d659a089",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Engineering Mathematics"
+  },
+  {
+    "question_number": "Q.14",
+    "question": "If two unbiased coins are tossed, then what is the probability of having at least one head?",
+    "type": "mcq",
+    "choices": [
+      "0.25",
+      "0.5",
+      "0.675",
+      "0.75"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "54ff49d4-98c9-404f-a658-6683d659a089",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Engineering Mathematics"
+  },
+  {
+    "question_number": "Q.15",
+    "question": "Let a spherical block of ice at $-7\\text{ }^\\circ\\text{C}$ be exposed to atmospheric air at $30\\text{ }^\\circ\\text{C}$ with the gravitational direction as shown in the figure below. What will be the overall direction of air flow in this situation?\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/me/p1/images/p11_Q_15_img_1.png)",
+    "type": "mcq",
+    "choices": [
+      "Upward",
+      "Downward",
+      "NO motion",
+      "Sideward"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "3b5719ce-bb79-44c3-9cf7-ea0e20b9e836",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          205,
+          208,
+          375,
+          652
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/me/p1/images/p11_Q_15_img_1.png"
+      }
+    ],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Heat Transfer"
+  },
+  {
+    "question_number": "16",
+    "question": "Consider two identical tanks with a bottom hole of diameter $d$. One tank is filled with water and the other tank is filled with engine oil. The height of the fluid column $h$ is same in both the cases. The fluid exit velocity in the two tanks are $V_1$ and $V_2$. Neglecting all losses, which one of the following options is correct?\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/me/p1/images/p12_16_img_1.png)",
+    "type": "mcq",
+    "choices": [
+      "$V_2 > V_1$",
+      "$V_2 = V_1$",
+      "$V_2 < V_1$",
+      "Insufficient data to definitively conclude the relationship between $V_1$ and $V_2$"
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "a962db54-b0db-4c9f-b294-2f1fa62a1605",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          225,
+          218,
+          400,
+          625
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/me/p1/images/p12_16_img_1.png"
+      }
+    ],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Fluid Mechanics"
+  },
+  {
+    "question_number": "Q. 17",
+    "question": "In a laboratory experiment using a scaled down model to measure scour at a bridge pier, the Froude number is important. The ratio of the prototype length to the model length is 100. If the velocity of the model is 1 m s$^{-1}$, the velocity (in m s$^{-1}$) of the prototype is",
+    "type": "mcq",
+    "choices": [
+      "0.1",
+      "1",
+      "10",
+      "100"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "a962db54-b0db-4c9f-b294-2f1fa62a1605",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Fluid Mechanics"
+  },
+  {
+    "question_number": "Q.18",
+    "question": "Air inside a rigid, thermally-insulated tank undergoes stirring as shown in the figure below. Which one of the following options is correct?\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/me/p1/images/p14_Q_18_img_1.png)",
+    "type": "mcq",
+    "choices": [
+      "The enthalpy of the air increases while the entropy of the air remains constant",
+      "Both the enthalpy and the entropy of the air remain constant",
+      "Both the enthalpy and the entropy of the air increase",
+      "The enthalpy of the air decreases while the entropy of the air increases"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "2ba93485-2d1f-4c23-bd4b-804432150c8e",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          191,
+          218,
+          347,
+          560
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/me/p1/images/p14_Q_18_img_1.png"
+      }
+    ],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Thermodynamics"
+  },
+  {
+    "question_number": "Q.19",
+    "question": "In a psychrometric chart, one axis represents dry-bulb temperature. The axis, that is perpendicular to the dry-bulb temperature axis, represents",
+    "type": "mcq",
+    "choices": [
+      "wet-bulb temperature",
+      "specific humidity",
+      "relative humidity",
+      "enthalpy"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "2ba93485-2d1f-4c23-bd4b-804432150c8e",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Thermodynamics"
+  },
+  {
+    "question_number": "Q.20",
+    "question": "Among the following surface hardening processes, steel is heated to the lowest temperature in",
+    "type": "mcq",
+    "choices": [
+      "carburizing",
+      "cyaniding",
+      "nitriding",
+      "carbonitriding"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "77866ef8-d098-45cd-903c-93f6601cb72a",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Manufacturing Engineering"
+  },
+  {
+    "question_number": "Q.21",
+    "question": "The welding process commonly used for fabricating tailor-welded blanks of dissimilar thickness for automotive applications is",
+    "type": "mcq",
+    "choices": [
+      "gas welding",
+      "laser welding",
+      "arc welding",
+      "friction welding"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "77866ef8-d098-45cd-903c-93f6601cb72a",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Manufacturing Engineering"
+  },
+  {
+    "question_number": "Q.22",
+    "question": "The yield stress of a metal in uniaxial tension is 200 MPa. According to von Mises yield criterion, the yield stress (in MPa) of the metal in pure shear is closest to",
+    "type": "mcq",
+    "choices": [
+      "115.5",
+      "100.0",
+      "66.7",
+      "141.4"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "b4502955-01e4-4e4a-8ae2-f9752d986d14",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Strength of Materials"
+  },
+  {
+    "question_number": "Q.23",
+    "question": "In computer aided design (CAD), solid models can be constructed using",
+    "type": "mcq",
+    "choices": [
+      "boundary representation (B-rep)",
+      "Bezier curves",
+      "B-splines",
+      "nonuniform rational B-splines (NURBS)"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "77866ef8-d098-45cd-903c-93f6601cb72a",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Manufacturing Engineering"
+  },
+  {
+    "question_number": "Q.24",
+    "question": "Ceramics and glass are machined by",
+    "type": "mcq",
+    "choices": [
+      "electric discharge machining",
+      "ultrasonic machining",
+      "electrochemical machining",
+      "transferred arc plasma machining"
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "77866ef8-d098-45cd-903c-93f6601cb72a",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Manufacturing Engineering"
+  },
+  {
+    "question_number": "Q.25",
+    "question": "When assembled, the hole $30^{+0.030}_{+0.000}\\text{ mm}$ and shaft $30^{+0.020}_{-0.020}\\text{ mm}$ will result in",
+    "type": "mcq",
+    "choices": [
+      "loose fit",
+      "interference fit",
+      "transition fit",
+      "clearance fit"
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "77866ef8-d098-45cd-903c-93f6601cb72a",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Manufacturing Engineering"
+  },
+  {
+    "question_number": "Q.26",
+    "question": "A rigid circular disc of radius $r$ (in m) is rolling without slipping on a flat surface as shown in the figure below. The angular velocity of the disc is $\\omega$ (in rad $\\text{s}^{-1}$). The velocities (in m $\\text{s}^{-1}$) at points $O$ and $A$, respectively, are\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/me/p1/images/p18_Q_26_img_1.png)",
+    "type": "mcq",
+    "choices": [
+      "$r\\omega \\hat{i}$ and $0 \\hat{i}$",
+      "$-r\\omega \\hat{i}$ and $0 \\hat{i}$",
+      "$-r\\omega \\hat{i}$ and $-r\\omega \\hat{i}$",
+      "$r\\omega \\hat{i}$ and $r\\omega \\hat{i}$"
+    ],
+    "marks": 2,
+    "negativeMarks": 0.66,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "3d4fa0da-80db-4df4-8c08-661a49df63e9",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          205,
+          205,
+          345,
+          545
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/me/p1/images/p18_Q_26_img_1.png"
+      }
+    ],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Engineering Mechanics"
+  },
+  {
+    "question_number": "Q.27",
+    "question": "A truss structure is loaded as shown in the figure below. Among the options given, which member in the truss is a zero-force member?\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/me/p1/images/p19_Q_27_img_1.png)",
+    "type": "mcq",
+    "choices": [
+      "$BD$",
+      "$BC$",
+      "$BA$",
+      "$AD$"
+    ],
+    "marks": 2,
+    "negativeMarks": 0.66,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "3d4fa0da-80db-4df4-8c08-661a49df63e9",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          183,
+          202,
+          380,
+          577
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/me/p1/images/p19_Q_27_img_1.png"
+      }
+    ],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Engineering Mechanics"
+  },
+  {
+    "question_number": "Q.28",
+    "question": "A metallic square plate is subjected to a uniform hydrostatic pressure ($P$). Choose the correct Mohr's circle representing the state of stress at any point in the plate from the options given below.\n\n*For the Mohr's circle, normal stress is positive towards right and shear stress is positive in the upward direction.*",
+    "type": "mcq",
+    "choices": [
+      "![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/me/p1/images/p20_Q_28_img_a.png)",
+      "![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/me/p1/images/p20_Q_28_img_b.png)",
+      "![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/me/p1/images/p20_Q_28_img_c.png)",
+      "![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/me/p1/images/p20_Q_28_img_d.png)"
+    ],
+    "marks": 2,
+    "negativeMarks": 0.66,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "b4502955-01e4-4e4a-8ae2-f9752d986d14",
+    "images": [
+      {
+        "box_id": "img_a",
+        "box": [
+          250,
+          210,
+          350,
+          350
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/me/p1/images/p20_Q_28_img_a.png"
+      },
+      {
+        "box_id": "img_b",
+        "box": [
+          382,
+          228,
+          488,
+          352
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/me/p1/images/p20_Q_28_img_b.png"
+      },
+      {
+        "box_id": "img_c",
+        "box": [
+          524,
+          226,
+          628,
+          352
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/me/p1/images/p20_Q_28_img_c.png"
+      },
+      {
+        "box_id": "img_d",
+        "box": [
+          669,
+          216,
+          774,
+          403
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/me/p1/images/p20_Q_28_img_d.png"
+      }
+    ],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Strength of Materials"
+  },
+  {
+    "question_number": "Q.29",
+    "question": "In the context of balancing of rotating and reciprocating masses, which one of the following options is true?",
+    "type": "mcq",
+    "choices": [
+      "An unbalanced rigid rotor can be completely balanced using a single balancing mass",
+      "An unbalanced rigid rotor can be completely balanced using two balancing masses attached in two distinct planes",
+      "A single-cylinder internal combustion engine can be completely balanced using a single balancing mass",
+      "A single-cylinder internal combustion engine can be completely balanced using two balancing masses"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "dbadb898-348b-4eec-b9e4-1a8e70b6bb82",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Theory of Machines"
+  },
+  {
+    "question_number": "Q.30",
+    "question": "A shaft carries a helical spur gear. Which one of the following bearings can NOT be used to support it?",
+    "type": "mcq",
+    "choices": [
+      "Angular contact bearing",
+      "Double-row ball bearing",
+      "Straight roller bearing",
+      "Tapered roller bearing"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "75263634-4926-438e-bff7-1e08e8ccbc03",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Machine Design"
+  },
+  {
+    "question_number": "Q.31",
+    "question": "The values of a function $f$ obtained for different values of $x$ are shown in the table below.\n\n| $x$ | 0 | 0.25 | 0.5 | 0.75 | 1.0 |\n| --- | --- | --- | --- | --- | --- |\n| $f(x)$ | 0.9 | 2.0 | 1.5 | 1.8 | 0.4 |\n\nUsing Simpson’s one-third rule,\n$$\\int_0^1 f(x) \\, dx \\approx \\text{______ } \\text{(rounded off to 2 decimal places)}.$$",
+    "type": "numerical",
+    "choices": [],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "54ff49d4-98c9-404f-a658-6683d659a089",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Engineering Mathematics"
+  },
+  {
+    "question_number": "Q.32",
+    "question": "The thermal efficiency of an ideal air-standard Otto cycle is 0.5. The value of specific heat ratio of air is 1.4. The compression ratio of the cycle is _________ *(rounded off to 1 decimal place)*.",
+    "type": "numerical",
+    "choices": [],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "2ba93485-2d1f-4c23-bd4b-804432150c8e",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Thermodynamics"
+  },
+  {
+    "question_number": "Q.33",
+    "question": "During a welding operation, thermal power of 2500 W is incident normally on a metallic surface. As shown in the figure below (figure is NOT to scale), the heated area is circular. Out of the incident power, 85% of the power is absorbed within a circle of radius 5 mm while 65% is absorbed within an inner concentric circle of radius 3 mm. The power density in the shaded area is _________ $\\text{W mm}^{-2}$ *(rounded off to 2 decimal places)*.\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/me/p1/images/p22_Q_33_img_1.png)",
+    "type": "numerical",
+    "choices": [],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "77866ef8-d098-45cd-903c-93f6601cb72a",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          746,
+          203,
+          883,
+          398
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/me/p1/images/p22_Q_33_img_1.png"
+      }
+    ],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Manufacturing Engineering"
+  },
+  {
+    "question_number": "Q.34",
+    "question": "A liquid metal is poured in a mold cavity of size $200\\text{ mm} \\times 200\\text{ mm} \\times 200\\text{ mm}$. The cooling is uniform in all directions with NO additional compensation for shrinkage. Considering the volumetric shrinkage during solidification and solid contraction as $7\\%$ and $8\\%$, respectively, the length of the cube edge after cooling down to the room temperature is ________ $\\text{mm}$ *(rounded off to 1 decimal place)*.",
+    "type": "numerical",
+    "choices": [],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "77866ef8-d098-45cd-903c-93f6601cb72a",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Manufacturing Engineering"
+  },
+  {
+    "question_number": "Q.35",
+    "question": "A block of mass $1\\text{ kg}$ connected to a spring of stiffness $10\\text{ N m}^{-1}$ is operating in a viscous medium such that the damping ratio (or damping factor) is equal to the ratio of the damped frequency to the natural frequency. The magnitude of the damping ratio for this system is ________ *(rounded off to 2 decimal places)*.",
+    "type": "numerical",
+    "choices": [],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "dbadb898-348b-4eec-b9e4-1a8e70b6bb82",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Theory of Machines"
+  },
+  {
+    "question_number": "Q.36",
+    "question": "In the closed interval $[0, 3]$, the minimum value of the function $f$ given below is\n\n$$f(x) = 2x^3 - 9x^2 + 12x$$",
+    "type": "mcq",
+    "choices": [
+      "0",
+      "4",
+      "5",
+      "9"
+    ],
+    "marks": 2,
+    "negativeMarks": 0.66,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "54ff49d4-98c9-404f-a658-6683d659a089",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Engineering Mathematics"
+  },
+  {
+    "question_number": "Q.37",
+    "question": "Considering the actual demand and the forecast for a product given in the table below, the mean forecast error and the mean absolute deviation, respectively, are\n\n| Period | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |\n| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |\n| Actual demand | 425 | 415 | 420 | 430 | 427 | 418 | 422 | 416 | 426 | 421 |\n| Forecast | 427 | 422 | 416 | 422 | 423 | 420 | 419 | 418 | 430 | 415 |",
+    "type": "mcq",
+    "choices": [
+      "0.8 and 42.0",
+      "0.8 and 4.2",
+      "8.0 and 42.0",
+      "8.0 and 4.2"
+    ],
+    "marks": 2,
+    "negativeMarks": 0.66,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "753564e6-0755-405a-b495-1de2d16664dd",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Industrial Engineering"
+  },
+  {
+    "question_number": "Q.38",
+    "question": "Match the mold elements in the casting process with the most suitable function\n\n| Mold element | Function |\n| :--- | :--- |\n| P. Blind riser | I. Casting with internal cavity |\n| Q. Chill | II. Molten metal reservoir |\n| R. Skim bob | III. Nucleating agent |\n| S. Core | IV. Assisting in faster heat removal from melt |\n| T. Insulating sleeve | V. Removal of impurities |\n| U. Inoculant | VI. Increasing the solidification time |",
+    "type": "mcq",
+    "choices": [
+      "P-II, Q-IV, R-V, S-I, T-VI, U-III",
+      "P-II, Q-V, R-VI, S-I, T-III, U-IV",
+      "P-V, Q-I, R-VI, S-III, T-II, U-IV",
+      "P-II, Q-IV, R-I, S-V, T-VI, U-III"
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "77866ef8-d098-45cd-903c-93f6601cb72a",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Manufacturing Engineering"
+  },
+  {
+    "question_number": "Q.39",
+    "question": "Wire drawing operation is performed on a perfectly plastic metal without any strain hardening. Assuming no friction and no redundant work, the maximum possible percentage reduction in area in a single pass is closest to",
+    "type": "mcq",
+    "choices": [
+      "51.2",
+      "63.2",
+      "75.0",
+      "93.2"
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "77866ef8-d098-45cd-903c-93f6601cb72a",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Manufacturing Engineering"
+  },
+  {
+    "question_number": "Q.40",
+    "question": "In relation to additive manufacturing, match the following\n\n| Process | Layer creation technique | Material |\n| :--- | :--- | :--- |\n| P. Stereolithography | 1. Injection of powder stream | I. Paper |\n| Q. Fused deposition modeling | 2. Extrusion of melted polymer | II. Epoxy |\n| R. Laminated object manufacturing | 3. Liquid layer curing | III. Titanium |\n| S. Laser-engineered net shaping | 4. Sheet material deposition | IV. Acrylonitrile butadiene styrene (ABS) |",
+    "type": "mcq",
+    "choices": [
+      "P-3-III, Q-1-IV, R-4-I, S-2-II",
+      "P-3-II, Q-2-IV, R-4-I, S-1-III",
+      "P-4-III, Q-2-IV, R-1-II, S-3-I",
+      "P-3-II, Q-2-IV, R-1-I, S-4-III"
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "77866ef8-d098-45cd-903c-93f6601cb72a",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Manufacturing Engineering"
+  },
+  {
+    "question_number": "Q.41",
+    "question": "A plate of 30 mm thickness is fed through a rolling mill with two powered rolls. Each roll has a diameter of 500 mm. The plate thickness is to be reduced to 27 mm in a single pass. Assume no change in width. The process feasibility and the maximum draft (in mm) can be represented, respectively, as\n\nUse the coefficient of friction as 0.12",
+    "type": "mcq",
+    "choices": [
+      "feasible and 3.6",
+      "NOT feasible and 2.6",
+      "feasible and 3.0",
+      "NOT feasible and 6.0"
+    ],
+    "marks": 2,
+    "negativeMarks": 0.66,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "77866ef8-d098-45cd-903c-93f6601cb72a",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Manufacturing Engineering"
+  },
+  {
+    "question_number": "Q.42",
+    "question": "The system shown in the figure below consists of a cantilever beam (with flexural rigidity $EI$ and negligible mass), a spring (with spring constant $K$ and negligible mass) and a block of mass $m$. Assuming a lumped parameter model for the system, the fundamental natural frequency ($\\omega_n$) of the system is\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/me/p1/images/p29_Q_42_img_1.png)",
+    "type": "mcq",
+    "choices": [
+      "$\\sqrt{\\frac{\\frac{3EI}{L^3} + K}{m}}$",
+      "$\\sqrt{\\frac{\\frac{EI}{L^3} + K}{m}}$",
+      "$\\sqrt{\\frac{\\frac{3EI}{L^3} + K}{2m}}$",
+      "$\\sqrt{\\frac{\\frac{EI}{L^3} + K}{2m}}$"
+    ],
+    "marks": 2,
+    "negativeMarks": 0.66,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "dbadb898-348b-4eec-b9e4-1a8e70b6bb82",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          216,
+          206,
+          408,
+          486
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/me/p1/images/p29_Q_42_img_1.png"
+      }
+    ],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Theory of Machines"
+  },
+  {
+    "question_number": "Q.43",
+    "question": "The endurance limit of a specific grade of steel is same as its yield strength. The ultimate strength of this grade of steel is twice of its yield strength. A component made of this steel is loaded in tension and unloaded periodically. It is required that the component does NOT fail for at least $10^6$ loading cycles, as per the Soderberg law. Considering a factor of safety of 2, the maximum applied tensile principal stress is",
+    "type": "mcq",
+    "choices": [
+      "one-fourth of the endurance limit",
+      "half of the endurance limit",
+      "the endurance limit",
+      "twice the endurance limit"
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "75263634-4926-438e-bff7-1e08e8ccbc03",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Machine Design"
+  },
+  {
+    "question_number": "Q.44",
+    "question": "For a fully-developed pipe flow, which of the following options is/are correct?",
+    "type": "m-mcq",
+    "choices": [
+      "For the same maximum velocity, the average velocity is higher in the turbulent regime than that of the laminar regime",
+      "Compressibility effects are important if Mach number is less than 0.3",
+      "For laminar flow, the friction factor is independent of surface roughness",
+      "For laminar flow, friction factor decreases with decrease in Reynolds number"
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "a962db54-b0db-4c9f-b294-2f1fa62a1605",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Fluid Mechanics"
+  },
+  {
+    "question_number": "Q.45",
+    "question": "If $C$ is the unit circle in the complex plane with its center at the origin, then the value of $n$ in the equation given below is ________ (_rounded off to 1 decimal place_).\n\n$$\\oint_C \\frac{z^3}{(z^2 + 4)(z^2 - 4)} dz = 2 \\pi i n$$",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "54ff49d4-98c9-404f-a658-6683d659a089",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Engineering Mathematics"
+  },
+  {
+    "question_number": "Q.46",
+    "question": "The directional derivative of the function $f$ given below at the point $(1, 0)$ in the direction of $\\frac{1}{2}(\\hat{i} + \\sqrt{3} \\hat{j})$ is ________ (_rounded off to 1 decimal place_).\n\n$$f(x, y) = x^2 + xy^2$$",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "54ff49d4-98c9-404f-a658-6683d659a089",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Engineering Mathematics"
+  },
+  {
+    "question_number": "Q.47",
+    "question": "Let $y$ be the solution of the differential equation with the initial conditions given below. If $y(x = 2) = A \\ln 2$, then the value of $A$ is ________ (_rounded off to 2 decimal places_).\n\n$$x^2 \\frac{d^2 y}{dx^2} + 3x \\frac{dy}{dx} + y = 0 \\qquad y(x = 1) = 0 \\qquad \\frac{dy}{dx}(x = 1) = 1$$",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "54ff49d4-98c9-404f-a658-6683d659a089",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Engineering Mathematics"
+  },
+  {
+    "question_number": "Q.48",
+    "question": "Consider a cylindrical furnace of $5\\text{ m}$ diameter and $5\\text{ m}$ length with bottom, top and curved surfaces maintained at uniform temperatures of $800\\text{ K}$, $1500\\text{ K}$ and $500\\text{ K}$, respectively. The view factor between the bottom and top surfaces, $F_{12}$ is $0.2$. The magnitude of net radiation heat transfer rate between the bottom surface and the curved surface is ____________ kW *(rounded off to 1 decimal place)*.\n\nAll surfaces of the furnace can be assumed as black.\n\nThe Stefan-Boltzmann constant, $\\sigma = 5.67 \\times 10^{-8}\\text{ W m}^{-2}\\text{ K}^{-4}$.\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/me/p1/images/p32_Q_48_img_1.png)",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "3b5719ce-bb79-44c3-9cf7-ea0e20b9e836",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          295,
+          200,
+          495,
+          580
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/me/p1/images/p32_Q_48_img_1.png"
+      }
+    ],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Heat Transfer"
+  },
+  {
+    "question_number": "Q.49",
+    "question": "A pitot tube connected to a U-tube mercury manometer measures the speed of air flowing in the wind tunnel as shown in the figure below. The density of air is $1.23\\text{ kg m}^{-3}$ while the density of water is $1000\\text{ kg m}^{-3}$. For the manometer reading of $h = 30\\text{ mm}$ of mercury, the speed of air in the wind tunnel is ____________ $\\text{m s}^{-1}$ (*rounded off to 1 decimal place*).\n\nAssume: Specific gravity of mercury $= 13.6$\n\nAcceleration due to gravity $= 10\\text{ m s}^{-2}$\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/me/p1/images/p33_Q_49_img_q49.png)",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "a962db54-b0db-4c9f-b294-2f1fa62a1605",
+    "images": [
+      {
+        "box_id": "img_q49",
+        "box": [
+          295,
+          205,
+          485,
+          575
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/me/p1/images/p33_Q_49_img_q49.png"
+      }
+    ],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Fluid Mechanics"
+  },
+  {
+    "question_number": "Q.50",
+    "question": "Consider a velocity field $\\vec{V} = 3z\\hat{i} + 0\\hat{j} + Cx\\hat{k}$, where $C$ is a constant. If the flow is irrotational, the value of $C$ is ____________ (*rounded off to 1 decimal place*).",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "a962db54-b0db-4c9f-b294-2f1fa62a1605",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Fluid Mechanics"
+  },
+  {
+    "question_number": "Q. 51",
+    "question": "Water enters a tube of diameter, $\\text{D} = 60\\text{ mm}$ with mass flow rate of $0.01\\text{ kg s}^{-1}$ as shown in the figure below. The inlet mean temperature is $\\text{T}_{m,i} = 293\\text{ K}$ and the uniform heat flux at the surface of the tube is $2000\\text{ W m}^{-2}$. For the exit mean temperature of $\\text{T}_{m,o} = 353\\text{ K}$, the length of the tube, $L$ is ________ m (*rounded off to 1 decimal place*).\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/me/p1/images/p34_Q_ 51_img_1.png)\n\nUse the specific heat of water as $4181\\text{ J kg}^{-1}\\text{ K}^{-1}$.",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "3b5719ce-bb79-44c3-9cf7-ea0e20b9e836",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          270,
+          215,
+          431,
+          668
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/me/p1/images/p34_Q_ 51_img_1.png"
+      }
+    ],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Heat Transfer"
+  },
+  {
+    "question_number": "Q. 52",
+    "question": "A thermal power plant is running with no reheat or regeneration. The specific enthalpy and specific entropy of steam at the turbine inlet are $3344\\text{ kJ kg}^{-1}$ and $6.5\\text{ kJ kg}^{-1}\\text{ K}^{-1}$, respectively. The turbine isentropic efficiency is $0.9$, and the mass flow rate of steam at the turbine inlet is $102\\text{ kg s}^{-1}$. The turbine power output is ________ MW (*rounded off to 1 decimal place*).\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/me/p1/images/p34_Q_ 52_img_2.png)",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "2ba93485-2d1f-4c23-bd4b-804432150c8e",
+    "images": [
+      {
+        "box_id": "img_2",
+        "box": [
+          653,
+          201,
+          856,
+          868
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/me/p1/images/p34_Q_ 52_img_2.png"
+      }
+    ],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Thermodynamics"
+  },
+  {
+    "question_number": "Q. 53",
+    "question": "Consider a Pelton wheel of $1\\text{ m}$ diameter. The magnitude of relative velocity of water at the bucket inlet is same as the magnitude of relative velocity of water at the bucket exit. The absolute speed of water at the bucket inlet is $125.66\\text{ m s}^{-1}$. For maximum power output from the Pelton wheel, the rpm of the Pelton wheel is ____________ (*rounded off to 1 decimal place*).",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "a962db54-b0db-4c9f-b294-2f1fa62a1605",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Fluid Mechanics"
+  },
+  {
+    "question_number": "Q. 54",
+    "question": "A thermodynamically closed system contains $1\\text{ kg}$ of hydrogen. The system undergoes a reversible polytropic process with polytropic index $1.3$. The work output during the process is $400\\text{ kJ}$. During the process, hydrogen behaves as an ideal gas with constant specific heats. The absolute value of heat transfer during the process is ____________ $\\text{kJ}$ (*rounded off to 1 decimal place*).\n\nSpecific heat of hydrogen at constant pressure $= 14.56\\text{ kJ kg}^{-1}\\text{ K}^{-1}$\n\nSpecific heat of hydrogen at constant volume $= 10.4\\text{ kJ kg}^{-1}\\text{ K}^{-1}$",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "2ba93485-2d1f-4c23-bd4b-804432150c8e",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Thermodynamics"
+  },
+  {
+    "question_number": "Q. 55",
+    "question": "A heat pump, operating in reversed Carnot cycle, maintains a steady air temperature of $300\\text{ K}$ inside an auditorium. The heat pump receives heat from the ambient air. The ambient air temperature is $280\\text{ K}$. Heat loss from the auditorium is $15\\text{ kW}$. The power consumption of the heat pump is ____________ $\\text{kW}$ (*rounded off to 2 decimal places*).",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "2ba93485-2d1f-4c23-bd4b-804432150c8e",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Thermodynamics"
+  },
+  {
+    "question_number": "Q.56",
+    "question": "The state of stress at a point is shown in the figure given below. Under plane stress assumption, the normal strain along the thickness direction ($\nu_{zz}$ or $\\varepsilon_{zz}$) is ________ _(rounded off to 2 decimal places)_.\n\nUse the Young’s Modulus E = 200 GPa and Poisson’s ratio $\\nu = 0.27$.\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/me/p1/images/p36_Q_56_img_q56.png)",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "b4502955-01e4-4e4a-8ae2-f9752d986d14",
+    "images": [
+      {
+        "box_id": "img_q56",
+        "box": [
+          230,
+          203,
+          404,
+          624
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/me/p1/images/p36_Q_56_img_q56.png"
+      }
+    ],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Strength of Materials"
+  },
+  {
+    "question_number": "Q.57",
+    "question": "A simply supported beam of length 1 m is subjected to a uniformly distributed bending moment of 1 N m per m throughout the length as shown in the figure given below. The bending moment at the mid-point of the beam is ________ N m _(rounded off to the nearest integer)_.\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/me/p1/images/p36_Q_57_img_q57.png)",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "b4502955-01e4-4e4a-8ae2-f9752d986d14",
+    "images": [
+      {
+        "box_id": "img_q57",
+        "box": [
+          617,
+          212,
+          756,
+          575
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/me/p1/images/p36_Q_57_img_q57.png"
+      }
+    ],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Strength of Materials"
+  },
+  {
+    "question_number": "Q.58",
+    "question": "An isotropic brittle material is tested in the universal testing machine. The stress-strain diagram for the material shows a bi-linear elastic behavior as shown in the figure given below. The strain energy density is ________ $\\text{MJ m}^{-3}$ (*rounded off to 2 decimal places*).\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/me/p1/images/p37_Q_58_img_q58.png)",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "b4502955-01e4-4e4a-8ae2-f9752d986d14",
+    "images": [
+      {
+        "box_id": "img_q58",
+        "box": [
+          221,
+          214,
+          390,
+          470
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/me/p1/images/p37_Q_58_img_q58.png"
+      }
+    ],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Strength of Materials"
+  },
+  {
+    "question_number": "Q.59",
+    "question": "A pair of spur gears is required to maintain a velocity ratio of 1:2. The module of the gears is 10 mm and the addendum is 10 mm. If the operating pressure angle is $15^\\circ$, the minimum number of teeth required on the pinion to ensure NO interference/undercutting is ________ (*answer in integer*).",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "dbadb898-348b-4eec-b9e4-1a8e70b6bb82",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Theory of Machines"
+  },
+  {
+    "question_number": "Q.60",
+    "question": "An offset slider-crank mechanism is shown in the figure below. The length of the stroke of the slider is ________ mm (*rounded off to nearest integer*).\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/me/p1/images/p38_Q_60_img_q60.png)",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "dbadb898-348b-4eec-b9e4-1a8e70b6bb82",
+    "images": [
+      {
+        "box_id": "img_q60",
+        "box": [
+          217,
+          212,
+          366,
+          788
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/me/p1/images/p38_Q_60_img_q60.png"
+      }
+    ],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Theory of Machines"
+  },
+  {
+    "question_number": "Q.61",
+    "question": "Two plates of thickness 10 mm each are to be joined by a transverse fillet weld on one side and the resulting structure is loaded as shown in the figure below.\n\nIf the ultimate tensile strength of the weld material is 150 MPa and the factor of safety to be used is 3, the minimum length of the weld required to ensure that the weld does NOT fail is ________ mm (*rounded off to 2 decimal places*).\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/me/p1/images/p38_Q_61_img_q61.png)",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "75263634-4926-438e-bff7-1e08e8ccbc03",
+    "images": [
+      {
+        "box_id": "img_q61",
+        "box": [
+          626,
+          205,
+          699,
+          836
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2025/me/p1/images/p38_Q_61_img_q61.png"
+      }
+    ],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Machine Design"
+  },
+  {
+    "question_number": "Q.62",
+    "question": "Two metal parts (a cylinder and a cube) of same volume are cast under identical conditions. The diameter of the cylinder is equal to its height. The ratio of the solidification time of the cube to that of the cylinder is ______ (rounded off to 2 decimal places).\n\nAssume that solidification time follows Chvorinov's rule with an exponent of 2.",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "77866ef8-d098-45cd-903c-93f6601cb72a",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Manufacturing Engineering"
+  },
+  {
+    "question_number": "Q.63",
+    "question": "Cylindrical workpieces of diameter 60 mm and length 400 mm are machined on a lathe at a cutting speed of 25 m min$^{-1}$ and a feed of 0.2 mm rev$^{-1}$. The Taylor's tool life parameters $C$ and $n$ for this setup are 75 and 0.25, respectively. The tool changing time is 3 minutes. With a labor and overhead cost of ₹ 5 per minute, the tool changing cost per piece is ₹ ______ (rounded off to 2 decimal places).",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "77866ef8-d098-45cd-903c-93f6601cb72a",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Manufacturing Engineering"
+  },
+  {
+    "question_number": "Q.64",
+    "question": "A company uses 3000 units of a part annually. The units are priced as given in the table below. It costs ₹ 150 to place an order. Carrying costs are 40 percent of the purchase price per unit on an annual basis. The minimum total annual cost is ₹ ______ (rounded off to 1 decimal place).\n\n| Order quantity | Unit price (₹) |\n| --- | --- |\n| 1 to 499 | 9.0 |\n| 500 to 999 | 8.5 |\n| 1000 or more | 8.0 |",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "753564e6-0755-405a-b495-1de2d16664dd",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Industrial Engineering"
+  },
+  {
+    "question_number": "Q.65",
+    "question": "A project involves eight activities with the precedence relationship and duration as shown in the table below. The slack for the activity D is _____ hours (*answer in integer*).\n\n| Activity | Immediate predecessor | Duration (hours) |\n| :---: | :---: | :---: |\n| A | - | 4 |\n| B | A | 8 |\n| C | A | 5 |\n| D | B | 2 |\n| E | B | 7 |\n| F | C | 6 |\n| G | D | 3 |\n| H | E, F, G | 9 |",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "753564e6-0755-405a-b495-1de2d16664dd",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Industrial Engineering"
+  }
+]

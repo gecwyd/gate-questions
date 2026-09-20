@@ -1,0 +1,1232 @@
+[
+  {
+    "question_number": "Q.1",
+    "question": "If '$\\rightarrow$' denotes increasing order of intensity, then the meaning of the words\n\n[drizzle $\\rightarrow$ rain $\\rightarrow$ downpour] is analogous to [________ $\\rightarrow$ quarrel $\\rightarrow$ feud].\n\nWhich one of the given options is appropriate to fill the blank?",
+    "type": "mcq",
+    "choices": [
+      "(A) bicker",
+      "(B) bog",
+      "(C) dither",
+      "(D) dodge"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "c76a6907-625c-4757-ac6d-bc506bc851f3",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "General Aptitude"
+  },
+  {
+    "question_number": "Q.2",
+    "question": "Statements:\n\n1. All heroes are winners.\n2. All winners are lucky people.\n\nInferences:\n\nI. All lucky people are heroes.\nII. Some lucky people are heroes.\nIII. Some winners are heroes.\n\nWhich of the above inferences can be logically deduced from statements 1 and 2?",
+    "type": "mcq",
+    "choices": [
+      "Only I and II",
+      "Only II and III",
+      "Only I and III",
+      "Only III"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "c76a6907-625c-4757-ac6d-bc506bc851f3",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "General Aptitude"
+  },
+  {
+    "question_number": "Q.3",
+    "question": "A student was supposed to **multiply** a positive real number $p$ with another positive real number $q$. Instead, the student **divided** $p$ by $q$. If the percentage error in the student's answer is 80%, the value of $q$ is",
+    "type": "mcq",
+    "choices": [
+      "5",
+      "$\\sqrt{2}$",
+      "2",
+      "$\\sqrt{5}$"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "c76a6907-625c-4757-ac6d-bc506bc851f3",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "General Aptitude"
+  },
+  {
+    "question_number": "Q.4",
+    "question": "If the sum of the first 20 consecutive positive odd numbers is divided by $20^2$, the result is",
+    "type": "mcq",
+    "choices": [
+      "1",
+      "20",
+      "2",
+      "1/2"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "c76a6907-625c-4757-ac6d-bc506bc851f3",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "General Aptitude"
+  },
+  {
+    "question_number": "Q.5",
+    "question": "The ratio of the number of girls to boys in class VIII is the same as the ratio of the number of boys to girls in class IX. The total number of students (boys and girls) in classes VIII and IX is 450 and 360, respectively. If the number of girls in classes VIII and IX is the same, then the number of girls in each class is",
+    "type": "mcq",
+    "choices": [
+      "150",
+      "200",
+      "250",
+      "175"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "c76a6907-625c-4757-ac6d-bc506bc851f3",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "General Aptitude"
+  },
+  {
+    "question_number": "Q.6",
+    "question": "In the given text, the blanks are numbered (i)–(iv). Select the best match for all the blanks.\n\nYoko Roi stands ____(i)____ as an author for standing ____(ii)____ as an honorary fellow, after she stood ____(iii)____ her writings that stand ____(iv)____ the freedom of speech.",
+    "type": "mcq",
+    "choices": [
+      "(i) out \t (ii) down \t (iii) in \t (iv) for",
+      "(i) down \t (ii) out \t (iii) by \t (iv) in",
+      "(i) down \t (ii) out \t (iii) for \t (iv) in",
+      "(i) out \t (ii) down \t (iii) by \t (iv) for"
+    ],
+    "marks": 2,
+    "negativeMarks": 0.67,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "c76a6907-625c-4757-ac6d-bc506bc851f3",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "General Aptitude"
+  },
+  {
+    "question_number": "Q.7",
+    "question": "Seven identical cylindrical chalk-sticks are fitted tightly in a cylindrical container. The figure below shows the arrangement of the chalk-sticks inside the cylinder.\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ce/p2/images/p5_Q_7_img_1.png)\n\nThe length of the container is equal to the length of the chalk-sticks. The ratio of the occupied space to the empty space of the container is",
+    "type": "mcq",
+    "choices": [
+      "5/2",
+      "7/2",
+      "9/2",
+      "3"
+    ],
+    "marks": 2,
+    "negativeMarks": 0.66,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "c76a6907-625c-4757-ac6d-bc506bc851f3",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          145,
+          418,
+          316,
+          656
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ce/p2/images/p5_Q_7_img_1.png"
+      }
+    ],
+    "subject_name": "Civil Engineering",
+    "topic_name": "General Aptitude"
+  },
+  {
+    "question_number": "Q.8",
+    "question": "The plot below shows the relationship between the mortality risk of cardiovascular disease and the number of steps a person walks per day. Based on the data, which one of the following options is true?\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ce/p2/images/p6_Q_8_img_1.png)",
+    "type": "mcq",
+    "choices": [
+      "The risk reduction on increasing the steps/day from 0 to 10000 is less than the risk reduction on increasing the steps/day from 10000 to 20000.",
+      "The risk reduction on increasing the steps/day from 0 to 5000 is less than the risk reduction on increasing the steps/day from 15000 to 20000.",
+      "For any 5000 increment in steps/day the largest risk reduction occurs on going from 0 to 5000.",
+      "For any 5000 increment in steps/day the largest risk reduction occurs on going from 15000 to 20000."
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "c76a6907-625c-4757-ac6d-bc506bc851f3",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          172,
+          220,
+          407,
+          785
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ce/p2/images/p6_Q_8_img_1.png"
+      }
+    ],
+    "subject_name": "Civil Engineering",
+    "topic_name": "General Aptitude"
+  },
+  {
+    "question_number": "Q.9",
+    "question": "Five cubes of identical size and another smaller cube are assembled as shown in Figure A. If viewed from direction X, the planar image of the assembly appears as Figure B.\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ce/p2/images/p7_Q_9_img_1.png)\n\nIf viewed from direction Y, the planar image of the assembly (Figure A) will appear as",
+    "type": "mcq",
+    "choices": [
+      "![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ce/p2/images/p7_Q_9_img_2.png)",
+      "![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ce/p2/images/p7_Q_9_img_3.png)",
+      "![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ce/p2/images/p7_Q_9_img_4.png)",
+      "![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ce/p2/images/p7_Q_9_img_5.png)"
+    ],
+    "marks": 2,
+    "negativeMarks": 0.66,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "c76a6907-625c-4757-ac6d-bc506bc851f3",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          169,
+          213,
+          386,
+          624
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ce/p2/images/p7_Q_9_img_1.png"
+      },
+      {
+        "box_id": "img_2",
+        "box": [
+          513,
+          208,
+          571,
+          290
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ce/p2/images/p7_Q_9_img_2.png"
+      },
+      {
+        "box_id": "img_3",
+        "box": [
+          605,
+          204,
+          668,
+          290
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ce/p2/images/p7_Q_9_img_3.png"
+      },
+      {
+        "box_id": "img_4",
+        "box": [
+          705,
+          204,
+          765,
+          290
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ce/p2/images/p7_Q_9_img_4.png"
+      },
+      {
+        "box_id": "img_5",
+        "box": [
+          802,
+          210,
+          861,
+          291
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ce/p2/images/p7_Q_9_img_5.png"
+      }
+    ],
+    "subject_name": "Civil Engineering",
+    "topic_name": "General Aptitude"
+  },
+  {
+    "question_number": "Q.10",
+    "question": "Visualize a cube that is held with one of the four body diagonals aligned to the vertical axis. Rotate the cube about this axis such that its view remains unchanged. The magnitude of the minimum angle of rotation is",
+    "type": "mcq",
+    "choices": [
+      "120°",
+      "60°",
+      "90°",
+      "180°"
+    ],
+    "marks": 2,
+    "negativeMarks": 0.66,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "c76a6907-625c-4757-ac6d-bc506bc851f3",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "General Aptitude"
+  },
+  {
+    "question_number": "11",
+    "question": "A partial differential equation\n\n$$\\frac{\\partial^2 T}{\\partial x^2} + \\frac{\\partial^2 T}{\\partial y^2} = 0$$\n\nis defined for the two-dimensional field $T: T(x, y)$, inside a planar square domain of size $2\\text{ m} \\times 2\\text{ m}$. Three boundary edges of the square domain are maintained at value $T = 50$, whereas the fourth boundary edge is maintained at $T = 100$.\n\nThe value of $T$ at the center of the domain is",
+    "type": "mcq",
+    "choices": [
+      "50.0",
+      "62.5",
+      "75.0",
+      "87.5"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "ad5a72d1-b6fe-454a-ab30-a54581cc507b",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Engineering Mathematics"
+  },
+  {
+    "question_number": "Q.12",
+    "question": "The statements P and Q are related to matrices **A** and **B**, which are conformable for both addition and multiplication.\n\nP: $(\\mathbf{A} + \\mathbf{B})^T = \\mathbf{A}^T + \\mathbf{B}^T$\n\nQ: $(\\mathbf{AB})^T = \\mathbf{A}^T \\mathbf{B}^T$\n\nWhich one of the following options is CORRECT?",
+    "type": "mcq",
+    "choices": [
+      "P is TRUE and Q is FALSE",
+      "Both P and Q are TRUE",
+      "P is FALSE and Q is TRUE",
+      "Both P and Q are FALSE"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "ad5a72d1-b6fe-454a-ab30-a54581cc507b",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Engineering Mathematics"
+  },
+  {
+    "question_number": "Q.13",
+    "question": "The second derivative of a function $f$ is computed using the fourth-order Central Divided Difference method with a step length $h$.\n\nThe CORRECT expression for the second derivative is",
+    "type": "mcq",
+    "choices": [
+      "$\\frac{1}{12h^2} [-f_{i+2} + 16 f_{i+1} - 30 f_i + 16 f_{i-1} - f_{i-2}]$",
+      "$\\frac{1}{12h^2} [f_{i+2} + 16 f_{i+1} - 30 f_i + 16 f_{i-1} - f_{i-2}]$",
+      "$\\frac{1}{12h^2} [-f_{i+2} + 16 f_{i+1} - 30 f_i + 16 f_{i-1} + f_{i-2}]$",
+      "$\\frac{1}{12h^2} [-f_{i+2} - 16 f_{i+1} + 30 f_i - 16 f_{i-1} - f_{i-2}]$"
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "ad5a72d1-b6fe-454a-ab30-a54581cc507b",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Engineering Mathematics"
+  },
+  {
+    "question_number": "Q.14",
+    "question": "The function $f(x) = x^3 - 27x + 4$, $1 \\le x \\le 6$ has",
+    "type": "mcq",
+    "choices": [
+      "Maxima point",
+      "Minima point",
+      "Saddle point",
+      "Inflection point"
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "ad5a72d1-b6fe-454a-ab30-a54581cc507b",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Engineering Mathematics"
+  },
+  {
+    "question_number": "15",
+    "question": "Consider two Ordinary Differential Equations (ODEs):\n\nP: $\\frac{dy}{dx} = \\frac{x^4+3x^2y^2+2y^4}{x^3y}$\n\nQ: $\\frac{dy}{dx} = \\frac{-y^2}{x^2}$\n\nWhich one of the following options is CORRECT?",
+    "type": "mcq",
+    "choices": [
+      "P is a homogeneous ODE and Q is an exact ODE.",
+      "P is a homogeneous ODE and Q is not an exact ODE.",
+      "P is a nonhomogeneous ODE and Q is an exact ODE.",
+      "P is a nonhomogeneous ODE and Q is not an exact ODE."
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "ad5a72d1-b6fe-454a-ab30-a54581cc507b",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Engineering Mathematics"
+  },
+  {
+    "question_number": "Q.16",
+    "question": "A $3\\text{ m}$ long, horizontal, rigid, uniform beam PQ has negligible mass. The beam is subjected to a $3\\text{ kN}$ concentrated vertically downward force at $1\\text{ m}$ from P, as shown in the figure. The beam is resting on vertical linear springs at the ends P and Q. For the spring at the end P, the spring constant $K_P = 100\\text{ kN/m}$.\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ce/p2/images/p13_Q_16_img_1.png)\n\nIf the beam DOES NOT rotate under the application of the force and displaces only vertically, the value of the spring constant $K_Q$ (in $\\text{kN/m}$) for the spring at the end Q is",
+    "type": "mcq",
+    "choices": [
+      "150",
+      "100",
+      "50",
+      "200"
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "05c90b5a-9917-42a2-8361-23dd80ce38cd",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          181,
+          315,
+          422,
+          750
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ce/p2/images/p13_Q_16_img_1.png"
+      }
+    ],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Engineering Mechanics"
+  },
+  {
+    "question_number": "Q.17",
+    "question": "Consider the statements P and Q.\n\nP: In a Pure project organization, the project manager maintains complete authority and has maximum control over the project.\n\nQ: A Matrix organization structure facilitates quick response to changes, conflicts, and project needs.\n\nWhich one of the following options is CORRECT?",
+    "type": "mcq",
+    "choices": [
+      "Both P and Q are TRUE",
+      "P is TRUE and Q is FALSE",
+      "Both P and Q are FALSE",
+      "P is FALSE and Q is TRUE"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "b3f021f1-ed43-40a7-aece-773f54263781",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Construction Management"
+  },
+  {
+    "question_number": "Q.18",
+    "question": "For a thin-walled section shown in the figure, points P, Q , and R are located on the major bending axis X − X of the section. Point Q is located on the web whereas point S is located at the intersection of the web and the top flange of the section.\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ce/p2/images/p15_Q_18_img_1.png)\n\nQualitatively, the shear center of the section lies at",
+    "type": "mcq",
+    "choices": [
+      "P",
+      "Q",
+      "R",
+      "S"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "8c3e2737-23ab-44cf-8401-6c1e7844dc3e",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          165,
+          420,
+          495,
+          645
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ce/p2/images/p15_Q_18_img_1.png"
+      }
+    ],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Strength of Materials"
+  },
+  {
+    "question_number": "Q.19",
+    "question": "Consider the following data for a project of 300 days duration.\n\nBudgeted Cost of Work Scheduled (BCWS) = Rs. 200\nBudgeted Cost of Work Performed (BCWP) = Rs. 150\nActual Cost of Work Performed (ACWP) = Rs. 190\n\nThe ‘schedule variance’ for the project is",
+    "type": "mcq",
+    "choices": [
+      "(-)Rs. 50",
+      "(-)50 days",
+      "(+)Rs. 50",
+      "(+)50 days"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "b3f021f1-ed43-40a7-aece-773f54263781",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Construction Management"
+  },
+  {
+    "question_number": "Q.20",
+    "question": "A simply supported, uniformly loaded, two-way slab panel is torsionally unrestrained. The effective span lengths along the short span (x) and long span (y) directions of the panel are $l_x$ and $l_y$, respectively. The design moments for the reinforcements along the x and y directions are $M_{ux}$ and $M_{uy}$, respectively. By using Rankine-Grashoff method, the ratio $M_{ux}/M_{uy}$ is proportional to",
+    "type": "mcq",
+    "choices": [
+      "$l_x/l_y$",
+      "$l_y/l_x$",
+      "$(l_x/l_y)^2$",
+      "$(l_y/l_x)^2$"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "f8b94298-44e9-4c48-880c-4e230b282607",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Concrete Technology"
+  },
+  {
+    "question_number": "Q.21",
+    "question": "The structural design method that DOES NOT take into account the safety factors on the design loads is",
+    "type": "mcq",
+    "choices": [
+      "working stress method.",
+      "load factor method.",
+      "ultimate load method.",
+      "limit state method."
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "027c5257-0535-4323-9eca-b28b523d42d4",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Structural Analysis"
+  },
+  {
+    "question_number": "Q.22",
+    "question": "The contact pressure distribution shown in the figure belongs to a\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ce/p2/images/p18_Q_22_img_1.png)",
+    "type": "mcq",
+    "choices": [
+      "rigid footing resting on a cohesionless soil.",
+      "rigid footing resting on a cohesive soil.",
+      "flexible footing resting on a cohesionless soil.",
+      "flexible footing resting on a cohesive soil."
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "14b318ef-b915-441e-9c6b-0f8a796fa6f6",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          133,
+          330,
+          410,
+          740
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ce/p2/images/p18_Q_22_img_1.png"
+      }
+    ],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Geotechnical Engineering"
+  },
+  {
+    "question_number": "Q.23",
+    "question": "Which one of the following saturated fine-grained soils can attain a negative Skempton’s pore pressure coefficient ($A$)?",
+    "type": "mcq",
+    "choices": [
+      "Quick clays",
+      "Normally-consolidated clays",
+      "Lightly-consolidated clays",
+      "Over-consolidated clays"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "14b318ef-b915-441e-9c6b-0f8a796fa6f6",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Geotechnical Engineering"
+  },
+  {
+    "question_number": "Q.24",
+    "question": "The following figure shows a plot between shear stress and velocity gradient for materials/fluids P, Q, R, S, and T.\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ce/p2/images/p20_Q_24_img_1.png)\n\nWhich one of the following options is CORRECT?",
+    "type": "mcq",
+    "choices": [
+      "P → Ideal Fluid; Q → Ideal Bingham plastic\nR → Non-Newtonian fluid; S → Newtonian fluid",
+      "P → Real solid; Q → Ideal Bingham plastic\nS → Newtonian fluid; T → Ideal Fluid",
+      "P → Ideal Fluid; Q → Ideal Bingham plastic\nR → Non-Newtonian fluid; T → Real solid",
+      "P → Real solid; Q → Newtonian fluid\nR → Ideal Bingham plastic; T → Ideal Fluid"
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "8972ceb6-82ed-4842-8390-cd6db61bb198",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          156,
+          335,
+          375,
+          735
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ce/p2/images/p20_Q_24_img_1.png"
+      }
+    ],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Fluid Mechanics"
+  },
+  {
+    "question_number": "25",
+    "question": "What is the CORRECT match between the air pollutants and treatment techniques given in the table?\n\n| Air pollutants | Treatment techniques |\n| :--- | :--- |\n| P - NO₂ | i - Flaring |\n| Q - SO₂ | ii - Cyclonic separator |\n| R - CO | iii - Lime scrubbing |\n| S - Particles | iv - NH₃ injection |",
+    "type": "mcq",
+    "choices": [
+      "P-i, Q-ii, R-iii, S-iv",
+      "P-ii, Q-i, R-iv, S-iii",
+      "P-ii, Q-iii, R-iv, S-i",
+      "P-iv, Q-iii, R-i, S-ii"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "8e6d6e45-760a-4257-a1d7-f818184d8244",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Environmental Engineering"
+  },
+  {
+    "question_number": "Q.26",
+    "question": "Which one of the following products is NOT obtained in anaerobic decomposition of glucose?",
+    "type": "mcq",
+    "choices": [
+      "CO$_2$",
+      "CH$_4$",
+      "H$_2$S",
+      "H$_2$O"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "8e6d6e45-760a-4257-a1d7-f818184d8244",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Environmental Engineering"
+  },
+  {
+    "question_number": "Q.27",
+    "question": "The longitudinal sections of a runway have gradients as shown in the table.\n\n| End to end for sections of runway (m) | Gradient (%) |\n| :---: | :---: |\n| 0 to 200 | +1.0 |\n| 200 to 600 | −1.0 |\n| 600 to 1200 | +0.8 |\n| 1200 to 1600 | +0.2 |\n| 1600 to 2000 | −0.5 |\n\nConsider the reduced level (RL) at the starting point of the runway as 100 m.\n\nThe effective gradient of the runway is",
+    "type": "mcq",
+    "choices": [
+      "0.02%",
+      "0.35%",
+      "0.28%",
+      "0.18%"
+    ],
+    "marks": 2,
+    "negativeMarks": 0.66,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "f5170db0-9018-4be5-b0de-f42b628b8ceb",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Transportation Engineering"
+  },
+  {
+    "question_number": "Q.28",
+    "question": "In general, the outer edge is raised above the inner edge in horizontal curves for",
+    "type": "mcq",
+    "choices": [
+      "Highways, Railways, and Taxiways",
+      "Highways and Railways only",
+      "Railways and Taxiways only",
+      "Highways only"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "f5170db0-9018-4be5-b0de-f42b628b8ceb",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Transportation Engineering"
+  },
+  {
+    "question_number": "Q.29",
+    "question": "Various stresses in jointed plain concrete pavement with slab size of $3.5\\text{ m} \\times 4.5\\text{ m}$ are denoted as follows:\n\nWheel load stress at interior = $S_{wl}^i$\nWheel load stress at edge = $S_{wl}^e$\nWheel load stress at corner = $S_{wl}^c$\nWarping stress at interior = $S_t^i$\nWarping stress at edge = $S_t^e$\nWarping stress at corner = $S_t^c$\nFrictional stress between slab and supporting layer = $S_f$\n\nThe critical stress combination in the concrete slab during a summer midnight is",
+    "type": "mcq",
+    "choices": [
+      "$S_{wl}^c + S_t^c$",
+      "$S_{wl}^e + S_t^e + S_f$",
+      "$S_{wl}^e + S_t^e - S_f$",
+      "$S_{wl}^c + S_t^c + S_f$"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "f5170db0-9018-4be5-b0de-f42b628b8ceb",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Transportation Engineering"
+  },
+  {
+    "question_number": "Q.30",
+    "question": "For a reconnaissance survey, it is necessary to obtain vertical aerial photographs of a terrain at an average scale of 1: 13000 using a camera. If the permissible flying height is assumed as 3000 m above a datum and the average terrain elevation is 1050 m above the datum, the required focal length (in mm) of the camera is",
+    "type": "mcq",
+    "choices": [
+      "100",
+      "150",
+      "125",
+      "200"
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "d6de8185-a112-49cb-9abc-4d77c911aba2",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Surveying"
+  },
+  {
+    "question_number": "Q.31",
+    "question": "What is the CORRECT match between the survey instruments/parts of instruments shown in the table and the operations carried out with them?\n\n| Instruments/Parts of instruments | Operations |\n| :--- | :--- |\n| P - Bubble tube | i - Tacheometry |\n| Q - Plumb bob | ii - Minor movements |\n| R - Tangent screw | iii - Centering |\n| S - Stadia cross-wire | iv - Levelling |",
+    "type": "mcq",
+    "choices": [
+      "P-ii, Q-iii, R-iv, S-i",
+      "P-iv, Q-iii, R-ii, S-i",
+      "P-i, Q-iii, R-ii, S-iv",
+      "P-iii, Q-iv, R-i, S-ii"
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "d6de8185-a112-49cb-9abc-4d77c911aba2",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Surveying"
+  },
+  {
+    "question_number": "Q.32",
+    "question": "To finalize the direction of a survey, four surveyors set up a theodolite at a station P and performed all the temporary adjustments. From the station P, each of the surveyors observed the bearing to a tower located at station Q with the same instrument without shifting it. The bearings observed by the surveyors are $30^\\circ 30' 00''$, $30^\\circ 29' 40''$, $30^\\circ 30' 20''$ and $30^\\circ 31' 20''$. Assuming that each measurement is taken with equal precision, the most probable value of the bearing is",
+    "type": "mcq",
+    "choices": [
+      "$30^\\circ 29' 40''$",
+      "$30^\\circ 30' 20''$",
+      "$30^\\circ 30' 00''$",
+      "$30^\\circ 31' 20''$"
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "d6de8185-a112-49cb-9abc-4d77c911aba2",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Surveying"
+  },
+  {
+    "question_number": "Q.33",
+    "question": "The steel angle section shown in the figure has elastic section modulus of $150.92\\text{ cm}^3$ about the horizontal $\\text{X}-\\text{X}$ axis, which passes through the centroid of the section.\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ce/p2/images/p26_Q_33_img_1.png)\n\n(Figure NOT to scale)\n\nThe shape factor of the section is ________ (rounded off to 2 decimal places).",
+    "type": "numerical",
+    "choices": [],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "8c3e2737-23ab-44cf-8401-6c1e7844dc3e",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          548,
+          375,
+          815,
+          695
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ce/p2/images/p26_Q_33_img_1.png"
+      }
+    ],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Strength of Materials"
+  },
+  {
+    "question_number": "Q.34",
+    "question": "A reinforced concrete pile of 10 m length and 0.7 m diameter is embedded in a saturated pure clay with unit cohesion of 50 kPa. If the adhesion factor is 0.5, the net ultimate uplift pullout capacity (in kN) of the pile is ________ (rounded off to the nearest integer).",
+    "type": "numerical",
+    "choices": [],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "14b318ef-b915-441e-9c6b-0f8a796fa6f6",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Geotechnical Engineering"
+  },
+  {
+    "question_number": "Q.35",
+    "question": "A 2 m wide rectangular channel is carrying a discharge of 30 m$^3$/s at a bed slope of 1 in 300. Assuming the energy correction factor as 1.1 and acceleration due to gravity as 10 m/s$^2$, the critical depth of flow (in meters) is ________ (rounded off to 2 decimal places).",
+    "type": "numerical",
+    "choices": [],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "8972ceb6-82ed-4842-8390-cd6db61bb198",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Fluid Mechanics"
+  },
+  {
+    "question_number": "Q.36",
+    "question": "In a sample of 100 heart patients, each patient has 80% chance of having a heart attack without medicine X. It is clinically known that medicine X reduces the probability of having a heart attack by 50%. Medicine X is taken by 50 of these 100 patients. The probability that a randomly selected patient, out of the 100 patients, takes medicine X and has a heart attack is",
+    "type": "mcq",
+    "choices": [
+      "40%",
+      "60%",
+      "20%",
+      "30%"
+    ],
+    "marks": 2,
+    "negativeMarks": 0.66,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "ad5a72d1-b6fe-454a-ab30-a54581cc507b",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Engineering Mathematics"
+  },
+  {
+    "question_number": "Q.37",
+    "question": "A linearly elastic beam of length $2l$ with flexural rigidity $EI$ has negligible mass. A massless spring with a spring constant $k$ and a rigid block of mass $m$ are attached to the beam as shown in the figure.\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ce/p2/images/p29_Q_37_img_1.png)\n\nThe natural frequency of this system is",
+    "type": "mcq",
+    "choices": [
+      "$\\sqrt{\\frac{kl^3 + 6EI}{ml^3}}$",
+      "$\\sqrt{\\frac{kl^3 + 48EI}{ml^3}}$",
+      "$\\sqrt{\\frac{6EIk}{(kl^3 + 6EI)m}}$",
+      "$\\sqrt{\\frac{48EIk}{(kl^3 + 48EI)m}}$"
+    ],
+    "marks": 2,
+    "negativeMarks": 0.66,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "027c5257-0535-4323-9eca-b28b523d42d4",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          160,
+          293,
+          380,
+          768
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ce/p2/images/p29_Q_37_img_1.png"
+      }
+    ],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Structural Analysis"
+  },
+  {
+    "question_number": "Q.38",
+    "question": "A critical activity in a project is estimated to take 15 days to complete at a cost of Rs. 30,000. The activity can be expedited to complete in 12 days by spending a total amount of Rs. 54,000. Consider the statements P and Q.\n\nP: It is economically advisable to complete the activity early by crashing, if the indirect cost of the project is Rs. 8,500 per day.\n\nQ: It is economically advisable to complete the activity early by crashing, if the indirect cost of the project is Rs. 10,000 per day.\n\nWhich one of the following options is CORRECT?",
+    "type": "mcq",
+    "choices": [
+      "Both P and Q are TRUE",
+      "P is TRUE and Q is FALSE",
+      "Both P and Q are FALSE",
+      "P is FALSE and Q is TRUE"
+    ],
+    "marks": 2,
+    "negativeMarks": 0.66,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "b3f021f1-ed43-40a7-aece-773f54263781",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Construction Management"
+  },
+  {
+    "question_number": "Q.39",
+    "question": "A homogeneous, prismatic, linearly elastic steel bar fixed at both the ends has a slenderness ratio ($l/r$) of 105, where $l$ is the bar length and $r$ is the radius of gyration. The coefficient of thermal expansion of steel is $12 \\times 10^{-6} \\text{ /}^\\circ\\text{C}$. Consider the effective length of the steel bar as $0.5l$ and neglect the self-weight of the bar.\n\nThe differential increase in temperature (*rounded off to the nearest integer*) at which the bar buckles is",
+    "type": "mcq",
+    "choices": [
+      "298 $^\\circ\\text{C}$",
+      "85 $^\\circ\\text{C}$",
+      "400 $^\\circ\\text{C}$",
+      "250 $^\\circ\\text{C}$"
+    ],
+    "marks": 2,
+    "negativeMarks": 0.66,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "8c3e2737-23ab-44cf-8401-6c1e7844dc3e",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Strength of Materials"
+  },
+  {
+    "question_number": "Q.40",
+    "question": "Consider the statements P and Q related to the analysis/design of retaining walls.\n\nP: When a rough retaining wall moves toward the backfill, the wall friction force/resistance mobilizes in upward direction along the wall.\n\nQ: Most of the earth pressure theories calculate the earth pressure due to surcharge by neglecting the actual distribution of stresses due to surcharge.\n\nWhich one of the following options is CORRECT?",
+    "type": "mcq",
+    "choices": [
+      "Both P and Q are TRUE",
+      "P is TRUE and Q is FALSE",
+      "Both P and Q are FALSE",
+      "P is FALSE and Q is TRUE"
+    ],
+    "marks": 2,
+    "negativeMarks": 0.66,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "14b318ef-b915-441e-9c6b-0f8a796fa6f6",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Geotechnical Engineering"
+  },
+  {
+    "question_number": "Q.41",
+    "question": "A round-bottom triangular lined canal is to be laid at a slope of 1 in 1500, to carry a discharge of $25\\text{ m}^3/\\text{s}$. The side slopes of the canal cross-section are to be kept at $1.25\\text{H} : 1\\text{V}$. If Manning’s roughness coefficient is 0.013, the flow depth (in meters) will be in the range of",
+    "type": "mcq",
+    "choices": [
+      "2.39 to 2.42",
+      "1.94 to 1.97",
+      "2.24 to 2.27",
+      "2.61 to 2.64"
+    ],
+    "marks": 2,
+    "negativeMarks": 0.66,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "9fa0e751-e7e6-4578-9db8-2e62d7db209e",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Water Resources Engineering"
+  },
+  {
+    "question_number": "Q.42",
+    "question": "A hypothetical multimedia filter, consisting of anthracite particles (specific gravity: 1.50), silica sand (specific gravity: 2.60), and ilmenite sand (specific gravity: 4.20), is to be designed for treating water/wastewater. After backwashing, the particles should settle forming three layers: coarse anthracite particles at the top of the bed, silica sand in the middle, and small ilmenite sand particles at the bottom of the bed.\n\nAssume\n(i) Slow discrete settling (Stoke’s law is applicable)\n(ii) All particles are spherical\n(iii) Diameter of silica sand particles is 0.20 mm\n\nThe CORRECT option fulfilling the diameter requirements for this filter media is",
+    "type": "mcq",
+    "choices": [
+      "diameter of anthracite particles is slightly less than 0.35 mm and diameter of ilmenite particles is slightly greater than 0.141 mm.",
+      "diameter of anthracite particles is slightly greater than 0.35 mm and diameter of ilmenite particles is slightly less than 0.141 mm.",
+      "diameter of anthracite particles is slightly less than 0.64 mm and diameter of ilmenite particles is slightly less than 0.10 mm.",
+      "diameter of anthracite particles is slightly greater than 0.64 mm and diameter of ilmenite particles is slightly less than 0.10 mm."
+    ],
+    "marks": 2,
+    "negativeMarks": 0.66,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "8e6d6e45-760a-4257-a1d7-f818184d8244",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Environmental Engineering"
+  },
+  {
+    "question_number": "Q.43",
+    "question": "The consolidated data of a spot speed study for a certain stretch of a highway is given in the table.\n\n| Speed range (kmph) | Number of observations |\n| :---: | :---: |\n| 0 - 10 | 7 |\n| 10 - 20 | 31 |\n| 20 - 30 | 76 |\n| 30 - 40 | 129 |\n| 40 - 50 | 104 |\n| 50 - 60 | 78 |\n| 60 - 70 | 29 |\n| 70 - 80 | 24 |\n| 80 - 90 | 13 |\n| 90 - 100 | 9 |\n\nThe \"upper speed limit\" (in kmph) for the traffic sign is",
+    "type": "mcq",
+    "choices": [
+      "50",
+      "55",
+      "65",
+      "70"
+    ],
+    "marks": 2,
+    "negativeMarks": 0.66,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "f5170db0-9018-4be5-b0de-f42b628b8ceb",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Transportation Engineering"
+  },
+  {
+    "question_number": "Q.44",
+    "question": "Three vectors $\\vec{p}$, $\\vec{q}$, and $\\vec{r}$ are given as\n$$\\vec{p} = \\hat{i} + \\hat{j} + \\hat{k}$$\n$$\\vec{q} = \\hat{i} + 2\\hat{j} + 3\\hat{k}$$\n$$\\vec{r} = 2\\hat{i} + 3\\hat{j} + 4\\hat{k}$$\n\nWhich of the following is/are CORRECT?",
+    "type": "m-mcq",
+    "choices": [
+      "$\\vec{p} \\times (\\vec{q} \\times \\vec{r}) + \\vec{q} \\times (\\vec{r} \\times \\vec{p}) + \\vec{r} \\times (\\vec{p} \\times \\vec{q}) = \\vec{0}$",
+      "$\\vec{p} \\times (\\vec{q} \\times \\vec{r}) = (\\vec{p} \\cdot \\vec{r})\\vec{q} - (\\vec{p} \\cdot \\vec{q})\\vec{r}$",
+      "$\\vec{p} \\times (\\vec{q} \\times \\vec{r}) = (\\vec{p} \\times \\vec{q}) \\times \\vec{r}$",
+      "$\\vec{r} \\cdot (\\vec{p} \\times \\vec{q}) = (\\vec{q} \\times \\vec{p}) \\cdot \\vec{r}$"
+    ],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "ad5a72d1-b6fe-454a-ab30-a54581cc507b",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Engineering Mathematics"
+  },
+  {
+    "question_number": "Q.45",
+    "question": "Consider the statements P, Q, and R.\n\nP: Compacted fine-grained soils with flocculated structure have isotropic permeability.\n\nQ: Phreatic surface/line is the line along which the pore water pressure is always maximum.\n\nR: The piping phenomenon occurring below the dam foundation is typically known as blowout piping.\n\nWhich of the following option(s) is/are CORRECT?",
+    "type": "mcq",
+    "choices": [
+      "Both P and R are TRUE",
+      "P is FALSE and Q is TRUE",
+      "P is TRUE and R is FALSE",
+      "Both Q and R are FALSE"
+    ],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "14b318ef-b915-441e-9c6b-0f8a796fa6f6",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Geotechnical Engineering"
+  },
+  {
+    "question_number": "Q.46",
+    "question": "In the context of pavement material characterization, the CORRECT statement(s) is/are",
+    "type": "m-mcq",
+    "choices": [
+      "The load penetration curve of CBR test may need origin correction due to the non-vertical penetrating plunger of the loading machine.",
+      "The toughness and hardness of road aggregates are determined by Los Angeles abrasion test and aggregate impact test, respectively.",
+      "Grading of normal (unmodified) bitumen binders is done based on viscosity test results.",
+      "In compacted bituminous mix, Voids in the Mineral Aggregate (VMA) is equal to the sum of total volume of air voids ($V_v$) and total volume of bitumen ($V_b$)."
+    ],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "f5170db0-9018-4be5-b0de-f42b628b8ceb",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Transportation Engineering"
+  },
+  {
+    "question_number": "Q.47",
+    "question": "The expression for computing the effective interest rate ($i_{eff}$) using continuous compounding for a nominal interest rate of 5% is\n$$i_{eff} = \\lim_{m \\to \\infty} \\left(1 + \\frac{0.05}{m}\\right)^m - 1$$\nThe effective interest rate (in percentage) is ________ (rounded off to 2 decimal places).",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "b3f021f1-ed43-40a7-aece-773f54263781",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Construction Management"
+  },
+  {
+    "question_number": "Q.48",
+    "question": "Consider two matrices $\\mathbf{A} = \\begin{bmatrix} 2 & 1 & 4 \\\\ 1 & 0 & 3 \\end{bmatrix}$ and $\\mathbf{B} = \\begin{bmatrix} -1 & 0 \\\\ 2 & 3 \\\\ 1 & 4 \\end{bmatrix}$.\n\nThe determinant of the matrix $\\mathbf{AB}$ is ________ (in integer).",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "ad5a72d1-b6fe-454a-ab30-a54581cc507b",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Engineering Mathematics"
+  },
+  {
+    "question_number": "Q.49",
+    "question": "For the 6 m long horizontal cantilever beam PQR shown in the figure, Q is the mid-point. Segment PQ of the beam has flexural rigidity $\\text{EI} = 2 \\times 10^5 \\text{ kN}\\cdot\\text{m}^2$ whereas the segment QR has infinite flexural rigidity. Segment QR is subjected to uniformly distributed, vertically downward load of $5\\text{ kN/m}$.\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ce/p2/images/p36_Q_49_img_1.png)\n\n(Figure NOT to scale)\n\nThe magnitude of the vertical displacement (in mm) at point Q is ________ (rounded off to 3 decimal places).",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "027c5257-0535-4323-9eca-b28b523d42d4",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          691,
+          342,
+          784,
+          712
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ce/p2/images/p36_Q_49_img_1.png"
+      }
+    ],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Structural Analysis"
+  },
+  {
+    "question_number": "Q.50",
+    "question": "The horizontal beam PQRS shown in the figure has a fixed support at point P, an internal hinge at point Q, and a pin support at point R. A concentrated vertically downward load ($V$) of 10 kN can act at any point over the entire length of the beam.\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ce/p2/images/p37_Q_50_img_q50.png)\n\n(Figure NOT to scale)\n\nThe maximum magnitude of the moment reaction (in kN.m) that can act at the support P due to $V$ is ____________ (in integer).",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "027c5257-0535-4323-9eca-b28b523d42d4",
+    "images": [
+      {
+        "box_id": "img_q50",
+        "box": [
+          208,
+          301,
+          345,
+          750
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ce/p2/images/p37_Q_50_img_q50.png"
+      }
+    ],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Structural Analysis"
+  },
+  {
+    "question_number": "Q.51",
+    "question": "A concrete column section of size $300\\text{ mm} \\times 500\\text{ mm}$ as shown in the figure is subjected to both axial compression and bending along the major axis. The depth of the neutral axis ($X_u$) is 1.1 times the depth of the column, as shown.\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ce/p2/images/p37_Q_51_img_q51.png)\n\n(Figure NOT to scale)\n\nThe maximum compressive strain ($\\varepsilon_c$) at highly compressive extreme fiber in concrete, where there is no tension in the section, is ____________ $\\times 10^{-3}$\n*(rounded off to 2 decimal places)*.",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "f8b94298-44e9-4c48-880c-4e230b282607",
+    "images": [
+      {
+        "box_id": "img_q51",
+        "box": [
+          512,
+          325,
+          750,
+          840
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2024/ce/p2/images/p37_Q_51_img_q51.png"
+      }
+    ],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Concrete Technology"
+  },
+  {
+    "question_number": "Q.52",
+    "question": "The table shows the activities and their durations and dependencies in a project.\n\n| Activity | Duration (Days) | Depends on |\n| :---: | :---: | :---: |\n| A | 8 | - |\n| B | 4 | A |\n| C | 4 | B |\n| D | 4 | C, L |\n| F | 4 | A |\n| G | 4 | F |\n| H | 6 | G, L |\n| K | 10 | A |\n| L | 6 | F, K |\n\nThe total duration (in days) of the project is________ (in integer).",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "b3f021f1-ed43-40a7-aece-773f54263781",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Construction Management"
+  },
+  {
+    "question_number": "Q.53",
+    "question": "A homogeneous earth dam has a maximum water head difference of 15 m between the upstream and downstream sides. A flownet was drawn with the number of potential drops as 10 and the average length of the element as 3 m. Specific gravity of the soil is 2.65. For a factor of safety of 2.0 against piping failure, void ratio of the soil is ________ (rounded off to 2 decimal places).",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "14b318ef-b915-441e-9c6b-0f8a796fa6f6",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Geotechnical Engineering"
+  },
+  {
+    "question_number": "Q.54",
+    "question": "The in-situ percentage of voids of a sand deposit is 50%. The maximum and minimum densities of sand determined from the laboratory tests are $1.8\\text{ g/cm}^3$ and $1.3\\text{ g/cm}^3$, respectively. Assume the specific gravity of sand as 2.7.\n\nThe relative density index of the in-situ sand is ________ (rounded off to 2 decimal places).",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "14b318ef-b915-441e-9c6b-0f8a796fa6f6",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Geotechnical Engineering"
+  },
+  {
+    "question_number": "Q.55",
+    "question": "A drained triaxial test was conducted on a saturated sand specimen using a stress-path triaxial testing system. The specimen failed when the axial stress reached a value of $100\\text{ kN/m}^2$ from an initial confining pressure of $300\\text{ kN/m}^2$.\n\nThe angle of shearing plane (in degrees) with respect to horizontal is ________ (rounded off to the nearest integer).",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "14b318ef-b915-441e-9c6b-0f8a796fa6f6",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Geotechnical Engineering"
+  },
+  {
+    "question_number": "Q.56",
+    "question": "A storm with a recorded precipitation of 11.0 cm, as shown in the table, produced a direct run-off of 6.0 cm.\n\n| Time from start (hours) | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| Recorded cumulative precipitation (cm) | 0.5 | 1.5 | 3.1 | 5.5 | 7.3 | 8.9 | 10.2 | 11.0 |\n\nThe $\\phi$-index of this storm is ________ cm/hr *(rounded off to 2 decimal places)*.",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "9fa0e751-e7e6-4578-9db8-2e62d7db209e",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Water Resources Engineering"
+  },
+  {
+    "question_number": "Q.57",
+    "question": "A $500\\text{ m}$ long water distribution pipeline P with diameter $1.0\\text{ m}$, is used to convey $0.1\\text{ m}^3/\\text{s}$ of flow. A new pipeline Q, with the same length and flow rate, is to replace P. The friction factors for P and Q are $0.04$ and $0.01$, respectively. The diameter of the pipeline Q (in meters) is ________ *(rounded off to 2 decimal places)*.",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "8972ceb6-82ed-4842-8390-cd6db61bb198",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Fluid Mechanics"
+  },
+  {
+    "question_number": "Q.58",
+    "question": "A $2\\text{ m} \\times 1.5\\text{ m}$ tank of $6\\text{ m}$ height is provided with a $100\\text{ mm}$ diameter orifice at the center of its base. The orifice is plugged and the tank is filled up to $5\\text{ m}$ height. Consider the average value of discharge coefficient as $0.6$ and acceleration due to gravity ($g$) as $10\\text{ m/s}^2$. After unplugging the orifice, the time (in seconds) taken for the water level to drop from $5\\text{ m}$ to $3.5\\text{ m}$ under free discharge condition is ________ *(rounded off to 2 decimal places)*.",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "8972ceb6-82ed-4842-8390-cd6db61bb198",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Fluid Mechanics"
+  },
+  {
+    "question_number": "Q.59",
+    "question": "A rectangular channel is $4.0\\text{ m}$ wide and carries a discharge of $2.0\\text{ m}^3/\\text{s}$ with a depth of $0.4\\text{ m}$. The channel transitions to a maximum width contraction at a downstream location, without influencing the upstream flow conditions. The width (in meters) at the maximum contraction is ________ *(rounded off to 2 decimal places)*.",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "8972ceb6-82ed-4842-8390-cd6db61bb198",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Fluid Mechanics"
+  },
+  {
+    "question_number": "Q.60",
+    "question": "A circular settling tank is to be designed for primary treatment of sewage at a flow rate of $10\\text{ million liters/day}$. Assume a detention period of $2.0\\text{ hours}$ and surface loading rate of $40000\\text{ liters/m}^2/\\text{day}$. The height (in meters) of the water column in the tank is ________ *(rounded off to 2 decimal places)*.",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "8e6d6e45-760a-4257-a1d7-f818184d8244",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Environmental Engineering"
+  },
+  {
+    "question_number": "Q.61",
+    "question": "An organic waste is represented as $\\text{C}_{240}\\text{O}_{200}\\text{H}_{180}\\text{N}_5\\text{S}$.\n\n(Atomic weights: S-32, H-1, C-12, O-16, N-14).\n\nAssume complete conversion of S to $\\text{SO}_2$ while burning.\n\n$\\text{SO}_2$ generated (in grams) per kg of this waste is ____________ (rounded off to 1 decimal place).",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "8e6d6e45-760a-4257-a1d7-f818184d8244",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Environmental Engineering"
+  },
+  {
+    "question_number": "Q.62",
+    "question": "A horizontal curve of radius $1080\\text{ m}$ (with transition curves on either side) in a Broad Gauge railway track is designed and constructed for an equilibrium speed of $70\\text{ kmph}$. However, a few years after construction, the Railway Authorities decided to run express trains on this track. The maximum allowable cant deficiency is $10\\text{ cm}$.\n\nThe maximum restricted speed (in kmph) of the express trains running on this track is ____________ (rounded off to the nearest integer).",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "f5170db0-9018-4be5-b0de-f42b628b8ceb",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Transportation Engineering"
+  },
+  {
+    "question_number": "Q.63",
+    "question": "A vertical summit curve on a freight corridor is formed at the intersection of two gradients, $+3.0\\%$ and $-5.0\\%$.\n\nAssume the following:\nOnly large-sized trucks are allowed on this corridor\nDesign speed $= 80\\text{ kmph}$\nEye height of truck drivers above the road surface $= 2.30\\text{ m}$\nHeight of object above the road surface for which trucks need to stop $= 0.35\\text{ m}$\nTotal reaction time of the truck drivers $= 2.0\\text{ s}$\nCoefficient of longitudinal friction of the road $= 0.36$\nStopping sight distance gets compensated on the gradient\n\nThe design length of the summit curve (in meters) to accommodate the stopping sight distance is ____________ (rounded off to 2 decimal places).",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "f5170db0-9018-4be5-b0de-f42b628b8ceb",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Transportation Engineering"
+  },
+  {
+    "question_number": "Q.64",
+    "question": "A child walks on a level surface from point P to point Q at a bearing of $30^\\circ$, from point Q to point R at a bearing of $90^\\circ$ and then directly returns to the starting point P at a bearing of $240^\\circ$. The straight-line paths PQ and QR are $4\\text{ m}$ each. Assuming that all bearings are measured from the magnetic north in degrees, the straight-line path length RP (in meters) is ____________ (rounded off to the nearest integer).",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "d6de8185-a112-49cb-9abc-4d77c911aba2",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Surveying"
+  },
+  {
+    "question_number": "Q.65",
+    "question": "Differential levelling is carried out from point P (BM: +200.000 m) to point R. The readings taken are given in the table.\n\n| Points | Staff readings (m) | | Remarks |\n| :---: | :---: | :---: | :---: |\n| | **Back Sight** | **Fore Sight** | |\n| P | (–)2.050 | | BM: +200.000 m |\n| Q | 1.050 | 0.950 | Q is a change point |\n| R | | (–)1.655 | |\n\nReduced Level (in meters) of the point R is _______ *(rounded off to 3 decimal places)*.",
+    "type": "numerical",
+    "choices": [],
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "d6de8185-a112-49cb-9abc-4d77c911aba2",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Surveying"
+  }
+]

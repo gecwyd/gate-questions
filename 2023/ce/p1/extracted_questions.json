@@ -1,0 +1,1276 @@
+[
+  {
+    "question_number": "Q.1",
+    "question": "“I have not yet decided what I will do this evening; I _______ visit a friend.”",
+    "type": "mcq",
+    "choices": [
+      "(A) mite",
+      "(B) would",
+      "(C) might",
+      "(D) didn’t"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "c76a6907-625c-4757-ac6d-bc506bc851f3",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "General Aptitude"
+  },
+  {
+    "question_number": "Q.2",
+    "question": "Eject : Insert : : Advance : _______\n\n(By word meaning)",
+    "type": "mcq",
+    "choices": [
+      "(A) Advent",
+      "(B) Progress",
+      "(C) Retreat",
+      "(D) Loan"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "c76a6907-625c-4757-ac6d-bc506bc851f3",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "General Aptitude"
+  },
+  {
+    "question_number": "Q.3",
+    "question": "In the given figure, PQRSTV is a regular hexagon with each side of length 5 cm. A circle is drawn with its centre at V such that it passes through P. What is the area (in $\\text{cm}^2$) of the shaded region? (The diagram is representative)\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ce/p1/images/p1_Q_3_img_1.png)",
+    "type": "mcq",
+    "choices": [
+      "$\\frac{25\\pi}{3}$",
+      "$\\frac{20\\pi}{3}$",
+      "$6\\pi$",
+      "$7\\pi$"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "c76a6907-625c-4757-ac6d-bc506bc851f3",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          177,
+          415,
+          380,
+          670
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ce/p1/images/p1_Q_3_img_1.png"
+      }
+    ],
+    "subject_name": "Civil Engineering",
+    "topic_name": "General Aptitude"
+  },
+  {
+    "question_number": "Q.4",
+    "question": "A duck named Donald Duck says “All ducks always lie.”\n\nBased only on the information above, which one of the following statements can be logically inferred with *certainty*?",
+    "type": "mcq",
+    "choices": [
+      "Donald Duck always lies.",
+      "Donald Duck always tells the truth.",
+      "Donald Duck’s statement is true.",
+      "Donald Duck’s statement is false."
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "c76a6907-625c-4757-ac6d-bc506bc851f3",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "General Aptitude"
+  },
+  {
+    "question_number": "Q.5",
+    "question": "A line of symmetry is defined as a line that divides a figure into two parts in a way such that each part is a mirror image of the other part about that line.\n\nThe figure below consists of 20 unit squares arranged as shown. In addition to the given black squares, upto 5 more may be coloured black. Which one among the following options depicts the minimum number of boxes that must be coloured black to achieve two lines of symmetry? (The figure is representative)\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ce/p1/images/p3_Q_5_img_1.png)",
+    "type": "mcq",
+    "choices": [
+      "d",
+      "c, d, i",
+      "c, i",
+      "c, d, i, f, g"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "c76a6907-625c-4757-ac6d-bc506bc851f3",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          242,
+          412,
+          472,
+          658
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ce/p1/images/p3_Q_5_img_1.png"
+      }
+    ],
+    "subject_name": "Civil Engineering",
+    "topic_name": "General Aptitude"
+  },
+  {
+    "question_number": "Q.6",
+    "question": "Based only on the truth of the statement ‘Some humans are intelligent’, which one of the following options can be logically inferred with *certainty*?",
+    "type": "mcq",
+    "choices": [
+      "No human is intelligent.",
+      "All humans are intelligent.",
+      "Some non-humans are intelligent.",
+      "Some intelligent beings are humans."
+    ],
+    "marks": 2,
+    "negativeMarks": 0.66,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "c76a6907-625c-4757-ac6d-bc506bc851f3",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "General Aptitude"
+  },
+  {
+    "question_number": "Q.7",
+    "question": "Which one of the options can be inferred about the mean, median, and mode for the given probability distribution (*i.e.* probability mass function), $P(x)$, of a variable $x$?\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ce/p1/images/p5_Q_7_img_1.png)",
+    "type": "mcq",
+    "choices": [
+      "mean = median $\\neq$ mode",
+      "mean = median = mode",
+      "mean $\\neq$ median = mode",
+      "mean $\\neq$ mode = median"
+    ],
+    "marks": 2,
+    "negativeMarks": 0.66,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "c76a6907-625c-4757-ac6d-bc506bc851f3",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          159,
+          271,
+          381,
+          796
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ce/p1/images/p5_Q_7_img_1.png"
+      }
+    ],
+    "subject_name": "Civil Engineering",
+    "topic_name": "General Aptitude"
+  },
+  {
+    "question_number": "Q.8",
+    "question": "The James Webb telescope, recently launched in space, is giving humankind unprecedented access to the depths of time by imaging very old stars formed almost 13 billion years ago. Astrophysicists and cosmologists believe that this odyssey in space may even shed light on the existence of dark matter. Dark matter is supposed to interact only via the gravitational interaction and not through the electromagnetic-, the weak- or the strong-interaction. This may justify the epithet “dark” in dark matter.\n\nBased on the above paragraph, which one of the following statements is FALSE?",
+    "type": "mcq",
+    "choices": [
+      "No other telescope has captured images of stars older than those captured by the James Webb telescope.",
+      "People other than astrophysicists and cosmologists may also believe in the existence of dark matter.",
+      "The James Webb telescope could be of use in the research on dark matter.",
+      "If dark matter was known to interact via the strong-interaction, then the epithet “dark” would be justified."
+    ],
+    "marks": 2,
+    "negativeMarks": 0.66,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "c76a6907-625c-4757-ac6d-bc506bc851f3",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "General Aptitude"
+  },
+  {
+    "question_number": "Q.9",
+    "question": "Let $a = 30!$, $b = 50!$, and $c = 100!$. Consider the following numbers:\n$$\\log_a c, \\quad \\log_c a, \\quad \\log_b a, \\quad \\log_a b$$\nWhich one of the following inequalities is CORRECT?",
+    "type": "mcq",
+    "choices": [
+      "$\\log_c a < \\log_b a < \\log_a b < \\log_a c$",
+      "$\\log_c a < \\log_a b < \\log_b a < \\log_b c$",
+      "$\\log_c a < \\log_b a < \\log_a c < \\log_a b$",
+      "$\\log_b a < \\log_c a < \\log_a b < \\log_a c$"
+    ],
+    "marks": 2,
+    "negativeMarks": 0.66,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "c76a6907-625c-4757-ac6d-bc506bc851f3",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "General Aptitude"
+  },
+  {
+    "question_number": "Q.10",
+    "question": "A square of side length $4\\text{ cm}$ is given. The boundary of the shaded region is defined by one semi-circle on the top and two circular arcs at the bottom, each of radius $2\\text{ cm}$, as shown.\n\nThe area of the shaded region is ________ $\\text{cm}^2$.\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ce/p1/images/p8_Q_10_img_1.png)",
+    "type": "mcq",
+    "choices": [
+      "8",
+      "4",
+      "12",
+      "10"
+    ],
+    "marks": 2,
+    "negativeMarks": 0.66,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "c76a6907-625c-4757-ac6d-bc506bc851f3",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          212,
+          328,
+          544,
+          744
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ce/p1/images/p8_Q_10_img_1.png"
+      }
+    ],
+    "subject_name": "Civil Engineering",
+    "topic_name": "General Aptitude"
+  },
+  {
+    "question_number": "Q.11",
+    "question": "For the integral\n\n$$I = \\int_{-1}^{1} \\frac{1}{x^2} dx$$\n\nwhich of the following statements is TRUE?",
+    "type": "mcq",
+    "choices": [
+      "$I = 0$",
+      "$I = 2$",
+      "$I = -2$",
+      "The integral does not converge"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "ad5a72d1-b6fe-454a-ab30-a54581cc507b",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Engineering Mathematics"
+  },
+  {
+    "question_number": "Q.12",
+    "question": "A hanger is made of two bars of different sizes. Each bar has a square cross-section. The hanger is loaded by three-point loads in the mid vertical plane as shown in the figure. Ignore the self-weight of the hanger. What is the maximum tensile stress in $\\text{N/mm}^2$ anywhere in the hanger without considering stress concentration effects?\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ce/p1/images/p10_Q_12_img_1.png)",
+    "type": "mcq",
+    "choices": [
+      "15.0",
+      "25.0",
+      "35.0",
+      "45.0"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "8c3e2737-23ab-44cf-8401-6c1e7844dc3e",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          191,
+          435,
+          445,
+          630
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ce/p1/images/p10_Q_12_img_1.png"
+      }
+    ],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Strength of Materials"
+  },
+  {
+    "question_number": "Q.13",
+    "question": "Creep of concrete under compression is defined as the ___________.",
+    "type": "mcq",
+    "choices": [
+      "increase in the magnitude of strain under constant stress",
+      "increase in the magnitude of stress under constant strain",
+      "decrease in the magnitude of strain under constant stress",
+      "decrease in the magnitude of stress under constant strain"
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "f8b94298-44e9-4c48-880c-4e230b282607",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Concrete Technology"
+  },
+  {
+    "question_number": "Q.14",
+    "question": "A singly reinforced concrete beam of balanced section is made of M20 grade concrete and Fe415 grade steel bars. The magnitudes of the maximum compressive strain in concrete and the tensile strain in the bars at ultimate state under flexure, as per IS 456: 2000 are ___________ , respectively. *(round off to four decimal places)*",
+    "type": "mcq",
+    "choices": [
+      "0.0035 and 0.0038",
+      "0.0020 and 0.0018",
+      "0.0035 and 0.0041",
+      "0.0020 and 0.0031"
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "f8b94298-44e9-4c48-880c-4e230b282607",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Concrete Technology"
+  },
+  {
+    "question_number": "Q.15",
+    "question": "In cement concrete mix design, with the increase in water-cement ratio, which one of the following statements is TRUE?",
+    "type": "mcq",
+    "choices": [
+      "Compressive strength decreases but workability increases",
+      "Compressive strength increases but workability decreases",
+      "Both compressive strength and workability decrease",
+      "Both compressive strength and workability increase"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "f8b94298-44e9-4c48-880c-4e230b282607",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Concrete Technology"
+  },
+  {
+    "question_number": "Q.16",
+    "question": "The specific gravity of a soil is 2.60. The soil is at 50% degree of saturation with a water content of 15%. The void ratio of the soil is ________ .",
+    "type": "mcq",
+    "choices": [
+      "0.35",
+      "0.78",
+      "0.87",
+      "1.28"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "14b318ef-b915-441e-9c6b-0f8a796fa6f6",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Geotechnical Engineering"
+  },
+  {
+    "question_number": "Q.17",
+    "question": "A group of 9 friction piles are arranged in a square grid maintaining equal spacing in all directions. Each pile is of diameter 300 mm and length 7 m. Assume that the soil is cohesionless with effective friction angle $\\phi' = 32^\\circ$. What is the center-to-center spacing of the piles (in m) for the pile group efficiency of 60%?",
+    "type": "mcq",
+    "choices": [
+      "0.582",
+      "0.486",
+      "0.391",
+      "0.677"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "14b318ef-b915-441e-9c6b-0f8a796fa6f6",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Geotechnical Engineering"
+  },
+  {
+    "question_number": "Q.18",
+    "question": "A possible slope failure is shown in the figure. Three soil samples are taken from different locations (I, II and III) of the potential failure plane. Which is the most appropriate shear strength test for each of the sample to identify the failure mechanism? Identify the correct combination from the following options:\n\nP: Triaxial compression test\nQ: Triaxial extension test\nR: Direct shear or shear box test\nS: Vane shear test\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ce/p1/images/p14_Q_18_img_1.png)",
+    "type": "mcq",
+    "choices": [
+      "I-Q, II-R, III-P",
+      "I-R, II-P, III-Q",
+      "I-S, II-Q, III-R",
+      "I-P, II-R, III-Q"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "14b318ef-b915-441e-9c6b-0f8a796fa6f6",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          268,
+          308,
+          418,
+          750
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ce/p1/images/p14_Q_18_img_1.png"
+      }
+    ],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Geotechnical Engineering"
+  },
+  {
+    "question_number": "Q.19",
+    "question": "When a supercritical stream enters a mild-sloped (M) channel section, the type of flow profile would become ________.",
+    "type": "mcq",
+    "choices": [
+      "$\\text{M}_1$",
+      "$\\text{M}_2$",
+      "$\\text{M}_3$",
+      "$\\text{M}_1$ and $\\text{M}_2$"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "8972ceb6-82ed-4842-8390-cd6db61bb198",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Fluid Mechanics"
+  },
+  {
+    "question_number": "Q.20",
+    "question": "Which one of the following statements is TRUE for Greenhouse Gas (GHG) in the atmosphere?",
+    "type": "mcq",
+    "choices": [
+      "GHG absorbs the incoming short wavelength solar radiation to the earth surface, and allows the long wavelength radiation coming from the earth surface to pass through",
+      "GHG allows the incoming long wavelength solar radiation to pass through to the earth surface, and absorbs the short wavelength radiation coming from the earth surface",
+      "GHG allows the incoming long wavelength solar radiation to pass through to the earth surface, and allows the short wavelength radiation coming from the earth surface to pass through",
+      "GHG allows the incoming short wavelength solar radiation to pass through to the earth surface, and absorbs the long wavelength radiation coming from the earth surface"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "8e6d6e45-760a-4257-a1d7-f818184d8244",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Environmental Engineering"
+  },
+  {
+    "question_number": "Q.21",
+    "question": "$G_1$ and $G_2$ are the slopes of the approach and departure grades of a vertical curve, respectively.\n\nGiven $|G_1| < |G_2|$ and $|G_1| \\neq |G_2| \\neq 0$\nStatement 1: $+G_1$ followed by $+G_2$ results in a sag vertical curve.\nStatement 2: $-G_1$ followed by $-G_2$ results in a sag vertical curve.\nStatement 3: $+G_1$ followed by $-G_2$ results in a crest vertical curve.\n\nWhich option amongst the following is true?",
+    "type": "mcq",
+    "choices": [
+      "Statement 1 and Statement 3 are correct; Statement 2 is wrong",
+      "Statement 1 and Statement 2 are correct; Statement 3 is wrong",
+      "Statement 1 is correct; Statement 2 and Statement 3 are wrong",
+      "Statement 2 is correct; Statement 1 and Statement 3 are wrong"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "f5170db0-9018-4be5-b0de-f42b628b8ceb",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Transportation Engineering"
+  },
+  {
+    "question_number": "Q.22",
+    "question": "The direct and reversed zenith angles observed by a theodolite are $56^\\circ 00' 00''$ and $303^\\circ 00' 00''$, respectively. What is the vertical collimation correction?",
+    "type": "mcq",
+    "choices": [
+      "$+1^\\circ 00' 00''$",
+      "$-1^\\circ 00' 00''$",
+      "$-0^\\circ 30' 00''$",
+      "$+0^\\circ 30' 00''$"
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "d6de8185-a112-49cb-9abc-4d77c911aba2",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Surveying"
+  },
+  {
+    "question_number": "Q.23",
+    "question": "A student is scanning his 10 inch $\\times$ 10 inch certificate at 600 dots per inch (dpi) to convert it to raster. What is the percentage reduction in number of pixels if the same certificate is scanned at 300 dpi?",
+    "type": "mcq",
+    "choices": [
+      "62",
+      "88",
+      "75",
+      "50"
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "d6de8185-a112-49cb-9abc-4d77c911aba2",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Surveying"
+  },
+  {
+    "question_number": "Q.24",
+    "question": "If $\\mathbf{M}$ is an arbitrary real $n \\times n$ matrix, then which of the following matrices will have non-negative eigenvalues?",
+    "type": "m-mcq",
+    "choices": [
+      "$\\mathbf{M}^2$",
+      "$\\mathbf{M}\\mathbf{M}^T$",
+      "$\\mathbf{M}^T\\mathbf{M}$",
+      "$(\\mathbf{M}^T)^2$"
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "ad5a72d1-b6fe-454a-ab30-a54581cc507b",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Engineering Mathematics"
+  },
+  {
+    "question_number": "Q.25",
+    "question": "The following function is defined over the interval $[-L, L]$:\n$$f(x) = px^4 + qx^5$$\nIf it is expressed as a Fourier series,\n$$f(x) = a_0 + \\sum_{n=1}^{\\infty} \\left\\{ a_n \\sin\\left(\\frac{n\\pi x}{L}\\right) + b_n \\cos\\left(\\frac{n\\pi x}{L}\\right) \\right\\},$$\nwhich options amongst the following are true?",
+    "type": "m-mcq",
+    "choices": [
+      "$a_n, n = 1, 2, \\cdots, \\infty$ depend on $p$",
+      "$a_n, n = 1, 2, \\cdots, \\infty$ depend on $q$",
+      "$b_n, n = 1, 2, \\cdots, \\infty$ depend on $p$",
+      "$b_n, n = 1, 2, \\cdots, \\infty$ depend on $q$"
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "ad5a72d1-b6fe-454a-ab30-a54581cc507b",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Engineering Mathematics"
+  },
+  {
+    "question_number": "Q.26",
+    "question": "Consider the following three structures:\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ce/p1/images/p18_Q_26_img_1.png)\n\nWhich of the following statements is/are TRUE?",
+    "type": "m-mcq",
+    "choices": [
+      "Structure I is unstable",
+      "Structure II is unstable",
+      "Structure III is unstable",
+      "All three structures are stable"
+    ],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "027c5257-0535-4323-9eca-b28b523d42d4",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          142,
+          201,
+          663,
+          809
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ce/p1/images/p18_Q_26_img_1.png"
+      }
+    ],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Structural Analysis"
+  },
+  {
+    "question_number": "Q.27",
+    "question": "Identify the waterborne diseases caused by viral pathogens:",
+    "type": "m-mcq",
+    "choices": [
+      "Acute anterior poliomyelitis",
+      "Cholera",
+      "Infectious hepatitis",
+      "Typhoid fever"
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "8e6d6e45-760a-4257-a1d7-f818184d8244",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Environmental Engineering"
+  },
+  {
+    "question_number": "Q.28",
+    "question": "Which of the following statements is/are TRUE for the Refuse-Derived Fuel (RDF) in the context of Municipal Solid Waste (MSW) management?",
+    "type": "m-mcq",
+    "choices": [
+      "Higher Heating Value (HHV) of the unprocessed MSW is higher than the HHV of RDF processed from the same MSW",
+      "RDF can be made in the powdered form",
+      "Inorganic fraction of MSW is mostly converted to RDF",
+      "RDF cannot be used in conjunction with oil"
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "8e6d6e45-760a-4257-a1d7-f818184d8244",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Environmental Engineering"
+  },
+  {
+    "question_number": "Q.29",
+    "question": "The probabilities of occurrences of two independent events A and B are 0.5 and 0.8, respectively. What is the probability of occurrence of at least A or B (rounded off to one decimal place)?",
+    "type": "numerical",
+    "choices": [],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "ad5a72d1-b6fe-454a-ab30-a54581cc507b",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Engineering Mathematics"
+  },
+  {
+    "question_number": "Q.30",
+    "question": "In the differential equation $\\frac{dy}{dx} + \\alpha x y = 0$, $\\alpha$ is a positive constant. If $y = 1.0$ at $x = 0.0$, and $y = 0.8$ at $x = 1.0$, the value of $\\alpha$ is _____________(rounded off to three decimal places).",
+    "type": "numerical",
+    "choices": [],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "ad5a72d1-b6fe-454a-ab30-a54581cc507b",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Engineering Mathematics"
+  },
+  {
+    "question_number": "Q.31",
+    "question": "Consider the fillet-welded lap joint shown in the figure (not to scale). The length of the weld shown is the effective length. The welded surfaces meet at right angle. The weld size is $8\\text{ mm}$, and the permissible stress in the weld is $120\\text{ MPa}$. What is the safe load $P$ (in kN, rounded off to one decimal place) that can be transmitted by this welded joint?\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ce/p1/images/p20_Q_31_img_1.png)",
+    "type": "numerical",
+    "choices": [],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "027c5257-0535-4323-9eca-b28b523d42d4",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          340,
+          258,
+          508,
+          809
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ce/p1/images/p20_Q_31_img_1.png"
+      }
+    ],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Structural Analysis"
+  },
+  {
+    "question_number": "Q.32",
+    "question": "A drained direct shear test was carried out on a sandy soil. Under a normal stress of $50\\text{ kPa}$, the test specimen failed at a shear stress of $35\\text{ kPa}$. The angle of internal friction of the sample is _____________degree *(round off to the nearest integer)*.",
+    "type": "numerical",
+    "choices": [],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "14b318ef-b915-441e-9c6b-0f8a796fa6f6",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Geotechnical Engineering"
+  },
+  {
+    "question_number": "Q.33",
+    "question": "A canal supplies water to an area growing wheat over 100 hectares. The duration between the first and last watering is 120 days, and the total depth of water required by the crop is 35 cm. The most intense watering is required over a period of 30 days and requires a total depth of water equal to 12 cm. Assuming precipitation to be negligible and neglecting all losses, the minimum discharge (in m$^3$/s, rounded off to three decimal places) in the canal to satisfy the crop requirement is ____________.",
+    "type": "numerical",
+    "choices": [],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "9fa0e751-e7e6-4578-9db8-2e62d7db209e",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Water Resources Engineering"
+  },
+  {
+    "question_number": "Q.34",
+    "question": "The ordinates of a one-hour unit hydrograph for a catchment are given below:\n\n| $t$ (hour) | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 |\n|---|---|---|---|---|---|---|---|---|\n| $Q$ (m$^3$/s) | 0 | 9 | 21 | 18 | 12 | 5 | 2 | 0 |\n\nUsing the principle of superposition, a $D$-hour unit hydrograph for the catchment was derived from this one-hour unit hydrograph. The ordinates of the $D$-hour unit hydrograph were obtained as 3 m$^3$/s at $t = 1$ hour and 10 m$^3$/s at $t = 2$ hour. The value of $D$ (in integer) is ____________.",
+    "type": "numerical",
+    "choices": [],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "9fa0e751-e7e6-4578-9db8-2e62d7db209e",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Water Resources Engineering"
+  },
+  {
+    "question_number": "Q.35",
+    "question": "For a horizontal curve, the radius of a circular curve is obtained as 300 m with the design speed as 15 m/s. If the allowable jerk is 0.75 m/s$^3$, what is the minimum length (in m, *in integer*) of the transition curve? ____________",
+    "type": "numerical",
+    "choices": [],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "f5170db0-9018-4be5-b0de-f42b628b8ceb",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Transportation Engineering"
+  },
+  {
+    "question_number": "Q.36",
+    "question": "A function $f(x)$, that is smooth and convex-shaped between interval $(x_l, x_u)$ is shown in the figure. This function is observed at odd number of regularly spaced points. If the area under the function is computed numerically, then ____________.\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ce/p1/images/p22_Q_36_img_1.png)",
+    "type": "mcq",
+    "choices": [
+      "the numerical value of the area obtained using the trapezoidal rule will be less than the actual",
+      "the numerical value of the area obtained using the trapezoidal rule will be more than the actual",
+      "the numerical value of the area obtained using the trapezoidal rule will be exactly equal to the actual",
+      "with the given details, the numerical value of area cannot be obtained using trapezoidal rule"
+    ],
+    "marks": 2,
+    "negativeMarks": 0.66,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "ad5a72d1-b6fe-454a-ab30-a54581cc507b",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          265,
+          250,
+          455,
+          820
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ce/p1/images/p22_Q_36_img_1.png"
+      }
+    ],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Engineering Mathematics"
+  },
+  {
+    "question_number": "Q.37",
+    "question": "Consider a doubly reinforced RCC beam with the option of using either Fe250 plain bars or Fe500 deformed bars in the compression zone. The modulus of elasticity of steel is $2 \\times 10^5 \\text{ N/mm}^2$. As per IS456:2000, in which type(s) of the bars, the stress in the compression steel ($f_{sc}$) can reach the design strength ($0.87f_y$) at the limit state of collapse?",
+    "type": "mcq",
+    "choices": [
+      "Fe250 plain bars only",
+      "Fe500 deformed bars only",
+      "Both Fe250 plain bars and Fe500 deformed bars",
+      "Neither Fe250 plain bars nor Fe500 deformed bars"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "f8b94298-44e9-4c48-880c-4e230b282607",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Concrete Technology"
+  },
+  {
+    "question_number": "Q.38",
+    "question": "Consider the horizontal axis passing through the centroid of the steel beam cross-section shown in the figure. What is the shape factor (rounded off to one decimal place) for the cross-section?\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ce/p1/images/p23_Q_38_img_1.png)",
+    "type": "mcq",
+    "choices": [
+      "1.5",
+      "1.7",
+      "1.3",
+      "2.0"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "027c5257-0535-4323-9eca-b28b523d42d4",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          520,
+          416,
+          686,
+          649
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ce/p1/images/p23_Q_38_img_1.png"
+      }
+    ],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Structural Analysis"
+  },
+  {
+    "question_number": "Q.39",
+    "question": "Consider the pin-jointed truss shown in the figure (not to scale). All members have the same axial rigidity, $AE$. Members QR, RS, and ST have the same length $L$. Angles QBT, RCT, SDT are all 90°. Angles BQT, CRT, DST are all 30°. The joint T carries a vertical load $P$. The vertical deflection of joint T is $k \\frac{PL}{AE}$. What is the value of $k$?\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ce/p1/images/p24_Q_39_img_1.png)",
+    "type": "mcq",
+    "choices": [
+      "1.5",
+      "4.5",
+      "3.0",
+      "9.0"
+    ],
+    "marks": 2,
+    "negativeMarks": 0.66,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "027c5257-0535-4323-9eca-b28b523d42d4",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          216,
+          396,
+          482,
+          678
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ce/p1/images/p24_Q_39_img_1.png"
+      }
+    ],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Structural Analysis"
+  },
+  {
+    "question_number": "Q.40",
+    "question": "With reference to the compaction test conducted on soils, which of the following is INCORRECT?",
+    "type": "mcq",
+    "choices": [
+      "Peak point of the compaction curve gives the maximum dry unit weight and optimum moisture content",
+      "With increase in the compaction effort, the maximum dry unit weight increases",
+      "With increase in the compaction effort, the optimum moisture content decreases",
+      "Compaction curve crosses the zero-air-voids curve"
+    ],
+    "marks": 2,
+    "negativeMarks": 0.66,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "14b318ef-b915-441e-9c6b-0f8a796fa6f6",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Geotechnical Engineering"
+  },
+  {
+    "question_number": "Q.41",
+    "question": "Consider that a force $P$ is acting on the surface of a half-space (Boussinesq's problem). The expression for the vertical stress ($\\sigma_z$) at any point ($r, z$), within the half-space is given as,\n$$\\sigma_z = \\frac{3P}{2\\pi} \\frac{z^3}{(r^2 + z^2)^{\\frac{5}{2}}}$$\nwhere, $r$ is the radial distance, and $z$ is the depth with downward direction taken as positive. At any given $r$, there is a variation of $\\sigma_z$ along $z$, and at a specific $z$, the value of $\\sigma_z$ will be maximum. What is the locus of the maximum $\\sigma_z$?",
+    "type": "mcq",
+    "choices": [
+      "$z^2 = \\frac{3}{2} r^2$",
+      "$z^3 = \\frac{3}{2} r^2$",
+      "$z^2 = \\frac{5}{2} r^2$",
+      "$z^3 = \\frac{5}{2} r^2$"
+    ],
+    "marks": 2,
+    "negativeMarks": 0.66,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "14b318ef-b915-441e-9c6b-0f8a796fa6f6",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Geotechnical Engineering"
+  },
+  {
+    "question_number": "Q.42",
+    "question": "A square footing of size 2.5 m × 2.5 m is placed 1.0 m below the ground surface on a cohesionless homogeneous soil stratum. Considering that the groundwater table is located at the base of the footing, the unit weights of soil above and below the groundwater table are 18 kN/m³ and 20 kN/m³, respectively, and the bearing capacity factor $N_q$ is 58, the net ultimate bearing capacity of the soil is estimated as 1706 kPa (unit weight of water = 10 kN/m³).\n\nEarlier, a plate load test was carried out with a circular plate of 30 cm diameter in the same foundation pit during a dry season, when the water table was located beyond the plate influence zone. Using Terzaghi’s bearing capacity formulation, what is the ultimate bearing capacity (in kPa) of the plate?",
+    "type": "mcq",
+    "choices": [
+      "110.16",
+      "61.20",
+      "204.00",
+      "163.20"
+    ],
+    "marks": 2,
+    "negativeMarks": 0.66,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "14b318ef-b915-441e-9c6b-0f8a796fa6f6",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Geotechnical Engineering"
+  },
+  {
+    "question_number": "Q.43",
+    "question": "A very wide rectangular channel carries a discharge (Q) of 70 m$^3$/s per meter width. Its bed slope changes from 0.0001 to 0.0009 at a point P, as shown in the figure (not to scale). The Manning’s roughness coefficient of the channel is 0.01. What water surface profile(s) exist(s) near the point P?\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ce/p1/images/p27_Q_43_img_1.png)",
+    "type": "mcq",
+    "choices": [
+      "M$_2$ and S$_2$",
+      "M$_2$ only",
+      "S$_2$ only",
+      "S$_2$ and hydraulic jump"
+    ],
+    "marks": 2,
+    "negativeMarks": 0.67,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "8972ceb6-82ed-4842-8390-cd6db61bb198",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          194,
+          228,
+          345,
+          850
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ce/p1/images/p27_Q_43_img_1.png"
+      }
+    ],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Fluid Mechanics"
+  },
+  {
+    "question_number": "Q.44",
+    "question": "A jet of water having a velocity of 20 m/s strikes a series of plates fixed radially on a wheel revolving in the same direction as the jet at 15 m/s. What is the percentage efficiency of the plates? *(round off to one decimal place)*",
+    "type": "mcq",
+    "choices": [
+      "37.5",
+      "66.7",
+      "50.0",
+      "88.9"
+    ],
+    "marks": 2,
+    "negativeMarks": 0.67,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "8972ceb6-82ed-4842-8390-cd6db61bb198",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Fluid Mechanics"
+  },
+  {
+    "question_number": "Q.45",
+    "question": "In the following table, identify the correct set of associations between the entries in Column-1 and Column-2.\n\n| Column-1 | Column-2 |\n| :--- | :--- |\n| P: Reverse Osmosis | I: Ponding |\n| Q: Trickling Filter | II: Freundlich Isotherm |\n| R: Coagulation | III: Concentration Polarization |\n| S: Adsorption | IV: Charge Neutralization |",
+    "type": "mcq",
+    "choices": [
+      "P-II, Q-I, S-III",
+      "Q-III, R-II, S-IV",
+      "P-IV, R-I, S-II",
+      "P-III, Q-I, R-IV"
+    ],
+    "marks": 2,
+    "negativeMarks": 0.66,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "8e6d6e45-760a-4257-a1d7-f818184d8244",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Environmental Engineering"
+  },
+  {
+    "question_number": "Q.46",
+    "question": "A plot of speed-density relationship (linear) of two roads (Road A and Road B) is shown in the figure.\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ce/p1/images/p29_Q_46_img_1.png)\n\nIf the capacity of Road A is $C_A$ and the capacity of Road B is $C_B$, what is $\\frac{C_A}{C_B}$ ?",
+    "type": "mcq",
+    "choices": [
+      "$\\frac{k_A}{k_B}$",
+      "$\\frac{u_A}{u_B}$",
+      "$\\frac{k_A u_A}{k_B u_B}$",
+      "$\\frac{k_A u_B}{k_B u_A}$"
+    ],
+    "marks": 2,
+    "negativeMarks": 0.67,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "f5170db0-9018-4be5-b0de-f42b628b8ceb",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          163,
+          340,
+          347,
+          735
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ce/p1/images/p29_Q_46_img_1.png"
+      }
+    ],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Transportation Engineering"
+  },
+  {
+    "question_number": "Q.47",
+    "question": "For the matrix\n\n$$[A] = \\begin{bmatrix} 1 & 2 & 3 \\\\ 3 & 2 & 1 \\\\ 3 & 1 & 2 \\end{bmatrix}$$\n\nwhich of the following statements is/are TRUE?",
+    "type": "m-mcq",
+    "choices": [
+      "The eigenvalues of $[A]^T$ are same as the eigenvalues of $[A]$",
+      "The eigenvalues of $[A]^{-1}$ are the reciprocals of the eigenvalues of $[A]$",
+      "The eigenvectors of $[A]^T$ are same as the eigenvectors of $[A]$",
+      "The eigenvectors of $[A]^{-1}$ are same as the eigenvectors of $[A]$"
+    ],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "ad5a72d1-b6fe-454a-ab30-a54581cc507b",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Engineering Mathematics"
+  },
+  {
+    "question_number": "Q.48",
+    "question": "For the function $f(x) = e^x |\\sin x|$; $x \\in \\mathbb{R}$, which of the following statements is/are TRUE?",
+    "type": "m-mcq",
+    "choices": [
+      "The function is continuous at all $x$",
+      "The function is differentiable at all $x$",
+      "The function is periodic",
+      "The function is bounded"
+    ],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "ad5a72d1-b6fe-454a-ab30-a54581cc507b",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Engineering Mathematics"
+  },
+  {
+    "question_number": "Q.49",
+    "question": "Consider the beam shown in the figure (not to scale), on a hinge support at end A and a roller support at end B. The beam has a constant flexural rigidity, and is subjected to the external moments of magnitude $M$ at one-third spans, as shown in the figure. Which of the following statements is/are TRUE?\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ce/p1/images/p31_Q_49_img_1.png)",
+    "type": "m-mcq",
+    "choices": [
+      "Support reactions are zero",
+      "Shear force is zero everywhere",
+      "Bending moment is zero everywhere",
+      "Deflection is zero everywhere"
+    ],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "8c3e2737-23ab-44cf-8401-6c1e7844dc3e",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          198,
+          396,
+          283,
+          675
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ce/p1/images/p31_Q_49_img_1.png"
+      }
+    ],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Strength of Materials"
+  },
+  {
+    "question_number": "Q.50",
+    "question": "Which of the following statements is/are TRUE in relation to the Maximum Mixing Depth (or Height) ‘$D_{\\text{max}}$’ in the atmosphere?",
+    "type": "m-mcq",
+    "choices": [
+      "$D_{\\text{max}}$ is always equal to the height of the layer of unstable air",
+      "Ventilation coefficient depends on $D_{\\text{max}}$",
+      "A smaller $D_{\\text{max}}$ will have a smaller air pollution potential if other meteorological conditions remain same",
+      "Vertical dispersion of pollutants occurs up to $D_{\\text{max}}$"
+    ],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "8e6d6e45-760a-4257-a1d7-f818184d8244",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Environmental Engineering"
+  },
+  {
+    "question_number": "Q.51",
+    "question": "Which of the following options match the test reporting conventions with the given material tests in the table?\n\n| Test reporting convention | Material test |\n| :--- | :--- |\n| (P) Reported as ratio | (I) Solubility of bitumen |\n| (Q) Reported as percentage | (II) Softening point of bitumen |\n| (R) Reported in temperature | (III) Los Angeles abrasion test |\n| (S) Reported in length | (IV) Flash point of bitumen |\n| | (V) Ductility of bitumen |\n| | (VI) Specific gravity of bitumen |\n| | (VII) Thin film oven test |",
+    "type": "mcq",
+    "choices": [
+      "(P) - (VI); (Q) - (I); (R) - (II); (S) - (VII)",
+      "(P) - (VI); (Q) - (III); (R) - (IV); (S) - (V)",
+      "(P) - (VI); (Q) - (I); (R) - (II); (S) - (V)",
+      "(P) - (VI); (Q) - (III); (R) - (IV); (S) - (VII)"
+    ],
+    "marks": 2,
+    "negativeMarks": 0.66,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "f5170db0-9018-4be5-b0de-f42b628b8ceb",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Transportation Engineering"
+  },
+  {
+    "question_number": "Q.52",
+    "question": "The differential equation,\n$$\\frac{du}{dt} + 2tu^2 = 1,$$\nis solved by employing a backward difference scheme within the finite difference framework. The value of $u$ at the $(n - 1)^{\\text{th}}$ time-step, for some $n$, is $1.75$. The corresponding time ($t$) is $3.14\\text{ s}$. Each time step is $0.01\\text{ s}$ long. Then, the value of $(u_n - u_{n-1})$ is ____________ (round off to three decimal places).",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": ""
+  },
+  {
+    "question_number": "Q.53",
+    "question": "The infinitesimal element shown in the figure (not to scale) represents the state of stress at a point in a body. What is the magnitude of the maximum principal stress (in N/mm$^2$, *in integer*) at the point? ____________\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ce/p1/images/p33_Q_53_img_1.png)",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "8c3e2737-23ab-44cf-8401-6c1e7844dc3e",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          397,
+          362,
+          626,
+          706
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ce/p1/images/p33_Q_53_img_1.png"
+      }
+    ],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Strength of Materials"
+  },
+  {
+    "question_number": "Q.54",
+    "question": "An idealised bridge truss is shown in the figure. The force in Member $\\text{U}_2\\text{L}_3$ is ________ kN *(round off to one decimal place)*.\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ce/p1/images/p34_Q_54_img_q54.png)",
+    "type": "numerical",
+    "choices": [],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "027c5257-0535-4323-9eca-b28b523d42d4",
+    "images": [
+      {
+        "box_id": "img_q54",
+        "box": [
+          160,
+          210,
+          315,
+          840
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ce/p1/images/p34_Q_54_img_q54.png"
+      }
+    ],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Structural Analysis"
+  },
+  {
+    "question_number": "Q.55",
+    "question": "The cross-section of a girder is shown in the figure (not to scale). The section is symmetric about a vertical axis (Y-Y). The moment of inertia of the section about the horizontal axis (X-X) passing through the centroid is ________ $\\text{cm}^4$ *(round off to nearest integer)*.\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ce/p1/images/p34_Q_55_img_q55.png)",
+    "type": "numerical",
+    "choices": [],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "8c3e2737-23ab-44cf-8401-6c1e7844dc3e",
+    "images": [
+      {
+        "box_id": "img_q55",
+        "box": [
+          475,
+          350,
+          810,
+          700
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ce/p1/images/p34_Q_55_img_q55.png"
+      }
+    ],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Strength of Materials"
+  },
+  {
+    "question_number": "Q.56",
+    "question": "A soil having the average properties, bulk unit weight = $19\\text{ kN/m}^3$; angle of internal friction = $25^\\circ$ and cohesion = $15\\text{ kPa}$, is being formed on a rock slope existing at an inclination of $35^\\circ$ with the horizontal. The critical height (in m) of the soil formation up to which it would be stable without any failure is ___________ (round off to one decimal place).\n\n[Assume the soil is being formed parallel to the rock bedding plane and there is no ground water effect.]",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "14b318ef-b915-441e-9c6b-0f8a796fa6f6",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Geotechnical Engineering"
+  },
+  {
+    "question_number": "Q.57",
+    "question": "A smooth vertical retaining wall supporting layered soils is shown in figure. According to Rankine’s earth pressure theory, the lateral active earth pressure acting at the base of the wall is ___________ kPa (round off to one decimal place).\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ce/p1/images/p35_Q_57_img_q57.png)",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "14b318ef-b915-441e-9c6b-0f8a796fa6f6",
+    "images": [
+      {
+        "box_id": "img_q57",
+        "box": [
+          388,
+          290,
+          665,
+          712
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ce/p1/images/p35_Q_57_img_q57.png"
+      }
+    ],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Geotechnical Engineering"
+  },
+  {
+    "question_number": "Q.58",
+    "question": "A vertical trench is excavated in a clayey soil deposit having a surcharge load of $30\\text{ kPa}$. A fluid of unit weight $12\\text{ kN/m}^3$ is poured in the trench to prevent collapse as the excavation proceeds. Assume that the fluid is not seeping through the soil deposit. If the undrained cohesion of the clay deposit is $20\\text{ kPa}$ and saturated unit weight is $18\\text{ kN/m}^3$, what is the maximum depth of unsupported excavation (in m, rounded off to two decimal places)? _____________________",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "14b318ef-b915-441e-9c6b-0f8a796fa6f6",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Geotechnical Engineering"
+  },
+  {
+    "question_number": "Q.59",
+    "question": "A 12-hour storm occurs over a catchment and results in a direct runoff depth of 100 mm. The time-distribution of the rainfall intensity is shown in the figure (not to scale). The $\\phi$-index of the storm is (in mm, rounded off to two decimal places) ________.\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ce/p1/images/p36_Q_59_img_1.png)",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "9fa0e751-e7e6-4578-9db8-2e62d7db209e",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          222,
+          340,
+          412,
+          746
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2023/ce/p1/images/p36_Q_59_img_1.png"
+      }
+    ],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Water Resources Engineering"
+  },
+  {
+    "question_number": "Q.60",
+    "question": "A hydraulic jump occurs in a 1.0 m wide horizontal, frictionless, rectangular channel, with a pre-jump depth of 0.2 m and a post-jump depth of 1.0 m. The value of $g$ may be taken as 10 m/s$^2$. The values of the specific force at the pre-jump and post-jump sections are same and are equal to (in m$^3$, rounded off to two decimal places) ________.",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "8972ceb6-82ed-4842-8390-cd6db61bb198",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Fluid Mechanics"
+  },
+  {
+    "question_number": "Q.61",
+    "question": "In Horton’s equation fitted to the infiltration data for a soil, the initial infiltration capacity is 10 mm/h; final infiltration capacity is 5 mm/h; and the exponential decay constant is 0.5 /h. Assuming that the infiltration takes place at capacity rates, the total infiltration depth (in mm) from a uniform storm of duration 12 h is ________. *(round off to one decimal place)*",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "9fa0e751-e7e6-4578-9db8-2e62d7db209e",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Water Resources Engineering"
+  },
+  {
+    "question_number": "Q.62",
+    "question": "The composition and energy content of a representative solid waste sample are given in the table. If the moisture content of the waste is 26%, the energy content of the solid waste on dry-weight basis is ________ MJ/kg *(round off to one decimal place)*.\n\n| Component | Percent by mass | Energy content as-discarded basis (MJ/kg) |\n| :--- | :---: | :---: |\n| Food waste | 20 | 4.5 |\n| Paper | 45 | 16.0 |\n| Cardboard | 5 | 14.0 |\n| Plastics | 10 | 32.0 |\n| Others | 20 | 8.0 |",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "8e6d6e45-760a-4257-a1d7-f818184d8244",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Environmental Engineering"
+  },
+  {
+    "question_number": "Q.63",
+    "question": "A flocculator tank has a volume of $2800\\text{ m}^3$. The temperature of water in the tank is $15^\\circ\\text{C}$, and the average velocity gradient maintained in the tank is $100/\\text{s}$. The temperature of water is reduced to $5^\\circ\\text{C}$, but all other operating conditions including the power input are maintained as the same. The decrease in the average velocity gradient (in %) due to the reduction in water temperature is ________ *(round off to nearest integer)*.\n\n[Consider dynamic viscosity of water at $15^\\circ\\text{C}$ and $5^\\circ\\text{C}$ as $1.139 \\times 10^{-3}\\text{ N-s/m}^2$ and $1.518 \\times 10^{-3}\\text{ N-s/m}^2$, respectively]",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "8e6d6e45-760a-4257-a1d7-f818184d8244",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Environmental Engineering"
+  },
+  {
+    "question_number": "Q.64",
+    "question": "The wastewater inflow to an activated sludge plant is $0.5\\text{ m}^3/\\text{s}$, and the plant is to be operated with a food to microorganism ratio of $0.2\\text{ mg/mg-d}$. The concentration of influent biodegradable organic matter of the wastewater to the plant (after primary settling) is $150\\text{ mg/L}$, and the mixed liquor volatile suspended solids concentration to be maintained in the plant is $2000\\text{ mg/L}$. Assuming that complete removal of biodegradable organic matter in the tank, the volume of aeration tank (in $\\text{m}^3$, *in integer*) required for the plant is ____________.",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "8e6d6e45-760a-4257-a1d7-f818184d8244",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Environmental Engineering"
+  },
+  {
+    "question_number": "Q.65",
+    "question": "Trigonometric levelling was carried out from two stations P and Q to find the reduced level (R. L.) of the top of hillock, as shown in the table. The distance between Stations P and Q is $55\\text{ m}$. Assume Stations P and Q, and the hillock are in the same vertical plane. The R. L. of the top of the hillock (in m) is ____________ (*round off to three decimal places*).\n\n| Station | Vertical angle of the top of hillock | Staff reading on benchmark | R. L. of benchmark |\n| :--- | :--- | :--- | :--- |\n| P | $18^{\\circ}45'$ | $2.340\\text{ m}$ | $100.000\\text{ m}$ |\n| Q | $12^{\\circ}45'$ | $1.660\\text{ m}$ | |",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "9fcc0b9a-d9bd-4978-a82b-12717c93c53a",
+    "topic": "d6de8185-a112-49cb-9abc-4d77c911aba2",
+    "images": [],
+    "subject_name": "Civil Engineering",
+    "topic_name": "Surveying"
+  }
+]

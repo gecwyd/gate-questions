@@ -1,0 +1,2647 @@
+[
+  {
+    "question_number": "Q.1",
+    "question": "After playing __________ hours of tennis, I am feeling __________ tired to walk back.",
+    "type": "mcq",
+    "choices": [
+      "(A) too / too",
+      "(B) too / two",
+      "(C) two / two",
+      "(D) two / too"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "d82ad3b0-e5ca-4407-91d6-ab1653f3f02e",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "General Aptitude"
+  },
+  {
+    "question_number": "Q.2",
+    "question": "The average of the monthly salaries of M, N and S is ₹ 4000. The average of the monthly salaries of N, S and P is ₹ 5000. The monthly salary of P is ₹ 6000.\n\nWhat is the monthly salary of M as a percentage of the monthly salary of P?",
+    "type": "mcq",
+    "choices": [
+      "(A) 50%",
+      "(B) 75%",
+      "(C) 100%",
+      "(D) 125%"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "d82ad3b0-e5ca-4407-91d6-ab1653f3f02e",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "General Aptitude"
+  },
+  {
+    "question_number": "Q.3",
+    "question": "A person travelled 80 km in 6 hours. If the person travelled the first part with a uniform speed of 10 kmph and the remaining part with a uniform speed of 18 kmph.\n\nWhat percentage of the total distance is travelled at a uniform speed of 10 kmph?",
+    "type": "mcq",
+    "choices": [
+      "28.25",
+      "37.25",
+      "43.75",
+      "50.00"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "d82ad3b0-e5ca-4407-91d6-ab1653f3f02e",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "General Aptitude"
+  },
+  {
+    "question_number": "Q.4",
+    "question": "Four girls P, Q, R and S are studying languages in a University. P is learning French and Dutch. Q is learning Chinese and Japanese. R is learning Spanish and French. S is learning Dutch and Japanese.\n\nGiven that: French is easier than Dutch; Chinese is harder than Japanese; Dutch is easier than Japanese, and Spanish is easier than French.\n\nBased on the above information, which girl is learning the most difficult pair of languages?",
+    "type": "mcq",
+    "choices": [
+      "P",
+      "Q",
+      "R",
+      "S"
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "d82ad3b0-e5ca-4407-91d6-ab1653f3f02e",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "General Aptitude"
+  },
+  {
+    "question_number": "Q.5",
+    "question": "![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p4_Q_5_img_1.png)\n\nA block with a trapezoidal cross-section is placed over a block with rectangular cross section as shown above.\n\nWhich one of the following is the correct drawing of the view of the 3D object as viewed in the direction indicated by an arrow in the above figure?",
+    "type": "mcq",
+    "choices": [
+      "![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p4_Q_5_img_2.png)",
+      "![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p4_Q_5_img_3.png)",
+      "![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p4_Q_5_img_4.png)",
+      "![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p4_Q_5_img_5.png)"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "d82ad3b0-e5ca-4407-91d6-ab1653f3f02e",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          132,
+          412,
+          258,
+          674
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p4_Q_5_img_1.png"
+      },
+      {
+        "box_id": "img_2",
+        "box": [
+          418,
+          219,
+          488,
+          338
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p4_Q_5_img_2.png"
+      },
+      {
+        "box_id": "img_3",
+        "box": [
+          523,
+          219,
+          587,
+          332
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p4_Q_5_img_3.png"
+      },
+      {
+        "box_id": "img_4",
+        "box": [
+          622,
+          219,
+          695,
+          347
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p4_Q_5_img_4.png"
+      },
+      {
+        "box_id": "img_5",
+        "box": [
+          729,
+          221,
+          768,
+          348
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p4_Q_5_img_5.png"
+      }
+    ],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "General Aptitude"
+  },
+  {
+    "question_number": "Q.6",
+    "question": "Humans are naturally compassionate and honest. In a study using strategically placed wallets that appear “lost”, it was found that wallets with money are more likely to be returned than wallets without money. Similarly, wallets that had a key and money are more likely to be returned than wallets with the same amount of money alone. This suggests that the primary reason for this behavior is compassion and empathy.\n\nWhich one of the following is the CORRECT logical inference based on the information in the above passage?",
+    "type": "mcq",
+    "choices": [
+      "Wallets with a key are more likely to be returned because people do not care about money",
+      "Wallets with a key are more likely to be returned because people relate to suffering of others",
+      "Wallets used in experiments are more likely to be returned than wallets that are really lost",
+      "Money is always more important than keys"
+    ],
+    "marks": 2,
+    "negativeMarks": 0.67,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "d82ad3b0-e5ca-4407-91d6-ab1653f3f02e",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "General Aptitude"
+  },
+  {
+    "question_number": "Q.7",
+    "question": "A rhombus is formed by joining the midpoints of the sides of a unit square.\n\nWhat is the diameter of the largest circle that can be inscribed within the rhombus?",
+    "type": "mcq",
+    "choices": [
+      "$\\frac{1}{\\sqrt{2}}$",
+      "$\\frac{1}{2\\sqrt{2}}$",
+      "$\\sqrt{2}$",
+      "$2\\sqrt{2}$"
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "d82ad3b0-e5ca-4407-91d6-ab1653f3f02e",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "General Aptitude"
+  },
+  {
+    "question_number": "Q.8",
+    "question": "An equilateral triangle, a square and a circle have equal areas.\n\nWhat is the ratio of the perimeters of the equilateral triangle to square to circle?",
+    "type": "mcq",
+    "choices": [
+      "$3\\sqrt{3} : 2 : \\sqrt{\\pi}$",
+      "$\\sqrt{3\\sqrt{3}} : 2 : \\sqrt{\\pi}$",
+      "$\\sqrt{3\\sqrt{3}} : 4 : 2\\sqrt{\\pi}$",
+      "$\\sqrt{3\\sqrt{3}} : 2 : 2\\sqrt{\\pi}$"
+    ],
+    "marks": 2,
+    "negativeMarks": 0.67,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "d82ad3b0-e5ca-4407-91d6-ab1653f3f02e",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "General Aptitude"
+  },
+  {
+    "question_number": "Q.9",
+    "question": "Given below are three conclusions drawn based on the following three statements.\n\nStatement 1: All teachers are professors.\n\nStatement 2: No professor is a male.\n\nStatement 3: Some males are engineers.\n\nConclusion I: No engineer is a professor.\n\nConclusion II: Some engineers are professors.\n\nConclusion III: No male is a teacher.\n\nWhich one of the following options can be logically inferred?",
+    "type": "mcq",
+    "choices": [
+      "Only conclusion III is correct",
+      "Only conclusion I and conclusion II are correct",
+      "Only conclusion II and conclusion III are correct",
+      "Only conclusion I and conclusion III are correct"
+    ],
+    "marks": 2,
+    "negativeMarks": 0.66,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "d82ad3b0-e5ca-4407-91d6-ab1653f3f02e",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "General Aptitude"
+  },
+  {
+    "question_number": "Q.10",
+    "question": "In a 12-hour clock that runs correctly, how many times do the second, minute, and hour hands of the clock coincide, in a 12-hour duration from 3 PM in a day to 3 AM the next day?",
+    "type": "mcq",
+    "choices": [
+      "11",
+      "12",
+      "144",
+      "2"
+    ],
+    "marks": 2,
+    "negativeMarks": 0.66,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "d82ad3b0-e5ca-4407-91d6-ab1653f3f02e",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "General Aptitude"
+  },
+  {
+    "question_number": "Q.11",
+    "question": "The limit\n$$p = \\lim_{x \\to \\pi} \\left( \\frac{x^2 + \\alpha x + 2\\pi^2}{x - \\pi + 2\\sin x} \\right)$$\nhas a finite value for a real $\\alpha$. The value of $\\alpha$ and the corresponding limit $p$ are",
+    "type": "mcq",
+    "choices": [
+      "\\(\\alpha = -3\\pi\\), and \\(p = \\pi\\)",
+      "\\(\\alpha = -2\\pi\\), and \\(p = 2\\pi\\)",
+      "\\(\\alpha = \\pi\\), and \\(p = \\pi\\)",
+      "\\(\\alpha = 2\\pi\\), and \\(p = 3\\pi\\)"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "54ff49d4-98c9-404f-a658-6683d659a089",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Engineering Mathematics"
+  },
+  {
+    "question_number": "Q.12",
+    "question": "Solution of \\(\\nabla^2 T = 0\\) in a square domain (\\(0 < x < 1\\) and \\(0 < y < 1\\)) with boundary conditions:\n$$T(x, 0) = x; \\quad T(0, y) = y; \\quad T(x, 1) = 1 + x; \\quad T(1, y) = 1 + y$$\nis",
+    "type": "mcq",
+    "choices": [
+      "\\(T(x, y) = x - xy + y\\)",
+      "\\(T(x, y) = x + y\\)",
+      "\\(T(x, y) = -x + y\\)"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "54ff49d4-98c9-404f-a658-6683d659a089",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Engineering Mathematics"
+  },
+  {
+    "question_number": "Q.13",
+    "question": "Given a function $\\varphi = \\frac{1}{2}(x^2 + y^2 + z^2)$ in three-dimensional Cartesian space, the value of the surface integral\n\n$$\\iint_S \\mathbf{\\hat{n}} \\cdot \\nabla \\varphi \\, dS ,$$\n\nwhere $S$ is the surface of a sphere of unit radius and $\\mathbf{\\hat{n}}$ is the outward unit normal vector on $S$, is",
+    "type": "mcq",
+    "choices": [
+      "$4\\pi$",
+      "$3\\pi$",
+      "$4\\pi/3$",
+      "$0$"
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "54ff49d4-98c9-404f-a658-6683d659a089",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Engineering Mathematics"
+  },
+  {
+    "question_number": "Q.14",
+    "question": "The Fourier series expansion of $x^3$ in the interval $-1 \\le x < 1$ with periodic continuation has",
+    "type": "mcq",
+    "choices": [
+      "only sine terms",
+      "only cosine terms",
+      "both sine and cosine terms",
+      "only sine terms and a non-zero constant"
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "54ff49d4-98c9-404f-a658-6683d659a089",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Engineering Mathematics"
+  },
+  {
+    "question_number": "Q.15",
+    "question": "If $\\mathbf{A} = \\begin{bmatrix} 10 & 2k + 5 \\\\ 3k - 3 & k + 5 \\end{bmatrix}$ is a symmetric matrix, the value of $k$ is ________.",
+    "type": "mcq",
+    "choices": [
+      "8",
+      "5",
+      "-0.4",
+      "$\\frac{1 + \\sqrt{1561}}{12}$"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "54ff49d4-98c9-404f-a658-6683d659a089",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Engineering Mathematics"
+  },
+  {
+    "question_number": "Q.16",
+    "question": "A uniform light slender beam AB of section modulus $EI$ is pinned by a frictionless joint A to the ground and supported by a light inextensible cable CB to hang a weight $W$ as shown. If the maximum value of $W$ to avoid buckling of the beam AB is obtained as $\\beta \\pi^2 EI$, where $\\pi$ is the ratio of circumference to diameter of a circle, then the value of $\\beta$ is\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p14_Q_16_img_1.png)",
+    "type": "mcq",
+    "choices": [
+      "$0.0924\\text{ m}^{-2}$",
+      "$0.0713\\text{ m}^{-2}$",
+      "$0.1261\\text{ m}^{-2}$",
+      "$0.1417\\text{ m}^{-2}$"
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "b4502955-01e4-4e4a-8ae2-f9752d986d14",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          277,
+          360,
+          469,
+          698
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p14_Q_16_img_1.png"
+      }
+    ],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Strength of Materials"
+  },
+  {
+    "question_number": "Q.17",
+    "question": "The figure shows a schematic of a simple Watt governor mechanism with the spindle $\\text{O}_1\\text{O}_2$ rotating at an angular velocity $\\omega$ about a vertical axis. The balls at P and S have equal mass. Assume that there is no friction anywhere and all other components are massless and rigid. The vertical distance between the horizontal plane of rotation of the balls and the pivot $\\text{O}_1$ is denoted by $h$. The value of $h = 400\\text{ mm}$ at a certain $\\omega$. If $\\omega$ is doubled, the value of $h$ will be _______ mm.\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p15_Q_17_img_1.png)",
+    "type": "mcq",
+    "choices": [
+      "50",
+      "100",
+      "150",
+      "200"
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "dbadb898-348b-4eec-b9e4-1a8e70b6bb82",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          270,
+          345,
+          575,
+          740
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p15_Q_17_img_1.png"
+      }
+    ],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Theory of Machines"
+  },
+  {
+    "question_number": "Q.18",
+    "question": "A square threaded screw is used to lift a load $W$ by applying a force $F$. Efficiency of square threaded screw is expressed as",
+    "type": "mcq",
+    "choices": [
+      "The ratio of work done by $W$ per revolution to work done by $F$ per revolution",
+      "$W/F$",
+      "$F/W$",
+      "The ratio of work done by $F$ per revolution to work done by $W$ per revolution"
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "75263634-4926-438e-bff7-1e08e8ccbc03",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Machine Design"
+  },
+  {
+    "question_number": "Q.19",
+    "question": "A CNC worktable is driven in a linear direction by a lead screw connected directly to a stepper motor. The pitch of the lead screw is $5\\text{ mm}$. The stepper motor completes one full revolution upon receiving $600\\text{ pulses}$. If the worktable speed is $5\\text{ m/minute}$ and there is no missed pulse, then the pulse rate being received by the stepper motor is",
+    "type": "mcq",
+    "choices": [
+      "20 kHz",
+      "10 kHz",
+      "3 kHz",
+      "15 kHz"
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "77866ef8-d098-45cd-903c-93f6601cb72a",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Manufacturing Engineering"
+  },
+  {
+    "question_number": "Q.20",
+    "question": "The type of fit between a mating shaft of diameter $25.0_{-0.010}^{+0.010}\\text{ mm}$ and a hole of diameter $25.015_{-0.015}^{+0.015}\\text{ mm}$ is ________.",
+    "type": "mcq",
+    "choices": [
+      "Clearance",
+      "Transition",
+      "Interference",
+      "Linear"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "77866ef8-d098-45cd-903c-93f6601cb72a",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Manufacturing Engineering"
+  },
+  {
+    "question_number": "Q.21",
+    "question": "In a linear programming problem, if a resource is not fully utilized, the shadow price of that resource is",
+    "type": "mcq",
+    "choices": [
+      "positive",
+      "negative",
+      "zero",
+      "infinity"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "753564e6-0755-405a-b495-1de2d16664dd",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Industrial Engineering"
+  },
+  {
+    "question_number": "Q.22",
+    "question": "Which one of the following is **NOT** a form of inventory?",
+    "type": "mcq",
+    "choices": [
+      "Raw materials",
+      "Work-in-process materials",
+      "Finished goods",
+      "CNC Milling Machines"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "753564e6-0755-405a-b495-1de2d16664dd",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Industrial Engineering"
+  },
+  {
+    "question_number": "Q.23",
+    "question": "The Clausius inequality holds good for",
+    "type": "mcq",
+    "choices": [
+      "any process",
+      "any cycle",
+      "only reversible process",
+      "only reversible cycle"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "2ba93485-2d1f-4c23-bd4b-804432150c8e",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Thermodynamics"
+  },
+  {
+    "question_number": "Q.24",
+    "question": "A tiny temperature probe is fully immersed in a flowing fluid and is moving with zero relative velocity with respect to the fluid. The velocity field in the fluid is $\\vec{V} = (2x)\\hat{i} + (y + 3t)\\hat{j}$, and the temperature field in the fluid is $T = 2x^2 + xy + 4t$, where $x$ and $y$ are the spatial coordinates, and $t$ is the time. The time rate of change of temperature recorded by the probe at $(x = 1, y = 1, t = 1)$ is ________.",
+    "type": "mcq",
+    "choices": [
+      "4",
+      "0",
+      "18",
+      "14"
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "a962db54-b0db-4c9f-b294-2f1fa62a1605",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Fluid Mechanics"
+  },
+  {
+    "question_number": "Q.25",
+    "question": "In the following two-dimensional momentum equation for natural convection over a surface immersed in a quiescent fluid at temperature $T_\\infty$ ($g$ is the gravitational acceleration, $\\beta$ is the volumetric thermal expansion coefficient, $\\nu$ is the kinematic viscosity, $u$ and $v$ are the velocities in $x$ and $y$ directions, respectively, and $T$ is the temperature)\n\n$$u \\frac{\\partial u}{\\partial x} + v \\frac{\\partial u}{\\partial y} = g \\beta (T - T_\\infty) + \\nu \\frac{\\partial^2 u}{\\partial y^2},$$\n\nthe term $g \\beta (T - T_\\infty)$ represents",
+    "type": "mcq",
+    "choices": [
+      "Ratio of inertial force to viscous force.",
+      "Ratio of buoyancy force to viscous force.",
+      "Viscous force per unit mass."
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "3b5719ce-bb79-44c3-9cf7-ea0e20b9e836",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Heat Transfer"
+  },
+  {
+    "question_number": "Q.26",
+    "question": "Assuming the material considered in each statement is homogeneous, isotropic, linear elastic, and the deformations are in the elastic range, which one or more of the following statement(s) is/are TRUE?",
+    "type": "m-mcq",
+    "choices": [
+      "A body subjected to hydrostatic pressure has no shear stress.",
+      "If a long solid steel rod is subjected to tensile load, then its volume increases.",
+      "Maximum shear stress theory is suitable for failure analysis of brittle materials.",
+      "If a portion of a beam has zero shear force, then the corresponding portion of the elastic curve of the beam is always straight."
+    ],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "b4502955-01e4-4e4a-8ae2-f9752d986d14",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Strength of Materials"
+  },
+  {
+    "question_number": "Q.27",
+    "question": "Which of the following heat treatment processes is/are used for surface hardening of steels?",
+    "type": "m-mcq",
+    "choices": [
+      "Carburizing",
+      "Cyaniding",
+      "Annealing",
+      "Carbonitriding"
+    ],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "77866ef8-d098-45cd-903c-93f6601cb72a",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Manufacturing Engineering"
+  },
+  {
+    "question_number": "Q.28",
+    "question": "Which of the following additive manufacturing technique(s) can use a wire as a feedstock material?",
+    "type": "m-mcq",
+    "choices": [
+      "Stereolithography",
+      "Fused deposition modeling",
+      "Selective laser sintering",
+      "Directed energy deposition processes"
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "77866ef8-d098-45cd-903c-93f6601cb72a",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Manufacturing Engineering"
+  },
+  {
+    "question_number": "Q.29",
+    "question": "Which of the following methods can improve the fatigue strength of a circular mild steel (MS) shaft?",
+    "type": "m-mcq",
+    "choices": [
+      "Enhancing surface finish",
+      "Shot peening of the shaft",
+      "Increasing relative humidity",
+      "Reducing relative humidity"
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "75263634-4926-438e-bff7-1e08e8ccbc03",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Machine Design"
+  },
+  {
+    "question_number": "Q.30",
+    "question": "The figure shows a purely convergent nozzle with a steady, inviscid compressible flow of an ideal gas with constant thermophysical properties operating under choked condition. The exit plane shown in the figure is located within the nozzle. If the inlet pressure ($P_0$) is increased while keeping the back pressure ($P_{\text{back}}$) unchanged, which of the following statements is/are true?\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p23_Q_30_img_1.png)",
+    "type": "m-mcq",
+    "choices": [
+      "Mass flow rate through the nozzle will remain unchanged.",
+      "Mach number at the exit plane of the nozzle will remain unchanged at unity.",
+      "Mass flow rate through the nozzle will increase.",
+      "Mach number at the exit plane of the nozzle will become more than unity."
+    ],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "a962db54-b0db-4c9f-b294-2f1fa62a1605",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          256,
+          375,
+          385,
+          705
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p23_Q_30_img_1.png"
+      }
+    ],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Fluid Mechanics"
+  },
+  {
+    "question_number": "Q.31",
+    "question": "The plane of the figure represents a horizontal plane. A thin rigid rod at rest is pivoted without friction about a fixed vertical axis passing through O. Its mass moment of inertia is equal to $0.1\\text{ kg}\\cdot\\text{cm}^2$ about O. A point mass of $0.001\\text{ kg}$ hits it normally at $200\\text{ cm/s}$ at the location shown, and sticks to it. Immediately after the impact, the angular velocity of the rod is ________ rad/s (*in integer*).\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p24_Q_31_img_1.png)",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "3d4fa0da-80db-4df4-8c08-661a49df63e9",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          270,
+          265,
+          375,
+          788
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p24_Q_31_img_1.png"
+      }
+    ],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Engineering Mechanics"
+  },
+  {
+    "question_number": "Q.32",
+    "question": "A rigid uniform annular disc is pivoted on a knife edge A in a uniform gravitational field as shown, such that it can execute small amplitude simple harmonic motion in the plane of the figure without slip at the pivot point. The inner radius $r$ and outer radius $R$ are such that $r^2 = R^2/2$, and the acceleration due to gravity is $g$. If the time period of small amplitude simple harmonic motion is given by $T = \\beta \\pi \\sqrt{R/g}$, where $\\pi$ is the ratio of circumference to diameter of a circle, then $\\beta = \\text{______}$ *(round off to 2 decimal places)*.\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p25_Q_32_img_1.png)",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "dbadb898-348b-4eec-b9e4-1a8e70b6bb82",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          299,
+          417,
+          430,
+          642
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p25_Q_32_img_1.png"
+      }
+    ],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Theory of Machines"
+  },
+  {
+    "question_number": "Q.33",
+    "question": "Electrochemical machining operations are performed with tungsten as the tool, and copper and aluminum as two different workpiece materials. Properties of copper and aluminum are given in the table below.\n\n| Material | Atomic mass (amu) | Valency | Density (g/cm³) |\n| :--- | :---: | :---: | :---: |\n| Copper | 63 | 2 | 9 |\n| Aluminum | 27 | 3 | 2.7 |\n\nIgnore overpotentials, and assume that current efficiency is 100% for both the workpiece materials. Under identical conditions, if the material removal rate (MRR) of copper is 100 mg/s, the MRR of aluminum will be ______ mg/s *(round off to two decimal places)*.",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "77866ef8-d098-45cd-903c-93f6601cb72a",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Manufacturing Engineering"
+  },
+  {
+    "question_number": "Q.34",
+    "question": "A polytropic process is carried out from an initial pressure of $110\\text{ kPa}$ and volume of $5\\text{ m}^3$ to a final volume of $2.5\\text{ m}^3$. The polytropic index is given by $n = 1.2$. The absolute value of the work done during the process is ________ $\\text{kJ}$ *(round off to 2 decimal places)*.",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "2ba93485-2d1f-4c23-bd4b-804432150c8e",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Thermodynamics"
+  },
+  {
+    "question_number": "Q.35",
+    "question": "A flat plate made of cast iron is exposed to a solar flux of $600\\text{ W/m}^2$ at an ambient temperature of $25\\text{ }^\\circ\\text{C}$. Assume that the entire solar flux is absorbed by the plate.\n\nCast iron has a low temperature absorptivity of $0.21$. Use Stefan-Boltzmann constant $= 5.669 \\times 10^{-8}\\text{ W/m}^2\\text{-K}^4$. Neglect all other modes of heat transfer except radiation.\n\nUnder the aforementioned conditions, the radiation equilibrium temperature of the plate is ________ $^\\circ\\text{C}$ *(round off to the nearest integer)*.",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "3b5719ce-bb79-44c3-9cf7-ea0e20b9e836",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Heat Transfer"
+  },
+  {
+    "question_number": "Q.36",
+    "question": "The value of the integral\n$$\\oint \\left( \\frac{6z}{2z^4 - 3z^3 + 7z^2 - 3z + 5} \\right) dz$$\nevaluated over a counter-clockwise circular contour in the complex plane enclosing only the pole $z = i$, where $i$ is the imaginary unit, is",
+    "type": "mcq",
+    "choices": [
+      "$(-1 + i) \\pi$",
+      "$(1 + i) \\pi$",
+      "$2(1 - i)\\pi$",
+      "$(2 + i)\\pi$"
+    ],
+    "marks": 2,
+    "negativeMarks": 0.66,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "54ff49d4-98c9-404f-a658-6683d659a089",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Engineering Mathematics"
+  },
+  {
+    "question_number": "Q.37",
+    "question": "An L-shaped elastic member ABC with slender arms AB and BC of uniform cross-section is clamped at end A and connected to a pin at end C. The pin remains in continuous contact with and is constrained to move in a smooth horizontal slot. The section modulus of the member is same in both the arms. The end C is subjected to a horizontal force $P$ and all the deflections are in the plane of the figure. Given the length AB is $4a$ and length BC is $a$, the magnitude and direction of the normal force on the pin from the slot, respectively, are\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p28_Q_37_img_1.png)",
+    "type": "mcq",
+    "choices": [
+      "$3P/8$, and downwards",
+      "$5P/8$, and upwards",
+      "$P/4$, and downwards",
+      "$3P/4$, and upwards"
+    ],
+    "marks": 2,
+    "negativeMarks": 0.66,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "b4502955-01e4-4e4a-8ae2-f9752d986d14",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          312,
+          372,
+          435,
+          696
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p28_Q_37_img_1.png"
+      }
+    ],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Strength of Materials"
+  },
+  {
+    "question_number": "Q.38",
+    "question": "A planar four-bar linkage mechanism with 3 revolute kinematic pairs and 1 prismatic kinematic pair is shown in the figure, where AB $\\perp$ CE and FD $\\perp$ CE. The T-shaped link CDEF is constructed such that the slider B can cross the point D, and CE is sufficiently long. For the given lengths as shown, the mechanism is\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p29_Q_38_img_1.png)",
+    "type": "mcq",
+    "choices": [
+      "a Grashof chain with links AG, AB, and CDEF completely rotatable about the ground link FG",
+      "a non-Grashof chain with all oscillating links",
+      "a Grashof chain with AB completely rotatable about the ground link FG, and oscillatory links AG and CDEF",
+      "on the border of Grashof and non-Grashof chains with uncertain configuration(s)"
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "dbadb898-348b-4eec-b9e4-1a8e70b6bb82",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          245,
+          375,
+          500,
+          685
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p29_Q_38_img_1.png"
+      }
+    ],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Theory of Machines"
+  },
+  {
+    "question_number": "Q.39",
+    "question": "Consider a forced single degree-of-freedom system governed by $\\ddot{x}(t) + 2\\zeta\\omega_n\\dot{x}(t) + \\omega_n^2 x(t) = \\omega_n^2 \\cos(\\omega t)$, where $\\zeta$ and $\\omega_n$ are the damping ratio and undamped natural frequency of the system, respectively, while $\\omega$ is the forcing frequency. The amplitude of the forced steady state response of this system is given by $[(1 - r^2)^2 + (2\\zeta r)^2]^{-1/2}$, where $r = \\omega/\\omega_n$. The peak amplitude of this response occurs at a frequency $\\omega = \\omega_p$. If $\\omega_d$ denotes the damped natural frequency of this system, which one of the following options is true?",
+    "type": "mcq",
+    "choices": [
+      "$\\omega_p < \\omega_d < \\omega_n$",
+      "$\\omega_p = \\omega_d < \\omega_n$",
+      "$\\omega_d < \\omega_n = \\omega_p$",
+      "$\\omega_d < \\omega_n < \\omega_p$"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "dbadb898-348b-4eec-b9e4-1a8e70b6bb82",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Theory of Machines"
+  },
+  {
+    "question_number": "Q.40",
+    "question": "A bracket is attached to a vertical column by means of two identical rivets U and V separated by a distance of $2a = 100\\text{ mm}$, as shown in the figure. The permissible shear stress of the rivet material is $50\\text{ MPa}$. If a load $P = 10\\text{ kN}$ is applied at an eccentricity $e = 3\\sqrt{7}\\ a$, the minimum cross-sectional area of each of the rivets to avoid failure is ________ $\\text{mm}^2$.\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p31_Q_40_img_1.png)",
+    "type": "mcq",
+    "choices": [
+      "800",
+      "25",
+      "$100\\sqrt{7}$",
+      "200"
+    ],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "75263634-4926-438e-bff7-1e08e8ccbc03",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          265,
+          395,
+          474,
+          670
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p31_Q_40_img_1.png"
+      }
+    ],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Machine Design"
+  },
+  {
+    "question_number": "Q.41",
+    "question": "In $\\text{Fe-Fe}_3\\text{C}$ phase diagram, the eutectoid composition is 0.8 weight % of carbon at 725 °C. The maximum solubility of carbon in $\\alpha$-ferrite phase is 0.025 weight % of carbon. A steel sample, having no other alloying element except 0.5 weight % of carbon, is slowly cooled from 1000 °C to room temperature. The fraction of pro-eutectoid $\\alpha$-ferrite in the above steel sample at room temperature is",
+    "type": "mcq",
+    "choices": [
+      "0.387",
+      "0.864",
+      "0.475",
+      "0.775"
+    ],
+    "marks": 2,
+    "negativeMarks": 0.66,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "77866ef8-d098-45cd-903c-93f6601cb72a",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Manufacturing Engineering"
+  },
+  {
+    "question_number": "Q.42",
+    "question": "Activities A to K are required to complete a project. The time estimates and the immediate predecessors of these activities are given in the table. If the project is to be completed in the minimum possible time, the latest finish time for the activity G is ____________ hours.\n\n| Activity | Time (hours) | Immediate predecessors |\n| :-: | :-: | :-: |\n| A | 2 | — |\n| B | 3 | — |\n| C | 2 | — |\n| D | 4 | A |\n| E | 5 | B |\n| F | 4 | B |\n| G | 3 | C |\n| H | 10 | D, E |\n| I | 5 | F |\n| J | 8 | G |\n| K | 3 | H, I, J |",
+    "type": "mcq",
+    "choices": [
+      "5",
+      "10",
+      "8",
+      "9"
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "753564e6-0755-405a-b495-1de2d16664dd",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Industrial Engineering"
+  },
+  {
+    "question_number": "Q.43",
+    "question": "A solid spherical bead of lead (uniform density $= 11000\\text{ kg/m}^3$) of diameter $d = 0.1\\text{ mm}$ sinks with a constant velocity $V$ in a large stagnant pool of a liquid (dynamic viscosity $= 1.1 \\times 10^{-3}\\text{ kg}\\cdot\\text{m}^{-1}\\cdot\\text{s}^{-1}$). The coefficient of drag is given by $C_D = \\frac{24}{\\text{Re}}$, where the Reynolds number (Re) is defined on the basis of the diameter of the bead. The drag force acting on the bead is expressed as $D = (C_D)(0.5\\rho V^2)\\left(\\frac{\\pi d^2}{4}\\right)$, where $\\rho$ is the density of the liquid. Neglect the buoyancy force. Using $g = 10\\text{ m/s}^2$, the velocity $V$ is ________ m/s.",
+    "type": "mcq",
+    "choices": [
+      "$\\frac{1}{24}$",
+      "$\\frac{1}{6}$",
+      "$\\frac{1}{18}$",
+      "$\\frac{1}{12}$"
+    ],
+    "marks": 2,
+    "negativeMarks": 0.66,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "a962db54-b0db-4c9f-b294-2f1fa62a1605",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Fluid Mechanics"
+  },
+  {
+    "question_number": "Q.44",
+    "question": "Consider steady, one-dimensional compressible flow of a gas in a pipe of diameter $1\\text{ m}$. At one location in the pipe, the density and velocity are $1\\text{ kg/m}^3$ and $100\\text{ m/s}$, respectively. At a downstream location in the pipe, the velocity is $170\\text{ m/s}$. If the pressure drop between these two locations is $10\\text{ kPa}$, the force exerted by the gas on the pipe between these two locations is ________ N.",
+    "type": "mcq",
+    "choices": [
+      "$350\\pi^2$",
+      "$750\\pi$",
+      "$1000\\pi$"
+    ],
+    "marks": 2,
+    "negativeMarks": 0.66,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "a962db54-b0db-4c9f-b294-2f1fa62a1605",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Fluid Mechanics"
+  },
+  {
+    "question_number": "Q.45",
+    "question": "Consider a rod of uniform thermal conductivity whose one end ($x = 0$) is insulated and the other end ($x = L$) is exposed to flow of air at temperature $T_\\infty$ with convective heat transfer coefficient $h$. The cylindrical surface of the rod is insulated so that the heat transfer is strictly along the axis of the rod. The rate of internal heat generation per unit volume inside the rod is given as\n$$\\dot{q} = \\cos \\frac{2\\pi x}{L} .$$\nThe steady state temperature at the mid-location of the rod is given as $T_A$. What will be the temperature at the same location, if the convective heat transfer coefficient increases to $2h$?",
+    "type": "mcq",
+    "choices": [
+      "$T_A + \\frac{\\dot{q} L}{2h}$",
+      "$2T_A$",
+      "$T_A$",
+      "$T_A \\left( 1 - \\frac{\\dot{q} L}{4\\pi h} \\right) + \\frac{\\dot{q} L}{4\\pi h} T_\\infty$"
+    ],
+    "marks": 2,
+    "negativeMarks": 0.67,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "3b5719ce-bb79-44c3-9cf7-ea0e20b9e836",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Heat Transfer"
+  },
+  {
+    "question_number": "Q.46",
+    "question": "The system of linear equations in real $(x, y)$ given by\n\n$$\\begin{pmatrix} x & y \\end{pmatrix} \\begin{bmatrix} 2 & 5 - 2\\alpha \\\\ \\alpha & 1 \\end{bmatrix} = \\begin{pmatrix} 0 & 0 \\end{pmatrix}$$\n\ninvolves a real parameter $\\alpha$ and has infinitely many non-trivial solutions for special value(s) of $\\alpha$. Which one or more among the following options is/are non-trivial solution(s) of $(x, y)$ for such special value(s) of $\\alpha$?",
+    "type": "m-mcq",
+    "choices": [
+      "$x = 2, \\quad y = -2$",
+      "$x = -1, \\quad y = 4$",
+      "$x = 1, \\quad y = 1$",
+      "$x = 4, \\quad y = -2$"
+    ],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "54ff49d4-98c9-404f-a658-6683d659a089",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Engineering Mathematics"
+  },
+  {
+    "question_number": "Q.47",
+    "question": "Let a random variable $X$ follow Poisson distribution such that\n\n$$\\text{Prob}(X = 1) = \\text{Prob}(X = 2).$$\n\nThe value of $\\text{Prob}(X = 3)$ is ________ (round off to 2 decimal places).",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "54ff49d4-98c9-404f-a658-6683d659a089",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Engineering Mathematics"
+  },
+  {
+    "question_number": "Q.48",
+    "question": "Consider two vectors:\n$$\\vec{a} = 5\\mathbf{i} + 7\\mathbf{j} + 2\\mathbf{k}$$\n$$\\vec{b} = 3\\mathbf{i} - \\mathbf{j} + 6\\mathbf{k}$$\nMagnitude of the component of $\\vec{a}$ orthogonal to $\\vec{b}$ in the plane containing the vectors $\\vec{a}$ and $\\vec{b}$ is ________ *(round off to 2 decimal places)*.",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "54ff49d4-98c9-404f-a658-6683d659a089",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Engineering Mathematics"
+  },
+  {
+    "question_number": "Q.49",
+    "question": "A structure, along with the loads applied on it, is shown in the figure. Self-weight of all the members is negligible and all the pin joints are friction-less. AE is a single member that contains pin C. Likewise, BE is a single member that contains pin D. Members GI and FH are overlapping rigid members. The magnitude of the force carried by member CI is ________ kN *(in integer)*.\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p38_Q_49_img_1.png)",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "3d4fa0da-80db-4df4-8c08-661a49df63e9",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          557,
+          209,
+          762,
+          856
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p38_Q_49_img_1.png"
+      }
+    ],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Engineering Mechanics"
+  },
+  {
+    "question_number": "50",
+    "question": "Two rigid massless rods PR and RQ are joined at frictionless pin-joint R and are resting on ground at P and Q, respectively, as shown in the figure. A vertical force $F$ acts on the pin R as shown. When the included angle $\\theta < 90^\\circ$, the rods remain in static equilibrium due to Coulomb friction between the rods and ground at locations P and Q. At $\\theta = 90^\\circ$, impending slip occurs simultaneously at points P and Q. Then the ratio of the coefficient of friction at Q to that at P $(\\mu_Q/\\mu_P)$ is _________ *(round off to two decimal places)*.\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p39_50_img_1.png)",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "3d4fa0da-80db-4df4-8c08-661a49df63e9",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          283,
+          240,
+          440,
+          830
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p39_50_img_1.png"
+      }
+    ],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Engineering Mechanics"
+  },
+  {
+    "question_number": "Q.51",
+    "question": "A cylindrical disc of mass $m = 1\\text{ kg}$ and radius $r = 0.15\\text{ m}$ was spinning at $\\omega = 5\\text{ rad/s}$ when it was placed on a flat horizontal surface and released (refer to the figure). Gravity $g$ acts vertically downwards as shown in the figure. The coefficient of friction between the disc and the surface is finite and positive. Disregarding any other dissipation except that due to friction between the disc and the surface, the horizontal velocity of the center of the disc, when it starts rolling without slipping, will be ________ m/s *(round off to 2 decimal places)*.\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p40_Q_51_img_1.png)",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "3d4fa0da-80db-4df4-8c08-661a49df63e9",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          290,
+          395,
+          388,
+          672
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p40_Q_51_img_1.png"
+      }
+    ],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Engineering Mechanics"
+  },
+  {
+    "question_number": "Q.52",
+    "question": "A thin-walled cylindrical pressure vessel has mean wall thickness of $t$ and nominal radius of $r$. The Poisson’s ratio of the wall material is $1/3$. When it was subjected to some internal pressure, its nominal perimeter in the cylindrical portion increased by $0.1\\%$ and the corresponding wall thickness became $\\bar{t}$. The corresponding change in the wall thickness of the cylindrical portion, i.e. $100 \\times (\\bar{t} - t)/t$, is ________ % *(round off to 3 decimal places)*.",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "b4502955-01e4-4e4a-8ae2-f9752d986d14",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Strength of Materials"
+  },
+  {
+    "question_number": "Q.53",
+    "question": "A schematic of an epicyclic gear train is shown in the figure. The sun (gear 1) and planet (gear 2) are external, and the ring gear (gear 3) is internal. Gear 1, gear 3 and arm OP are pivoted to the ground at O. Gear 2 is carried on the arm OP via the pivot joint at P, and is in mesh with the other two gears. Gear 2 has 20 teeth and gear 3 has 80 teeth. If gear 1 is kept fixed at 0 rpm and gear 3 rotates at 900 rpm counter clockwise (ccw), the magnitude of angular velocity of arm OP is _________ rpm (in integer).\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p41_Q_53_img_1.png)",
+    "type": "numerical",
+    "choices": [],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "dbadb898-348b-4eec-b9e4-1a8e70b6bb82",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          334,
+          363,
+          582,
+          703
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p41_Q_53_img_1.png"
+      }
+    ],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Theory of Machines"
+  },
+  {
+    "question_number": "Q.54",
+    "question": "Under orthogonal cutting condition, a turning operation is carried out on a metallic workpiece at a cutting speed of 4 m/s. The orthogonal rake angle of the cutting tool is $5^\\circ$. The uncut chip thickness and width of cut are 0.2 mm and 3 mm, respectively. In this turning operation, the resulting friction angle and shear angle are $45^\\circ$ and $25^\\circ$, respectively. If the dynamic yield shear strength of the workpiece material under this cutting condition is 1000 MPa, then the cutting force is _________ N (round off to one decimal place).",
+    "type": "numerical",
+    "choices": [],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "77866ef8-d098-45cd-903c-93f6601cb72a",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Manufacturing Engineering"
+  },
+  {
+    "question_number": "Q.55",
+    "question": "A 1 mm thick cylindrical tube, 100 mm in diameter, is orthogonally turned such that the entire wall thickness of the tube is cut in a single pass. The axial feed of the tool is 1 m/minute and the specific cutting energy ($u$) of the tube material is",
+    "type": "numerical",
+    "choices": [],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "77866ef8-d098-45cd-903c-93f6601cb72a",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Manufacturing Engineering"
+  },
+  {
+    "question_number": "Q.56",
+    "question": "A 4 mm thick aluminum sheet of width $w = 100\\text{ mm}$ is rolled in a two-roll mill of roll diameter $200\\text{ mm}$ each. The workpiece is lubricated with a mineral oil, which gives a coefficient of friction, $\\mu = 0.1$. The flow stress ($\\sigma$) of the material in MPa is $\\sigma = 207 + 414\\varepsilon$, where $\\varepsilon$ is the true strain. Assuming rolling to be a plane strain deformation process, the roll separation force ($F$) for maximum permissible draft (thickness reduction) is ________ kN (*round off to the nearest integer*).\n\nUse:\n$$F = 1.15\\bar{\\sigma} \\left(1 + \\frac{\\mu L}{2\\bar{h}}\\right) wL$$\nwhere $\\bar{\\sigma}$ is average flow stress, $L$ is roll-workpiece contact length, and $\\bar{h}$ is the average sheet thickness.",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "77866ef8-d098-45cd-903c-93f6601cb72a",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Manufacturing Engineering"
+  },
+  {
+    "question_number": "Q.57",
+    "question": "Two mild steel plates of similar thickness, in butt-joint configuration, are welded by gas tungsten arc welding process using the following welding parameters.\n\n| Parameter | Value |\n|---|---|\n| Welding voltage | 20 V |\n| Welding current | 150 A |\n| Welding speed | 5 mm/s |\n\nA filler wire of the same mild steel material having 3 mm diameter is used in this welding process. The filler wire feed rate is selected such that the final weld bead is composed of 60% volume of filler and 40% volume of plate material. The heat required to melt the mild steel material is $10\\text{ J/mm}^3$. The heat transfer factor is 0.7 and melting factor is 0.6. The feed rate of the filler wire is ________ mm/s (*round off to one decimal place*).",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "77866ef8-d098-45cd-903c-93f6601cb72a",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Manufacturing Engineering"
+  },
+  {
+    "question_number": "Q.59",
+    "question": "The product structure diagram shows the number of different components required at each level to produce one unit of the final product P. If there are 50 units of on-hand inventory of component A, the number of additional units of component A needed to produce 10 units of product P is _________ (in integer).\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p43_Q_59_img_q59.png)",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "753564e6-0755-405a-b495-1de2d16664dd",
+    "images": [
+      {
+        "box_id": "img_q59",
+        "box": [
+          380,
+          265,
+          610,
+          770
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p43_Q_59_img_q59.png"
+      }
+    ],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Industrial Engineering"
+  },
+  {
+    "question_number": "Q.60",
+    "question": "Consider a one-dimensional steady heat conduction process through a solid slab of thickness 0.1 m. The higher temperature side A has a surface temperature of 80 °C, and the heat transfer rate per unit area to low temperature side B is 4.5 kW/m$^2$. The thermal conductivity of the slab is 15 W/m.K. The rate of entropy generation per unit area during the heat transfer process is _________ W/m$^2$.K (round off to 2 decimal places).",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "3b5719ce-bb79-44c3-9cf7-ea0e20b9e836",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Heat Transfer"
+  },
+  {
+    "question_number": "Q.61",
+    "question": "In a steam power plant based on Rankine cycle, steam is initially expanded in a high-pressure turbine. The steam is then reheated in a reheater and finally expanded in a low-pressure turbine. The expansion work in the high-pressure turbine is $400\\text{ kJ/kg}$ and in the low-pressure turbine is $850\\text{ kJ/kg}$, whereas the pump work is $15\\text{ kJ/kg}$. If the cycle efficiency is $32\\%$, the heat rejected in the condenser is ____________ $\\text{kJ/kg}$ (*round off to 2 decimal places*).",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "2ba93485-2d1f-4c23-bd4b-804432150c8e",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Thermodynamics"
+  },
+  {
+    "question_number": "Q.62",
+    "question": "An engine running on an air standard Otto cycle has a displacement volume $250\\text{ cm}^3$ and a clearance volume $35.7\\text{ cm}^3$. The pressure and temperature at the beginning of the compression process are $100\\text{ kPa}$ and $300\\text{ K}$, respectively. Heat transfer during constant-volume heat addition process is $800\\text{ kJ/kg}$. The specific heat at constant volume is $0.718\\text{ kJ/kg.K}$ and the ratio of specific heats at constant pressure and constant volume is $1.4$. Assume the specific heats to remain constant during the cycle. The maximum pressure in the cycle is ____________ $\\text{kPa}$ (*round off to the nearest integer*).",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "2ba93485-2d1f-4c23-bd4b-804432150c8e",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Thermodynamics"
+  },
+  {
+    "question_number": "Q.63",
+    "question": "A steady two-dimensional flow field is specified by the stream function\n\n$$\\psi = k x^3 y,$$\n\nwhere $x$ and $y$ are in meter and the constant $k = 1\\text{ m}^{-2}\\text{s}^{-1}$. The magnitude of acceleration at a point $(x, y) = (1\\text{ m}, 1\\text{ m})$ is ____________ $\\text{m/s}^2$ (*round off to 2 decimal places*).",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "a962db54-b0db-4c9f-b294-2f1fa62a1605",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Fluid Mechanics"
+  },
+  {
+    "question_number": "Q.64",
+    "question": "Consider a solid slab (thermal conductivity, $k = 10\\text{ W}\\cdot\\text{m}^{-1}\\cdot\\text{K}^{-1}$) with thickness $0.2\\text{ m}$ and of infinite extent in the other two directions as shown in the figure. Surface 2, at $300\\text{ K}$, is exposed to a fluid flow at a free stream temperature ($T_\\infty$) of $293\\text{ K}$, with a convective heat transfer coefficient ($h$) of $100\\text{ W}\\cdot\\text{m}^{-2}\\cdot\\text{K}^{-1}$. Surface 2 is opaque, diffuse and gray with an emissivity ($\\varepsilon$) of $0.5$ and exchanges heat by radiation with very large surroundings at $0\\text{ K}$. Radiative heat transfer inside the solid slab is neglected. The Stefan-Boltzmann constant is $5.67 \\times 10^{-8}\\text{ W}\\cdot\\text{m}^{-2}\\cdot\\text{K}^{-4}$. The temperature $T_1$ of Surface 1 of the slab, under steady-state conditions, is ________ K (round off to the nearest integer).\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p45_Q_64_img_1.png)",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "3b5719ce-bb79-44c3-9cf7-ea0e20b9e836",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          600,
+          210,
+          766,
+          860
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p45_Q_64_img_1.png"
+      }
+    ],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Heat Transfer"
+  },
+  {
+    "question_number": "Q.65",
+    "question": "During open-heart surgery, a patient’s blood is cooled down to 25 °C from 37 °C using a concentric tube counter-flow heat exchanger. Water enters the heat exchanger at 4 °C and leaves at 18 °C. Blood flow rate during the surgery is 5 L/minute.\n\nUse the following fluid properties:\n\n| Fluid | Density (kg/m³) | Specific heat (J/kg-K) |\n| :--- | :---: | :---: |\n| Blood | 1050 | 3740 |\n| Water | 1000 | 4200 |\n\nEffectiveness of the heat exchanger is ________ *(round off to 2 decimal places)*.",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "3b5719ce-bb79-44c3-9cf7-ea0e20b9e836",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Heat Transfer"
+  },
+  {
+    "question_number": "Q.1",
+    "question": "Writing too many things on the ________ while teaching could make the students get ________.",
+    "type": "mcq",
+    "choices": [
+      "bored / board",
+      "board / bored",
+      "board / board",
+      "bored / bored"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "d82ad3b0-e5ca-4407-91d6-ab1653f3f02e",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "General Aptitude"
+  },
+  {
+    "question_number": "Q.2",
+    "question": "Which one of the following is a representation (not to scale and in bold) of all values of $x$ satisfying the inequality $2 - 5x \\le - \\frac{6x-5}{3}$ on the real number line?",
+    "type": "mcq",
+    "choices": [
+      "![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p51_Q_2_img_a.png)",
+      "![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p51_Q_2_img_b.png)",
+      "![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p51_Q_2_img_c.png)",
+      "![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p51_Q_2_img_d.png)"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "d82ad3b0-e5ca-4407-91d6-ab1653f3f02e",
+    "images": [
+      {
+        "box_id": "img_a",
+        "box": [
+          300,
+          228,
+          345,
+          540
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p51_Q_2_img_a.png"
+      },
+      {
+        "box_id": "img_b",
+        "box": [
+          390,
+          228,
+          435,
+          540
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p51_Q_2_img_b.png"
+      },
+      {
+        "box_id": "img_c",
+        "box": [
+          476,
+          228,
+          525,
+          540
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p51_Q_2_img_c.png"
+      },
+      {
+        "box_id": "img_d",
+        "box": [
+          567,
+          228,
+          616,
+          540
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p51_Q_2_img_d.png"
+      }
+    ],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "General Aptitude"
+  },
+  {
+    "question_number": "Q.3",
+    "question": "If $f(x) = 2 \\ln(\\sqrt{e^x})$, what is the area bounded by $f(x)$ for the interval $[0, 2]$ on the $x$-axis?",
+    "type": "mcq",
+    "choices": [
+      "$\\frac{1}{2}$",
+      "$1$",
+      "$2$",
+      "$4$"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "54ff49d4-98c9-404f-a658-6683d659a089",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Engineering Mathematics"
+  },
+  {
+    "question_number": "Q.4",
+    "question": "A person was born on the fifth Monday of February in a particular year.\n\nWhich one of the following statements is correct based on the above information?",
+    "type": "mcq",
+    "choices": [
+      "The 2<sup>nd</sup> February of that year is a Tuesday",
+      "There will be five Sundays in the month of February in that year",
+      "The 1<sup>st</sup> February of that year is a Sunday",
+      "All Mondays of February in that year have even dates"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "d82ad3b0-e5ca-4407-91d6-ab1653f3f02e",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "General Aptitude"
+  },
+  {
+    "question_number": "Q.5",
+    "question": "![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p54_Q_5_img_top.png)\n\nWhich one of the groups given below can be assembled to get the shape that is shown above using each piece only once without overlapping with each other? (rotation and translation operations may be used).",
+    "type": "mcq",
+    "choices": [
+      "![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p54_Q_5_img_a.png)",
+      "![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p54_Q_5_img_b.png)",
+      "![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p54_Q_5_img_c.png)",
+      "![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p54_Q_5_img_d.png)"
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "d82ad3b0-e5ca-4407-91d6-ab1653f3f02e",
+    "images": [
+      {
+        "box_id": "img_top",
+        "box": [
+          132,
+          466,
+          232,
+          624
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p54_Q_5_img_top.png"
+      },
+      {
+        "box_id": "img_a",
+        "box": [
+          343,
+          219,
+          456,
+          377
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p54_Q_5_img_a.png"
+      },
+      {
+        "box_id": "img_b",
+        "box": [
+          477,
+          219,
+          591,
+          377
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p54_Q_5_img_b.png"
+      },
+      {
+        "box_id": "img_c",
+        "box": [
+          612,
+          219,
+          725,
+          377
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p54_Q_5_img_c.png"
+      },
+      {
+        "box_id": "img_d",
+        "box": [
+          746,
+          219,
+          860,
+          377
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p54_Q_5_img_d.png"
+      }
+    ],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "General Aptitude"
+  },
+  {
+    "question_number": "Q.6",
+    "question": "Fish belonging to species S in the deep sea have skins that are extremely black (ultra-black skin). This helps them not only to avoid predators but also sneakily attack their prey. However, having this extra layer of black pigment results in lower collagen on their skin, making their skin more fragile.\n\nWhich one of the following is the CORRECT logical inference based on the information in the above passage?",
+    "type": "mcq",
+    "choices": [
+      "Having ultra-black skin is only advantageous to species S",
+      "Species S with lower collagen in their skin are at an advantage because it helps them avoid predators",
+      "Having ultra-black skin has both advantages and disadvantages to species S",
+      "Having ultra-black skin is only disadvantageous to species S but advantageous only to their predators"
+    ],
+    "marks": 2,
+    "negativeMarks": 0.66,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "d82ad3b0-e5ca-4407-91d6-ab1653f3f02e",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "General Aptitude"
+  },
+  {
+    "question_number": "Q.7",
+    "question": "For the past $m$ days, the average daily production at a company was 100 units per day.\n\nIf today's production of 180 units changes the average to 110 units per day, what is the value of $m$?",
+    "type": "mcq",
+    "choices": [
+      "18",
+      "10",
+      "7",
+      "5"
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "d82ad3b0-e5ca-4407-91d6-ab1653f3f02e",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "General Aptitude"
+  },
+  {
+    "question_number": "Q.8",
+    "question": "Consider the following functions for non-zero positive integers, $p$ and $q$.\n\n$$f(p, q) = \\underbrace{p \\times p \\times p \\times \\dots \\dots \\times p}_{q \\text{ terms}} = p^q; \\quad f(p, 1) = p$$\n\n$$g(p, q) = p^{p^{p^{\\cdot^{\\cdot^{\\cdot}} \\text{(up to } q \\text{ terms)}}}}; \\quad g(p, 1) = p$$\n\nWhich one of the following options is correct based on the above?",
+    "type": "mcq",
+    "choices": [
+      "$f(2,2) = g(2,2)$",
+      "$f(g(2,2), 2) < f(2, g(2,2))$",
+      "$g(2,1) \\neq f(2,1)$",
+      "$f(3,2) > g(3,2)$"
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "d82ad3b0-e5ca-4407-91d6-ab1653f3f02e",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "General Aptitude"
+  },
+  {
+    "question_number": "Q.9",
+    "question": "Four cities P, Q, R and S are connected through one-way routes as shown in the figure. The travel time between any two connected cities is one hour. The boxes beside each city name describe the starting time of first train of the day and their frequency of operation. For example, from city P, the first trains of the day start at 8 AM with a frequency of 90 minutes to each of R and S. A person does not spend additional time at any city other than the waiting time for the next connecting train.\n\nIf the person starts from R at 7 AM and is required to visit S and return to R, what is the minimum time required?\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p58_Q_9_img_1.png)",
+    "type": "mcq",
+    "choices": [
+      "6 hours 30 minutes",
+      "3 hours 45 minutes",
+      "4 hours 30 minutes",
+      "5 hours 15 minutes"
+    ],
+    "marks": 2,
+    "negativeMarks": 0.67,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "d82ad3b0-e5ca-4407-91d6-ab1653f3f02e",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          415,
+          368,
+          638,
+          716
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p58_Q_9_img_1.png"
+      }
+    ],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "General Aptitude"
+  },
+  {
+    "question_number": "Q.10",
+    "question": "Equal sized circular regions are shaded in a square sheet of paper of $1\\text{ cm}$ side length. Two cases, case M and case N, are considered as shown in the figures below. In the case M, four circles are shaded in the square sheet and in the case N, nine circles are shaded in the square sheet as shown.\n\nWhat is the ratio of the areas of unshaded regions of case M to that of case N?\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p59_Q_10_img_1.png)",
+    "type": "mcq",
+    "choices": [
+      "2 : 3",
+      "1 : 1",
+      "3 : 2",
+      "2 : 1"
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "d82ad3b0-e5ca-4407-91d6-ab1653f3f02e",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          305,
+          390,
+          425,
+          700
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p59_Q_10_img_1.png"
+      }
+    ],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "General Aptitude"
+  },
+  {
+    "question_number": "Q.11",
+    "question": "$F(t)$ is a periodic square wave function as shown. It takes only two values, 4 and 0, and stays at each of these values for 1 second before changing. What is the constant term in the Fourier series expansion of $F(t)$?\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p60_Q_11_img_1.png)",
+    "type": "mcq",
+    "choices": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "54ff49d4-98c9-404f-a658-6683d659a089",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          295,
+          250,
+          439,
+          810
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p60_Q_11_img_1.png"
+      }
+    ],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Engineering Mathematics"
+  },
+  {
+    "question_number": "Q.12",
+    "question": "Consider a cube of unit edge length and sides parallel to co-ordinate axes, with its centroid at the point $(1, 2, 3)$. The surface integral $\\int_A \\vec{F} \\cdot d\\vec{A}$ of a vector field $\\vec{F} = 3x\\hat{i} + 5y\\hat{j} + 6z\\hat{k}$ over the entire surface $A$ of the cube is ________.",
+    "type": "mcq",
+    "choices": [
+      "14",
+      "27",
+      "28",
+      "31"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "54ff49d4-98c9-404f-a658-6683d659a089",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Engineering Mathematics"
+  },
+  {
+    "question_number": "Q.13",
+    "question": "Consider the definite integral\n$$\\int_{1}^{2} (4x^2 + 2x + 6)dx.$$\nLet $I_e$ be the exact value of the integral. If the same integral is estimated using Simpson's rule with 10 equal subintervals, the value is $I_s$. The percentage error is defined as $e = 100 \\times (I_e - I_s)/I_e$. The value of $e$ is",
+    "type": "mcq",
+    "choices": [
+      "2.5",
+      "3.5",
+      "1.2",
+      "0"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "54ff49d4-98c9-404f-a658-6683d659a089",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Engineering Mathematics"
+  },
+  {
+    "question_number": "Q.14",
+    "question": "Given $\\int_{-\\infty}^{\\infty} e^{-x^2} dx = \\sqrt{\\pi}$.\nIf $a$ and $b$ are positive integers, the value of $\\int_{-\\infty}^{\\infty} e^{-a(x+b)^2} dx$ is ________.",
+    "type": "mcq",
+    "choices": [
+      "$\\sqrt{\\pi a}$",
+      "$\\sqrt{\\frac{\\pi}{a}}$",
+      "$b\\sqrt{\\pi a}$",
+      "$b\\sqrt{\\frac{\\pi}{a}}$"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "54ff49d4-98c9-404f-a658-6683d659a089",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Engineering Mathematics"
+  },
+  {
+    "question_number": "Q.15",
+    "question": "A polynomial $\\varphi(s) = a_n s^n + a_{n-1} s^{n-1} + \\dots + a_1 s + a_0$ of degree $n > 3$ with constant real coefficients $a_n, a_{n-1}, \\dots a_0$ has triple roots at $s = -\\sigma$. Which one of the following conditions must be satisfied?",
+    "type": "mcq",
+    "choices": [
+      "$\\varphi(s) = 0$ at all the three values of $s$ satisfying $s^3 + \\sigma^3 = 0$",
+      "$\\varphi(s) = 0, \\frac{d\\varphi(s)}{ds} = 0$, and $\\frac{d^2\\varphi(s)}{ds^2} = 0$ at $s = -\\sigma$",
+      "$\\varphi(s) = 0, \\frac{d^2\\varphi(s)}{ds^2} = 0$, and $\\frac{d^4\\varphi(s)}{ds^4} = 0$ at $s = -\\sigma$",
+      "$\\varphi(s) = 0$, and $\\frac{d^3\\varphi(s)}{ds^3} = 0$ at $s = -\\sigma$"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "54ff49d4-98c9-404f-a658-6683d659a089",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Engineering Mathematics"
+  },
+  {
+    "question_number": "Q.16",
+    "question": "Which one of the following is the definition of ultimate tensile strength (UTS) obtained from a stress-strain test on a metal specimen?",
+    "type": "mcq",
+    "choices": [
+      "Stress value where the stress-strain curve transitions from elastic to plastic behavior",
+      "The maximum load attained divided by the original cross-sectional area",
+      "The maximum load attained divided by the corresponding instantaneous cross-sectional area",
+      "Stress where the specimen fractures"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "b4502955-01e4-4e4a-8ae2-f9752d986d14",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Strength of Materials"
+  },
+  {
+    "question_number": "Q.17",
+    "question": "A massive uniform rigid circular disc is mounted on a frictionless bearing at the end E of a massive uniform rigid shaft AE which is suspended horizontally in a uniform gravitational field by two identical light inextensible strings AB and CD as shown, where G is the center of mass of the shaft-disc assembly and $g$ is the acceleration due to gravity. The disc is then given a rapid spin $\\omega$ about its axis in the positive x-axis direction as shown, while the shaft remains at rest. The direction of rotation is defined by using the right-hand thumb rule. If the string AB is suddenly cut, assuming negligible energy dissipation, the shaft AE will\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p64_Q_17_img_1.png)",
+    "type": "mcq",
+    "choices": [
+      "rotate slowly (compared to $\\omega$) about the negative z-axis direction",
+      "rotate slowly (compared to $\\omega$) about the positive z-axis direction",
+      "rotate slowly (compared to $\\omega$) about the positive y-axis direction",
+      "rotate slowly (compared to $\\omega$) about the negative y-axis direction"
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "dbadb898-348b-4eec-b9e4-1a8e70b6bb82",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          305,
+          280,
+          520,
+          780
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p64_Q_17_img_1.png"
+      }
+    ],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Theory of Machines"
+  },
+  {
+    "question_number": "Q.18",
+    "question": "A structural member under loading has a uniform state of plane stress which in usual notations is given by $\\sigma_x = 3P$, $\\sigma_y = -2P$ and $\\tau_{xy} = \\sqrt{2} P$, where $P > 0$. The yield strength of the material is 350 MPa. If the member is designed using the maximum distortion energy theory, then the value of $P$ at which yielding starts (according to the maximum distortion energy theory) is",
+    "type": "mcq",
+    "choices": [
+      "70 MPa",
+      "90 MPa",
+      "120 MPa",
+      "75 MPa"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "b4502955-01e4-4e4a-8ae2-f9752d986d14",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Strength of Materials"
+  },
+  {
+    "question_number": "Q.19",
+    "question": "Fluidity of a molten alloy during sand casting depends on its solidification range. The phase diagram of a hypothetical binary alloy of components A and B is shown in the figure with its eutectic composition and temperature. All the lines in this phase diagram, including the solidus and liquidus lines, are straight lines. If this binary alloy with 15 weight % of B is poured into a mould at a pouring temperature of 800 °C, then the solidification range is\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p66_Q_19_img_1.png)",
+    "type": "mcq",
+    "choices": [
+      "400 °C",
+      "250 °C",
+      "800 °C",
+      "150 °C"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "77866ef8-d098-45cd-903c-93f6601cb72a",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          259,
+          198,
+          641,
+          804
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p66_Q_19_img_1.png"
+      }
+    ],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Manufacturing Engineering"
+  },
+  {
+    "question_number": "Q.20",
+    "question": "A shaft of diameter $25_{-0.07}^{-0.04}\\text{ mm}$ is assembled in a hole of diameter $25_{-0.00}^{+0.02}\\text{ mm}$.\nMatch the allowance and limit parameter in Column I with its corresponding quantitative value in Column II for this shaft-hole assembly.\n\n| Allowance and limit parameter (Column I) | Quantitative value (Column II) |\n| :--- | :--- |\n| P. Allowance | 1. 0.09 mm |\n| Q. Maximum clearance | 2. 24.96 mm |\n| R. Maximum material limit for hole | 3. 0.04 mm |\n| | 4. 25.0 mm |",
+    "type": "mcq",
+    "choices": [
+      "P-3, Q-1, R-4",
+      "P-1, Q-3, R-2",
+      "P-1, Q-3, R-4",
+      "P-3, Q-1, R-2"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "77866ef8-d098-45cd-903c-93f6601cb72a",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Manufacturing Engineering"
+  },
+  {
+    "question_number": "Q.21",
+    "question": "Match the additive manufacturing technique in Column I with its corresponding input material in Column II.\n\n| Additive manufacturing technique (Column I) | Input material (Column II) |\n|---|---|\n| P. Fused deposition modelling | 1. Photo sensitive liquid resin |\n| Q. Laminated object manufacturing | 2. Heat fusible powder |\n| R. Selective laser sintering | 3. Filament of polymer |\n| | 4. Sheet of thermoplastic or green compacted metal sheet |",
+    "type": "mcq",
+    "choices": [
+      "P-3, Q-4, R-2",
+      "P-1, Q-2, R-4",
+      "P-2, Q-3, R-1",
+      "P-4, Q-1, R-4"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "77866ef8-d098-45cd-903c-93f6601cb72a",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Manufacturing Engineering"
+  },
+  {
+    "question_number": "Q.22",
+    "question": "Which one of the following **CANNOT** impart linear motion in a CNC machine?",
+    "type": "mcq",
+    "choices": [
+      "Linear motor",
+      "Ball screw",
+      "Lead screw",
+      "Chain and sprocket"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "77866ef8-d098-45cd-903c-93f6601cb72a",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Manufacturing Engineering"
+  },
+  {
+    "question_number": "Q.23",
+    "question": "Which one of the following is an intensive property of a thermodynamic system?",
+    "type": "mcq",
+    "choices": [
+      "Mass",
+      "Density",
+      "Energy",
+      "Volume"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "2ba93485-2d1f-4c23-bd4b-804432150c8e",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Thermodynamics"
+  },
+  {
+    "question_number": "Q.24",
+    "question": "Consider a steady flow through a horizontal divergent channel, as shown in the figure, with supersonic flow at the inlet. The direction of flow is from left to right.\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p70_Q_24_img_1.png)\n\nPressure at location B is observed to be higher than that at an upstream location A. Which among the following options can be the reason?",
+    "type": "mcq",
+    "choices": [
+      "Since volume flow rate is constant, velocity at B is lower than velocity at A",
+      "Normal shock",
+      "Viscous effect",
+      "Boundary layer separation"
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "a962db54-b0db-4c9f-b294-2f1fa62a1605",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          230,
+          360,
+          342,
+          682
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p70_Q_24_img_1.png"
+      }
+    ],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Fluid Mechanics"
+  },
+  {
+    "question_number": "Q.25",
+    "question": "Which of the following non-dimensional terms is an estimate of Nusselt number?",
+    "type": "mcq",
+    "choices": [
+      "Ratio of internal thermal resistance of a solid to the boundary layer thermal resistance",
+      "Ratio of the rate at which internal energy is advected to the rate of conduction heat transfer",
+      "Non-dimensional temperature gradient",
+      "Non-dimensional velocity gradient multiplied by Prandtl number"
+    ],
+    "marks": 1,
+    "negativeMarks": 0.33,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "3b5719ce-bb79-44c3-9cf7-ea0e20b9e836",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Heat Transfer"
+  },
+  {
+    "question_number": "Q.26",
+    "question": "A square plate is supported in four different ways (configurations (P) to (S) as shown in the figure). A couple moment $C$ is applied on the plate. Assume all the members to be rigid and mass-less, and all joints to be frictionless. All support links of the plate are identical.\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p72_Q_26_img_1.png)\n\nThe square plate can remain in equilibrium in its initial state for which one or more of the following support configurations?",
+    "type": "m-mcq",
+    "choices": [
+      "Configuration (P)",
+      "Configuration (Q)",
+      "Configuration (R)",
+      "Configuration (S)"
+    ],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "3d4fa0da-80db-4df4-8c08-661a49df63e9",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          238,
+          191,
+          382,
+          865
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p72_Q_26_img_1.png"
+      }
+    ],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Engineering Mechanics"
+  },
+  {
+    "question_number": "Q.27",
+    "question": "Consider sand casting of a cube of edge length $a$. A cylindrical riser is placed at the top of the casting. Assume solidification time, $t_s \\propto V/A$, where $V$ is the volume and $A$ is the total surface area dissipating heat. If the top of the riser is insulated, which of the following radius/radii of riser is/are acceptable?",
+    "type": "m-mcq",
+    "choices": [
+      "$\\frac{a}{3}$",
+      "$\\frac{a}{2}$",
+      "$\\frac{a}{4}$",
+      "$\\frac{a}{6}$"
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "77866ef8-d098-45cd-903c-93f6601cb72a",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Manufacturing Engineering"
+  },
+  {
+    "question_number": "Q.28",
+    "question": "Which of these processes involve(s) melting in metallic workpieces?",
+    "type": "m-mcq",
+    "choices": [
+      "Electrochemical machining",
+      "Electric discharge machining",
+      "Laser beam machining",
+      "Electron beam machining"
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "77866ef8-d098-45cd-903c-93f6601cb72a",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Manufacturing Engineering"
+  },
+  {
+    "question_number": "Q.29",
+    "question": "The velocity field in a fluid is given to be $\\vec{V} = (4xy)\\hat{i} + 2(x^2 - y^2)\\hat{j}$. Which of the following statement(s) is/are correct?",
+    "type": "m-mcq",
+    "choices": [
+      "The velocity field is one-dimensional.",
+      "The flow is incompressible.",
+      "The flow is irrotational.",
+      "The acceleration experienced by a fluid particle is zero at $(x = 0, y = 0)$."
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "a962db54-b0db-4c9f-b294-2f1fa62a1605",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Fluid Mechanics"
+  },
+  {
+    "question_number": "Q.30",
+    "question": "A rope with two mass-less platforms at its two ends passes over a fixed pulley as shown in the figure. Discs with narrow slots and having equal weight of 20 N each can be placed on the platforms. The number of discs placed on the left side platform is $n$ and that on the right side platform is $m$.\n\nIt is found that for $n = 5$ and $m = 0$, a force $F = 200\\text{ N}$ (refer to part (i) of the figure) is just sufficient to initiate upward motion of the left side platform. If the force $F$ is removed then the minimum value of $m$ (refer to part (ii) of the figure) required to prevent downward motion of the left side platform is ________ (in integer).\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p75_Q_30_img_1.png)",
+    "type": "numerical",
+    "choices": [],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "3d4fa0da-80db-4df4-8c08-661a49df63e9",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          325,
+          235,
+          560,
+          840
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p75_Q_30_img_1.png"
+      }
+    ],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Engineering Mechanics"
+  },
+  {
+    "question_number": "Q.31",
+    "question": "For a dynamical system governed by the equation,\n$$\\ddot{x}(t) + 2\\zeta\\omega_n\\dot{x}(t) + \\omega_n^2 x(t) = 0,$$\n\nthe damping ratio $\\zeta$ is equal to $\\frac{1}{2\\pi}\\log_e 2$. The displacement $x$ of this system is measured during a hammer test. A displacement peak in the positive displacement direction is measured to be $4\\text{ mm}$. Neglecting higher powers ($>1$) of the damping ratio, the displacement at the next peak in the positive direction will be ________ $\\text{mm}$ (in integer).",
+    "type": "numerical",
+    "choices": [],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "dbadb898-348b-4eec-b9e4-1a8e70b6bb82",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Theory of Machines"
+  },
+  {
+    "question_number": "Q.32",
+    "question": "An electric car manufacturer underestimated the January sales of car by 20 units, while the actual sales was 120 units. If the manufacturer uses exponential smoothing method with a smoothing constant of $\\alpha = 0.2$, then the sales forecast for the month of February of the same year is ________ units *(in integer)*.",
+    "type": "numerical",
+    "choices": [],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "753564e6-0755-405a-b495-1de2d16664dd",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Industrial Engineering"
+  },
+  {
+    "question_number": "Q.33",
+    "question": "The demand of a certain part is 1000 parts/year and its cost is ₹1000/part. The orders are placed based on the economic order quantity (EOQ). The cost of ordering is ₹100/order and the lead time for receiving the orders is 5 days. If the holding cost is ₹20/part/year, the inventory level for placing the orders is ________ parts *(round off to the nearest integer)*.",
+    "type": "numerical",
+    "choices": [],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "753564e6-0755-405a-b495-1de2d16664dd",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Industrial Engineering"
+  },
+  {
+    "question_number": "Q.34",
+    "question": "Consider 1 kg of an ideal gas at 1 bar and 300 K contained in a rigid and perfectly insulated container. The specific heat of the gas at constant volume $c_v$ is equal to $750\\text{ J}\\cdot\\text{kg}^{-1}\\cdot\\text{K}^{-1}$. A stirrer performs 225 kJ of work on the gas. Assume that the container does not participate in the thermodynamic interaction. The final pressure of the gas will be ________ bar *(in integer)*.",
+    "type": "numerical",
+    "choices": [],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "2ba93485-2d1f-4c23-bd4b-804432150c8e",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Thermodynamics"
+  },
+  {
+    "question_number": "Q.35",
+    "question": "Wien's law is stated as follows: $\\lambda_m T = C$, where $C$ is $2898 \\text{ } \\mu\\text{m}\\cdot\\text{K}$ and $\\lambda_m$ is the wavelength at which the emissive power of a black body is maximum for a given temperature $T$. The spectral hemispherical emissivity ($\\varepsilon_\\lambda$) of a surface is shown in the figure below ($1\\text{\\AA} = 10^{-10}\\text{m}$). The temperature at which the total hemispherical emissivity will be highest is _________ K *(round off to the nearest integer)*.\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p77_Q_35_img_1.png)",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "3b5719ce-bb79-44c3-9cf7-ea0e20b9e836",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          348,
+          388,
+          498,
+          686
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p77_Q_35_img_1.png"
+      }
+    ],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Heat Transfer"
+  },
+  {
+    "question_number": "Q.36",
+    "question": "For the exact differential equation,\n\n$$\\frac{du}{dx} = \\frac{-xu^2}{2+x^2u},$$\n\nwhich one of the following is the solution?",
+    "type": "mcq",
+    "choices": [
+      "$u^2 + 2x^2 = \\text{constant}$",
+      "$xu^2 + u = \\text{constant}$",
+      "$\\frac{1}{2}x^2u^2 + 2u = \\text{constant}$",
+      "$\\frac{1}{2}ux^2 + 2x = \\text{constant}$"
+    ],
+    "marks": 2,
+    "negativeMarks": 0.67,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "54ff49d4-98c9-404f-a658-6683d659a089",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Engineering Mathematics"
+  },
+  {
+    "question_number": "Q.37",
+    "question": "A rigid homogeneous uniform block of mass $1\\text{ kg}$, height $h = 0.4\\text{ m}$ and width $b = 0.3\\text{ m}$ is pinned at one corner and placed upright in a uniform gravitational field ($g = 9.81\\text{ m/s}^2$), supported by a roller in the configuration shown in the figure. A short duration (impulsive) force $F$, producing an impulse $I_F$, is applied at a height of $d = 0.3\\text{ m}$ from the bottom as shown. Assume all joints to be frictionless. The minimum value of $I_F$ required to topple the block is\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p79_Q_37_img_1.png)",
+    "type": "mcq",
+    "choices": [
+      "0.953 Ns",
+      "1.403 Ns",
+      "0.814 Ns",
+      "1.172 Ns"
+    ],
+    "marks": 2,
+    "negativeMarks": 0.66,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "3d4fa0da-80db-4df4-8c08-661a49df63e9",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          316,
+          388,
+          481,
+          696
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p79_Q_37_img_1.png"
+      }
+    ],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Engineering Mechanics"
+  },
+  {
+    "question_number": "Q.38",
+    "question": "A linear elastic structure under plane stress condition is subjected to two sets of loading, I and II. The resulting states of stress at a point corresponding to these two loadings are as shown in the figure below. If these two sets of loading are applied simultaneously, then the net normal component of stress $\\sigma_{xx}$ is __________.\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p80_Q_38_img_1.png)",
+    "type": "mcq",
+    "choices": [
+      "$3\\sigma/2$",
+      "$\\sigma(1 + 1/\\sqrt{2})$",
+      "$\\sigma/2$",
+      "$\\sigma(1 - 1/\\sqrt{2})$"
+    ],
+    "marks": 2,
+    "negativeMarks": 0.66,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "b4502955-01e4-4e4a-8ae2-f9752d986d14",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          254,
+          290,
+          386,
+          768
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p80_Q_38_img_1.png"
+      }
+    ],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Strength of Materials"
+  },
+  {
+    "question_number": "Q.39",
+    "question": "A rigid body in the **X-Y** plane consists of two point masses (1 kg each) attached to the ends of two massless rods, each of 1 cm length, as shown in the figure. It rotates at 30 RPM counter-clockwise about the **Z**-axis passing through point O. A point mass of $\\sqrt{2}\\text{ kg}$, attached to one end of a third massless rod, is used for balancing the body by attaching the free end of the rod to point O. The length of the third rod is ________ cm.\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p81_Q_39_img_1.png)",
+    "type": "mcq",
+    "choices": [
+      "1",
+      "$\\sqrt{2}$",
+      "$1/\\sqrt{2}$",
+      "$1/2\\sqrt{2}$"
+    ],
+    "marks": 2,
+    "negativeMarks": 0.67,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "dbadb898-348b-4eec-b9e4-1a8e70b6bb82",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          295,
+          410,
+          445,
+          655
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p81_Q_39_img_1.png"
+      }
+    ],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Theory of Machines"
+  },
+  {
+    "question_number": "Q.40",
+    "question": "A spring mass damper system (mass $m$, stiffness $k$, and damping coefficient $c$) excited by a force $F(t) = B \\sin \\omega t$, where $B$, $\\omega$ and $t$ are the amplitude, frequency and time, respectively, is shown in the figure. Four different responses of the system (marked as (i) to (iv)) are shown just to the right of the system figure. In the figures of the responses, $A$ is the amplitude of response shown in red color and the dashed lines indicate its envelope. The responses represent only the qualitative trend and those are not drawn to any specific scale.\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p82_Q_40_img_1.png)\n\nFour different parameter and forcing conditions are mentioned below.\n(P) $c > 0$ and $\\omega = \\sqrt{k/m}$\n(Q) $c < 0$ and $\\omega \\neq 0$\n(R) $c = 0$ and $\\omega = \\sqrt{k/m}$\n(S) $c = 0$ and $\\omega \\cong \\sqrt{k/m}$\n\nWhich one of the following options gives correct match (indicated by arrow $\\rightarrow$) of the parameter and forcing conditions to the responses?",
+    "type": "mcq",
+    "choices": [
+      "(P) $\\rightarrow$ (i), (Q) $\\rightarrow$ (iii), (R) $\\rightarrow$ (iv), (S) $\\rightarrow$ (ii)",
+      "(P) $\\rightarrow$ (ii), (Q) $\\rightarrow$ (iii), (R) $\\rightarrow$ (iv), (S) $\\rightarrow$ (i)",
+      "(P) $\\rightarrow$ (i), (Q) $\\rightarrow$ (iv), (R) $\\rightarrow$ (ii), (S) $\\rightarrow$ (iii)",
+      "(P) $\\rightarrow$ (iii), (Q) $\\rightarrow$ (iv), (R) $\\rightarrow$ (ii), (S) $\\rightarrow$ (i)"
+    ],
+    "marks": 2,
+    "negativeMarks": 0.67,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "dbadb898-348b-4eec-b9e4-1a8e70b6bb82",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          275,
+          200,
+          534,
+          873
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p82_Q_40_img_1.png"
+      }
+    ],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Theory of Machines"
+  },
+  {
+    "question_number": "Q.41",
+    "question": "Parts P1-P7 are machined first on a milling machine and then polished at a separate machine. Using the information in the following table, the minimum total completion time required for carrying out both the operations for all 7 parts is ________ hours.\n\n| Part | Milling (hours) | Polishing (hours) |\n| :---: | :---: | :---: |\n| P1 | 8 | 6 |\n| P2 | 3 | 2 |\n| P3 | 3 | 4 |\n| P4 | 4 | 6 |\n| P5 | 5 | 7 |\n| P6 | 6 | 4 |\n| P7 | 2 | 1 |",
+    "type": "mcq",
+    "choices": [
+      "31",
+      "33",
+      "30",
+      "32"
+    ],
+    "marks": 2,
+    "negativeMarks": 0.66,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "753564e6-0755-405a-b495-1de2d16664dd",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Industrial Engineering"
+  },
+  {
+    "question_number": "Q.42",
+    "question": "A manufacturing unit produces two products P1 and P2. For each piece of P1 and P2, the table below provides quantities of materials M1, M2, and M3 required, and also the profit earned. The maximum quantity available per day for M1, M2 and M3 is also provided. The maximum possible profit per day is ₹________.\n\n| | M1 | M2 | M3 | Profit per piece (₹) |\n| :--- | :---: | :---: | :---: | :---: |\n| **P1** | 2 | 2 | 0 | 150 |\n| **P2** | 3 | 1 | 2 | 100 |\n| **Maximum quantity available per day** | 70 | 50 | 40 | |",
+    "type": "mcq",
+    "choices": [
+      "5000",
+      "4000",
+      "3000",
+      "6000"
+    ],
+    "marks": 2,
+    "negativeMarks": 0.66,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "753564e6-0755-405a-b495-1de2d16664dd",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Industrial Engineering"
+  },
+  {
+    "question_number": "Q.43",
+    "question": "A tube of uniform diameter $D$ is immersed in a steady flowing inviscid liquid stream of velocity $V$, as shown in the figure. Gravitational acceleration is represented by $g$. The volume flow rate through the tube is ______.\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p85_Q_43_img_1.png)",
+    "type": "mcq",
+    "choices": [
+      "$\\frac{\\pi}{4} D^2 V$",
+      "$\\frac{\\pi}{4} D^2 \\sqrt{2gh_2}$",
+      "$\\frac{\\pi}{4} D^2 \\sqrt{2g(h_1 + h_2)}$",
+      "$\\frac{\\pi}{4} D^2 \\sqrt{V^2 - 2gh_2}$"
+    ],
+    "marks": 1,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "a962db54-b0db-4c9f-b294-2f1fa62a1605",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          265,
+          310,
+          430,
+          765
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p85_Q_43_img_1.png"
+      }
+    ],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Fluid Mechanics"
+  },
+  {
+    "question_number": "Q.44",
+    "question": "The steady velocity field in an inviscid fluid of density 1.5 is given to be $\\vec{V} = (y^2 - x^2)\\hat{i} + (2xy)\\hat{j}$. Neglecting body forces, the pressure gradient at $(x = 1, y = 1)$ is ________.",
+    "type": "mcq",
+    "choices": [
+      "$10\\hat{j}$",
+      "$20\\hat{i}$",
+      "$-6\\hat{i} - 6\\hat{j}$",
+      "$-4\\hat{i} - 4\\hat{j}$"
+    ],
+    "marks": 2,
+    "negativeMarks": 0.66,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "a962db54-b0db-4c9f-b294-2f1fa62a1605",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Fluid Mechanics"
+  },
+  {
+    "question_number": "Q.45",
+    "question": "In a vapour compression refrigeration cycle, the refrigerant enters the compressor in saturated vapour state at evaporator pressure, with specific enthalpy equal to $250\\text{ kJ/kg}$. The exit of the compressor is superheated at condenser pressure with specific enthalpy equal to $300\\text{ kJ/kg}$. At the condenser exit, the refrigerant is throttled to the evaporator pressure. The coefficient of performance (COP) of the cycle is 3. If the specific enthalpy of the saturated liquid at evaporator pressure is $50\\text{ kJ/kg}$, then the dryness fraction of the refrigerant at entry to evaporator is ________.",
+    "type": "mcq",
+    "choices": [
+      "0.2",
+      "0.25",
+      "0.3",
+      "0.35"
+    ],
+    "marks": 2,
+    "negativeMarks": 0.66,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "2ba93485-2d1f-4c23-bd4b-804432150c8e",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Thermodynamics"
+  },
+  {
+    "question_number": "Q.46",
+    "question": "A is a $3 \\times 5$ real matrix of rank 2. For the set of homogeneous equations $\\mathbf{Ax} = \\mathbf{0}$, where $\\mathbf{0}$ is a zero vector and $\\mathbf{x}$ is a vector of unknown variables, which of the following is/are true?",
+    "type": "m-mcq",
+    "choices": [
+      "The given set of equations will have a unique solution.",
+      "The given set of equations will be satisfied by a zero vector of appropriate size.",
+      "The given set of equations will have infinitely many solutions.",
+      "The given set of equations will have many but a finite number of solutions."
+    ],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "54ff49d4-98c9-404f-a658-6683d659a089",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Engineering Mathematics"
+  },
+  {
+    "question_number": "Q.47",
+    "question": "The lengths of members BC and CE in the frame shown in the figure are equal. All the members are rigid and lightweight, and the friction at the joints is negligible. Two forces of magnitude $Q > 0$ are applied as shown, each at the mid-length of the respective member on which it acts.\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p88_Q_47_img_1.png)\n\nWhich one or more of the following members do not carry any load (force)?",
+    "type": "m-mcq",
+    "choices": [
+      "AB",
+      "CD",
+      "EF",
+      "GH"
+    ],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "3d4fa0da-80db-4df4-8c08-661a49df63e9",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          242,
+          404,
+          432,
+          665
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p88_Q_47_img_1.png"
+      }
+    ],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Engineering Mechanics"
+  },
+  {
+    "question_number": "Q.48",
+    "question": "If the sum and product of eigenvalues of a $2 \\times 2$ real matrix $\\begin{bmatrix} 3 & p \\\\ p & q \\end{bmatrix}$ are 4 and $-1$ respectively, then $|p|$ is ________ (in integer).",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "54ff49d4-98c9-404f-a658-6683d659a089",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Engineering Mathematics"
+  },
+  {
+    "question_number": "Q.49",
+    "question": "Given $z = x + iy, i = \\sqrt{-1}$. $C$ is a circle of radius 2 with the centre at the origin. If the contour $C$ is traversed anticlockwise, then the value of the integral\n$$\\frac{1}{2\\pi} \\int_C \\frac{1}{(z-i)(z+4i)} dz$$ is ________ (round off to one decimal place).",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "54ff49d4-98c9-404f-a658-6683d659a089",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Engineering Mathematics"
+  },
+  {
+    "question_number": "Q.50",
+    "question": "A shaft of length $L$ is made of two materials, one in the inner core and the other in the outer rim, and the two are perfectly joined together (no slip at the interface) along the entire length of the shaft. The diameter of the inner core is $d_i$ and the external diameter of the rim is $d_o$, as shown in the figure. The modulus of rigidity of the core and rim materials are $G_i$ and $G_o$, respectively. It is given that $d_o = 2d_i$ and $G_i = 3G_o$. When the shaft is twisted by application of a torque along the shaft axis, the maximum shear stress developed in the outer rim and the inner core turn out to be $\\tau_o$ and $\\tau_i$, respectively. All the deformations are in the elastic range and stress-strain relations are linear. Then the ratio $\\tau_i/\\tau_o$ is ________ (round off to 2 decimal places).\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p89_Q_50_img_1.png)",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "b4502955-01e4-4e4a-8ae2-f9752d986d14",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          554,
+          437,
+          719,
+          630
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p89_Q_50_img_1.png"
+      }
+    ],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Strength of Materials"
+  },
+  {
+    "question_number": "Q.51",
+    "question": "A rigid beam AD of length $3a = 6\\text{ m}$ is hinged at frictionless pin joint A and supported by two strings as shown in the figure. String BC passes over two small frictionless pulleys of negligible radius. All the strings are made of the same material and have equal cross-sectional area. A force $F = 9\\text{ kN}$ is applied at C and the resulting stresses in the strings are within linear elastic limit. The self-weight of the beam is negligible with respect to the applied load. Assuming small deflections, the tension developed in the string at C is ________ kN *(round off to 2 decimal places)*.\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p90_Q_51_img_1.png)",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "b4502955-01e4-4e4a-8ae2-f9752d986d14",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          292,
+          312,
+          458,
+          750
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p90_Q_51_img_1.png"
+      }
+    ],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Strength of Materials"
+  },
+  {
+    "question_number": "Q.52",
+    "question": "In the configuration of the planar four-bar mechanism at a certain instant as shown in the figure, the angular velocity of the $2\\text{ cm}$ long link is $\\omega_2 = 5\\text{ rad/s}$. Given the dimensions as shown, the magnitude of the angular velocity $\\omega_4$ of the $4\\text{ cm}$ long link is given by ________ rad/s *(round off to 2 decimal places)*.\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p90_Q_52_img_2.png)",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "dbadb898-348b-4eec-b9e4-1a8e70b6bb82",
+    "images": [
+      {
+        "box_id": "img_2",
+        "box": [
+          681,
+          310,
+          830,
+          750
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p90_Q_52_img_2.png"
+      }
+    ],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Theory of Machines"
+  },
+  {
+    "question_number": "Q.53",
+    "question": "A shaft AC rotating at a constant speed carries a thin pulley of radius $r = 0.4\\text{ m}$ at the end C which drives a belt. A motor is coupled at the end A of the shaft such that it applies a torque $M_z$ about the shaft axis without causing any bending moment. The shaft is mounted on narrow frictionless bearings at A and B where $\\text{AB} = \\text{BC} = L = 0.5\\text{ m}$. The taut and slack side tensions of the belt are $T_1 = 300\\text{ N}$ and $T_2 = 100\\text{ N}$, respectively. The allowable shear stress for the shaft material is $80\\text{ MPa}$. The self-weights of the pulley and the shaft are negligible. Use the value of $\\pi$ available in the *on-screen virtual calculator*. Neglecting shock and fatigue loading and assuming maximum shear stress theory, the minimum required shaft diameter is ________ mm (*round off to 2 decimal places*).\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p91_Q_53_img_1.png)",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "75263634-4926-438e-bff7-1e08e8ccbc03",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          404,
+          271,
+          546,
+          798
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p91_Q_53_img_1.png"
+      }
+    ],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Machine Design"
+  },
+  {
+    "question_number": "Q.54",
+    "question": "A straight-teeth horizontal slab milling cutter is shown in the figure. It has 4 teeth and diameter ($D$) of $200\\text{ mm}$. The rotational speed of the cutter is $100\\text{ rpm}$ and the linear feed given to the workpiece is $1000\\text{ mm/minute}$. The width of the workpiece ($w$) is $100\\text{ mm}$, and the entire width is milled in a single pass of the cutter. The cutting force/tooth is given by $F = K t_c w$, where specific cutting force $K = 10\\text{ N/mm}^2$, $w$ is the width of cut, and $t_c$ is the uncut chip thickness.\n\nThe depth of cut ($d$) is $D/2$, and hence the assumption of $\\frac{d}{D} \\ll 1$ is invalid. The maximum cutting force required is ________ $\\text{kN}$ *(round off to one decimal place)*.\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p92_Q_54_img_1.png)",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "77866ef8-d098-45cd-903c-93f6601cb72a",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          333,
+          269,
+          489,
+          794
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p92_Q_54_img_1.png"
+      }
+    ],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Manufacturing Engineering"
+  },
+  {
+    "question_number": "Q.55",
+    "question": "In an orthogonal machining operation, the cutting and thrust forces are equal in magnitude. The uncut chip thickness is $0.5\\text{ mm}$ and the shear angle is $15^\\circ$. The orthogonal rake angle of the tool is $0^\\circ$ and the width of cut is $2\\text{ mm}$. The workpiece material is perfectly plastic and its yield shear strength is $500\\text{ MPa}$. The cutting force is ________ $\\text{N}$ *(round off to the nearest integer)*.",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "77866ef8-d098-45cd-903c-93f6601cb72a",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Manufacturing Engineering"
+  },
+  {
+    "question_number": "Q.56",
+    "question": "The best size wire is fitted in a groove of a metric screw such that the wire touches the flanks of the thread on the pitch line as shown in the figure. The pitch ($p$) and included angle of the thread are $4\\text{ mm}$ and $60^\\circ$, respectively. The diameter of the best size wire is ________ $\\text{mm}$ *(round off to 2 decimal places)*.\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p93_Q_56_img_1.png)",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "77866ef8-d098-45cd-903c-93f6601cb72a",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          248,
+          301,
+          416,
+          775
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p93_Q_56_img_1.png"
+      }
+    ],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Manufacturing Engineering"
+  },
+  {
+    "question_number": "Q.57",
+    "question": "In a direct current arc welding process, the power source has an open circuit voltage of $100\\text{ V}$ and short circuit current of $1000\\text{ A}$. Assume a linear relationship between voltage and current. The arc voltage ($V$) varies with the arc length ($l$) as $V = 10 + 5l$, where $V$ is in volts and $l$ is in mm. The maximum available arc power during the process is ________ $\\text{kVA}$ *(in integer)*.",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "77866ef8-d098-45cd-903c-93f6601cb72a",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Manufacturing Engineering"
+  },
+  {
+    "question_number": "Q.58",
+    "question": "A cylindrical billet of $100\\text{ mm}$ diameter and $100\\text{ mm}$ length is extruded by a direct extrusion process to produce a bar of L-section. The cross sectional dimensions of this L-section bar are shown in the figure. The total extrusion pressure ($p$) in MPa for the above process is related to extrusion ratio ($r$) as\n\n$$p = K_s \\sigma_m \\left[ 0.8 + 1.5 \\ln (r) + \\frac{2l}{d_o} \\right],$$\n\nwhere $\\sigma_m$ is the mean flow strength of the billet material in MPa, $l$ is the portion of the billet length remaining to be extruded in mm, $d_o$ is the initial diameter of the billet in mm, and $K_s$ is the die shape factor.\n\nIf the mean flow strength of the billet material is $50\\text{ MPa}$ and the die shape factor is $1.05$, then the maximum force required at the start of extrusion is ________ kN *(round off to one decimal place)*.\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p94_Q_58_img_1.png)",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "77866ef8-d098-45cd-903c-93f6601cb72a",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          427,
+          348,
+          663,
+          725
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p94_Q_58_img_1.png"
+      }
+    ],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Manufacturing Engineering"
+  },
+  {
+    "question_number": "Q.59",
+    "question": "A project consists of five activities (A, B, C, D and E). The duration of each activity follows beta distribution. The three time estimates (in weeks) of each activity and immediate predecessor(s) are listed in the table. The expected time of the project completion is ______ weeks *(in integer)*.\n\n| Activity | Optimistic time | Most likely time | Pessimistic time | Immediate predecessor(s) |\n| :---: | :---: | :---: | :---: | :---: |\n| A | 4 | 5 | 6 | None |\n| B | 1 | 3 | 5 | A |\n| C | 1 | 2 | 3 | A |\n| D | 2 | 4 | 6 | C |\n| E | 3 | 4 | 5 | B, D |",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "753564e6-0755-405a-b495-1de2d16664dd",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Industrial Engineering"
+  },
+  {
+    "question_number": "Q.60",
+    "question": "A rigid tank of volume of $8\\text{ m}^3$ is being filled up with air from a pipeline connected through a valve. Initially the valve is closed and the tank is assumed to be completely evacuated. The air pressure and temperature inside the pipeline are maintained at $600\\text{ kPa}$ and $306\\text{ K}$, respectively. The filling of the tank begins by opening the valve and the process ends when the tank pressure is equal to the pipeline pressure. During the filling process, heat loss to the surrounding is $1000\\text{ kJ}$. The specific heats of air at constant pressure and at constant volume are $1.005\\text{ kJ/kg.K}$ and $0.718\\text{ kJ/kg.K}$, respectively. Neglect changes in kinetic energy and potential energy.\n\nThe final temperature of the tank after the completion of the filling process is ______ K *(round off to the nearest integer)*.",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "2ba93485-2d1f-4c23-bd4b-804432150c8e",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Thermodynamics"
+  },
+  {
+    "question_number": "Q.61",
+    "question": "At steady state, 500 kg/s of steam enters a turbine with specific enthalpy equal to 3500 kJ/kg and specific entropy equal to $6.5\\text{ kJ}\\cdot\\text{kg}^{-1}\\cdot\\text{K}^{-1}$. It expands reversibly in the turbine to the condenser pressure. Heat loss occurs reversibly in the turbine at a temperature of 500 K. If the exit specific enthalpy and specific entropy are 2500 kJ/kg and $6.3\\text{ kJ}\\cdot\\text{kg}^{-1}\\cdot\\text{K}^{-1}$, respectively, the work output from the turbine is ________ MW (*in integer*).",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "2ba93485-2d1f-4c23-bd4b-804432150c8e",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Thermodynamics"
+  },
+  {
+    "question_number": "Q.62",
+    "question": "A uniform wooden rod (specific gravity $= 0.6$, diameter $= 4\\text{ cm}$ and length $= 8\\text{ m}$) is immersed in the water and is hinged without friction at point A on the waterline as shown in the figure. A solid spherical ball made of lead (specific gravity $= 11.4$) is attached to the free end of the rod to keep the assembly in static equilibrium inside the water. For simplicity, assume that the radius of the ball is much smaller than the length of the rod.\n\nAssume density of water $= 10^3\\text{ kg/m}^3$ and $\\pi = 3.14$.\n\nRadius of the ball is ________ cm (*round off to 2 decimal places*).\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p96_Q_62_img_1.png)",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "a962db54-b0db-4c9f-b294-2f1fa62a1605",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          622,
+          339,
+          773,
+          731
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p96_Q_62_img_1.png"
+      }
+    ],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Fluid Mechanics"
+  },
+  {
+    "question_number": "Q.63",
+    "question": "Consider steady state, one-dimensional heat conduction in an infinite slab of thickness $2L$ ($L = 1\\text{ m}$) as shown in the figure. The conductivity ($k$) of the material varies with temperature as $k = CT$, where $T$ is the temperature in K, and $C$ is a constant equal to $2\\text{ W}\\cdot\\text{m}^{-1}\\cdot\\text{K}^{-2}$. There is a uniform heat generation of $1280\\text{ kW/m}^3$ in the slab. If both faces of the slab are maintained at $600\\text{ K}$, then the temperature at $x = 0$ is _________ K *(in integer)*.\n\n![img](https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p97_Q_63_img_1.png)",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "3b5719ce-bb79-44c3-9cf7-ea0e20b9e836",
+    "images": [
+      {
+        "box_id": "img_1",
+        "box": [
+          290,
+          390,
+          450,
+          675
+        ],
+        "local_path": "https://raw.githubusercontent.com/gecwyd/gate-questions/main/2022/me/p1/images/p97_Q_63_img_1.png"
+      }
+    ],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Heat Transfer"
+  },
+  {
+    "question_number": "Q.64",
+    "question": "Saturated vapor at $200\\text{ }^\\circ\\text{C}$ condenses to saturated liquid at the rate of $150\\text{ kg/s}$ on the shell side of a heat exchanger (enthalpy of condensation $h_{fg} = 2400\\text{ kJ/kg}$). A fluid with $c_p = 4\\text{ kJ}\\cdot\\text{kg}^{-1}\\cdot\\text{K}^{-1}$ enters at $100\\text{ }^\\circ\\text{C}$ on the tube side. If the effectiveness of the heat exchanger is 0.9, then the mass flow rate of the fluid in the tube side is _________ kg/s *(in integer)*.",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "3b5719ce-bb79-44c3-9cf7-ea0e20b9e836",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Heat Transfer"
+  },
+  {
+    "question_number": "Q.65",
+    "question": "Consider a hydrodynamically and thermally fully-developed, steady fluid flow of $1\\text{ kg/s}$ in a uniformly heated pipe with diameter of $0.1\\text{ m}$ and length of $40\\text{ m}$. A constant heat flux of magnitude $15000\\text{ W/m}^2$ is imposed on the outer surface of the pipe. The bulk-mean temperature of the fluid at the entrance to the pipe is $200\\text{ }^\\circ\\text{C}$. The Reynolds number ($\\text{Re}$) of the flow is $85000$, and the Prandtl number ($\\text{Pr}$) of the fluid is $5$. The thermal conductivity and the specific heat of the fluid are $0.08\\text{ W}\\cdot\\text{m}^{-1}\\cdot\\text{K}^{-1}$ and $2600\\text{ J}\\cdot\\text{kg}^{-1}\\cdot\\text{K}^{-1}$, respectively. The correlation $\\text{Nu} = 0.023\\text{ Re}^{0.8}\\text{ Pr}^{0.4}$ is applicable, where the Nusselt Number ($\\text{Nu}$) is defined on the basis of the pipe diameter. The pipe surface temperature at the exit is ____________ $^\\circ\\text{C}$ (*round off to the nearest integer*).",
+    "type": "numerical",
+    "choices": [],
+    "marks": 2,
+    "negativeMarks": 0,
+    "subject": "77b669fa-8e4c-44fe-81c8-1f9e2b820fa1",
+    "topic": "3b5719ce-bb79-44c3-9cf7-ea0e20b9e836",
+    "images": [],
+    "subject_name": "Mechanical Engineering",
+    "topic_name": "Heat Transfer"
+  }
+]
